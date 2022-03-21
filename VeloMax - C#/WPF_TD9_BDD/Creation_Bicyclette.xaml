@@ -1,0 +1,29 @@
+﻿<Window x:Class="WPF_TD9_BDD.Creation_Bicyclette"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_TD9_BDD"
+        mc:Ignorable="d"
+        Title="Creation_Bicyclette" Height="450" Width="800">
+    <Grid>
+
+        <Label Content="Veuillez entrer id_byclette" HorizontalAlignment="Left" Height="33" VerticalAlignment="Top" Width="206" Margin="271,21,0,0"/>
+        <Label Content="Veuillez entrer votre nom" HorizontalAlignment="Left" Height="33" VerticalAlignment="Top" Width="206" Visibility="Hidden"/>
+        <Label Content="Veuillez entrer num_model" HorizontalAlignment="Left" Height="33" Margin="271,74,0,0" VerticalAlignment="Top" Width="206"/>
+        <Label Content="Veuillez entrer nom_bicyclette" HorizontalAlignment="Left" Height="33" Margin="271,127,0,0" VerticalAlignment="Top" Width="206"/>
+        <Label Content="Veuillez entrer prix_unitaire_bicyclette" HorizontalAlignment="Left" Height="33" Margin="271,226,0,0" VerticalAlignment="Top" Width="256"/>
+        <Button Content="Valider" HorizontalAlignment="Left" Margin="343,355,0,0" VerticalAlignment="Top" Width="75" Background="#FF28BF19" RenderTransformOrigin="-0.355,-2.073" Click = "Valider"/>
+        <TextBox x:Name="Cid_byclette" HorizontalAlignment="Left" Height="20" Margin="271,54,0,0" TextWrapping="Wrap" Text="id_byclette" VerticalAlignment="Top" Width="134"/>
+        <TextBox x:Name="Cnum_model" HorizontalAlignment="Left" Height="20" Margin="271,107,0,0" TextWrapping="Wrap" Text="num_model" VerticalAlignment="Top" Width="134" RenderTransformOrigin="0.033,-3.479"/>
+        <TextBox x:Name="Cnom_bicyclette" HorizontalAlignment="Left" Height="20" Margin="271,160,0,0" TextWrapping="Wrap" Text="nom_bicyclette" VerticalAlignment="Top" Width="134" />
+        <TextBox x:Name="Cprix_unitaire_bicyclette" HorizontalAlignment="Left" Height="20" Margin="271,259,0,0" TextWrapping="Wrap" Text="prix_unitaire_bicyclette" VerticalAlignment="Top" Width="134" RenderTransformOrigin="0.631,0.44" />
+        <Label Content="Veuillez entrer grandeur_bicyclette" HorizontalAlignment="Left" Height="33" Margin="271,180,0,0" VerticalAlignment="Top" Width="256"/>
+        <TextBox x:Name="Cgrandeur" HorizontalAlignment="Left" Height="20" Margin="271,206,0,0" TextWrapping="Wrap" Text="grandeur_bicyclette" VerticalAlignment="Top" Width="134" />
+        <Label Content="Veuillez entrer prix_unitaire_bicyclette" HorizontalAlignment="Left" Height="33" Margin="271,282,0,0" VerticalAlignment="Top" Width="256"/>
+        <TextBox x:Name="Cligne_produit_bicyclette" HorizontalAlignment="Left" Height="20" Margin="271,315,0,0" TextWrapping="Wrap" Text="ligne_produit_bicyclette" VerticalAlignment="Top" Width="134" RenderTransformOrigin="0.631,0.44"  />
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="397" Margin="231,10,0,0" VerticalAlignment="Top" Width="296"/>
+        <Button Content="Retour" HorizontalAlignment="Left" Height="17" Margin="645,388,0,0" VerticalAlignment="Top" Width="60" Click="Button_Click"/>
+
+    </Grid>
+</Window>

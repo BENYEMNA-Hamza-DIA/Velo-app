@@ -1,0 +1,12 @@
+utilisateur en lecture seule:
+
+id : user-reader
+
+mdp : mdp-reader
+
+
+utilisateur en lecture et écriture:
+
+id : user-writter
+
+mdp : mdp-writter

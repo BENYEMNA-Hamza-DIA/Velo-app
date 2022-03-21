@@ -1,0 +1,374 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table>
+    <id_bicyclette>BRD3459</id_bicyclette>
+    <num_modele_bicyclette>108</num_modele_bicyclette>
+    <nom_bicyclette>BlueJay</nom_bicyclette>
+    <grandeur_bicyclette>Dames</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>2459</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>Vélo de course</ligne_produit_bicyclette>
+  </Table>
+  <Table>
+    <id_bicyclette>BRD3999</id_bicyclette>
+    <num_modele_bicyclette>108</num_modele_bicyclette>
+    <nom_bicyclette>BlueJay</nom_bicyclette>
+    <grandeur_bicyclette>Dames</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>2449</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>Vélo de course</ligne_produit_bicyclette>
+  </Table>
+  <Table>
+    <id_bicyclette>BRH3652</id_bicyclette>
+    <num_modele_bicyclette>107</num_modele_bicyclette>
+    <nom_bicyclette>BlueJay</nom_bicyclette>
+    <grandeur_bicyclette>Hommes</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>2149</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>Vélo de course</ligne_produit_bicyclette>
+  </Table>
+  <Table>
+    <id_bicyclette>BRH4347</id_bicyclette>
+    <num_modele_bicyclette>107</num_modele_bicyclette>
+    <nom_bicyclette>BlueJay</nom_bicyclette>
+    <grandeur_bicyclette>Hommes</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>2449</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>Vélo de course</ligne_produit_bicyclette>
+    <num_commande>2</num_commande>
+  </Table>
+  <Table>
+    <id_bicyclette>BRH4857</id_bicyclette>
+    <num_modele_bicyclette>107</num_modele_bicyclette>
+    <nom_bicyclette>BlueJay</nom_bicyclette>
+    <grandeur_bicyclette>Hommes</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>2459</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>Vélo de course</ligne_produit_bicyclette>
+  </Table>
+  <Table>
+    <id_bicyclette>CD2594</id_bicyclette>
+    <num_modele_bicyclette>113</num_modele_bicyclette>
+    <nom_bicyclette>Tierra Verde</nom_bicyclette>
+    <grandeur_bicyclette>Dames</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>399</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>Classique</ligne_produit_bicyclette>
+  </Table>
+  <Table>
+    <id_bicyclette>HTA2456</id_bicyclette>
+    <num_modele_bicyclette>104</num_modele_bicyclette>
+    <nom_bicyclette>Hooligan</nom_bicyclette>
+    <grandeur_bicyclette>Jeunes</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>699</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>VTT</ligne_produit_bicyclette>
+  </Table>
+  <Table>
+    <id_bicyclette>HTA2546</id_bicyclette>
+    <num_modele_bicyclette>104</num_modele_bicyclette>
+    <nom_bicyclette>Hooligan</nom_bicyclette>
+    <grandeur_bicyclette>Jeunes</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>699</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>VTT</ligne_produit_bicyclette>
+    <num_commande>5</num_commande>
+  </Table>
+  <Table>
+    <id_bicyclette>KTA1254</id_bicyclette>
+    <num_modele_bicyclette>101</num_modele_bicyclette>
+    <nom_bicyclette>Kilimandjaro</nom_bicyclette>
+    <grandeur_bicyclette>Adultes</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>929</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>VTT</ligne_produit_bicyclette>
+    <num_commande>2</num_commande>
+  </Table>
+  <Table>
+    <id_bicyclette>KTA5784</id_bicyclette>
+    <num_modele_bicyclette>101</num_modele_bicyclette>
+    <nom_bicyclette>Kilimandjaro</nom_bicyclette>
+    <grandeur_bicyclette>Adultes</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>929</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>VTT</ligne_produit_bicyclette>
+    <num_commande>16</num_commande>
+  </Table>
+  <Table>
+    <id_bicyclette>KTA8480</id_bicyclette>
+    <num_modele_bicyclette>101</num_modele_bicyclette>
+    <nom_bicyclette>Kilimandjaro</nom_bicyclette>
+    <grandeur_bicyclette>Adultes</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>929</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>VTT</ligne_produit_bicyclette>
+  </Table>
+  <Table>
+    <id_bicyclette>MBA4256</id_bicyclette>
+    <num_modele_bicyclette>115</num_modele_bicyclette>
+    <nom_bicyclette>Mud Zinger II</nom_bicyclette>
+    <grandeur_bicyclette>Adultes</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>359</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>BMX</ligne_produit_bicyclette>
+  </Table>
+  <Table>
+    <id_bicyclette>MBA8054</id_bicyclette>
+    <num_modele_bicyclette>115</num_modele_bicyclette>
+    <nom_bicyclette>Mud Zinger II</nom_bicyclette>
+    <grandeur_bicyclette>Adultes</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>659</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>BMX</ligne_produit_bicyclette>
+  </Table>
+  <Table>
+    <id_bicyclette>MBA8245</id_bicyclette>
+    <num_modele_bicyclette>115</num_modele_bicyclette>
+    <nom_bicyclette>Mud Zinger II</nom_bicyclette>
+    <grandeur_bicyclette>Adultes</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>559</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>BMX</ligne_produit_bicyclette>
+  </Table>
+  <Table>
+    <id_bicyclette>MBA8504</id_bicyclette>
+    <num_modele_bicyclette>115</num_modele_bicyclette>
+    <nom_bicyclette>Mud Zinger II</nom_bicyclette>
+    <grandeur_bicyclette>Adultes</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>659</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>BMX</ligne_produit_bicyclette>
+    <num_commande>4</num_commande>
+  </Table>
+  <Table>
+    <id_bicyclette>MBJ0012</id_bicyclette>
+    <num_modele_bicyclette>114</num_modele_bicyclette>
+    <nom_bicyclette>Mud Zinger I </nom_bicyclette>
+    <grandeur_bicyclette>Jeunes</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>579</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>BMX</ligne_produit_bicyclette>
+    <num_commande>11</num_commande>
+  </Table>
+  <Table>
+    <id_bicyclette>MBJ0912</id_bicyclette>
+    <num_modele_bicyclette>114</num_modele_bicyclette>
+    <nom_bicyclette>Mud Zinger I </nom_bicyclette>
+    <grandeur_bicyclette>Jeunes</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>579</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>BMX</ligne_produit_bicyclette>
+  </Table>
+  <Table>
+    <id_bicyclette>MBJ4569</id_bicyclette>
+    <num_modele_bicyclette>114</num_modele_bicyclette>
+    <nom_bicyclette>Mud Zinger I </nom_bicyclette>
+    <grandeur_bicyclette>Jeunes</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>279</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>BMX</ligne_produit_bicyclette>
+  </Table>
+  <Table>
+    <id_bicyclette>MBJ9999</id_bicyclette>
+    <num_modele_bicyclette>114</num_modele_bicyclette>
+    <nom_bicyclette>Mud Zinger I </nom_bicyclette>
+    <grandeur_bicyclette>Jeunes</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>479</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>BMX</ligne_produit_bicyclette>
+  </Table>
+  <Table>
+    <id_bicyclette>MTJ4597</id_bicyclette>
+    <num_modele_bicyclette>103</num_modele_bicyclette>
+    <nom_bicyclette>MontBlanc</nom_bicyclette>
+    <grandeur_bicyclette>Jeunes</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>879</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>VTT</ligne_produit_bicyclette>
+  </Table>
+  <Table>
+    <id_bicyclette>MTJ4847</id_bicyclette>
+    <num_modele_bicyclette>103</num_modele_bicyclette>
+    <nom_bicyclette>MontBlanc</nom_bicyclette>
+    <grandeur_bicyclette>Jeunes</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>879</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>VTT</ligne_produit_bicyclette>
+    <num_commande>19</num_commande>
+  </Table>
+  <Table>
+    <id_bicyclette>NCJ4587</id_bicyclette>
+    <num_modele_bicyclette>111</num_modele_bicyclette>
+    <nom_bicyclette>Night Hawk</nom_bicyclette>
+    <grandeur_bicyclette>Jeunes</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>489</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>Classique</ligne_produit_bicyclette>
+  </Table>
+  <Table>
+    <id_bicyclette>NCJ7587</id_bicyclette>
+    <num_modele_bicyclette>111</num_modele_bicyclette>
+    <nom_bicyclette>Night Hawk</nom_bicyclette>
+    <grandeur_bicyclette>Jeunes</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>489</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>Classique</ligne_produit_bicyclette>
+  </Table>
+  <Table>
+    <id_bicyclette>NTA5458</id_bicyclette>
+    <num_modele_bicyclette>102</num_modele_bicyclette>
+    <nom_bicyclette>NorthPole</nom_bicyclette>
+    <grandeur_bicyclette>Adultes</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>749</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>VTT</ligne_produit_bicyclette>
+    <num_commande>3</num_commande>
+  </Table>
+  <Table>
+    <id_bicyclette>NTA6458</id_bicyclette>
+    <num_modele_bicyclette>102</num_modele_bicyclette>
+    <nom_bicyclette>NorthPole</nom_bicyclette>
+    <grandeur_bicyclette>Adultes</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>749</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>VTT</ligne_produit_bicyclette>
+    <num_commande>19</num_commande>
+  </Table>
+  <Table>
+    <id_bicyclette>NTA7845</id_bicyclette>
+    <num_modele_bicyclette>102</num_modele_bicyclette>
+    <nom_bicyclette>NorthPole</nom_bicyclette>
+    <grandeur_bicyclette>Adultes</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>749</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>VTT</ligne_produit_bicyclette>
+  </Table>
+  <Table>
+    <id_bicyclette>ORD0117</id_bicyclette>
+    <num_modele_bicyclette>106</num_modele_bicyclette>
+    <nom_bicyclette>Orléans</nom_bicyclette>
+    <grandeur_bicyclette>Dames</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>2149</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>Vélo de course</ligne_produit_bicyclette>
+  </Table>
+  <Table>
+    <id_bicyclette>ORD4117</id_bicyclette>
+    <num_modele_bicyclette>106</num_modele_bicyclette>
+    <nom_bicyclette>Orléans</nom_bicyclette>
+    <grandeur_bicyclette>Dames</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>2149</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>Vélo de course</ligne_produit_bicyclette>
+  </Table>
+  <Table>
+    <id_bicyclette>ORD4527</id_bicyclette>
+    <num_modele_bicyclette>106</num_modele_bicyclette>
+    <nom_bicyclette>Orléans</nom_bicyclette>
+    <grandeur_bicyclette>Dames</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>2149</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>Vélo de course</ligne_produit_bicyclette>
+  </Table>
+  <Table>
+    <id_bicyclette>ORH4565</id_bicyclette>
+    <num_modele_bicyclette>105</num_modele_bicyclette>
+    <nom_bicyclette>Orléans</nom_bicyclette>
+    <grandeur_bicyclette>Hommes</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>2149</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>Vélo de course</ligne_produit_bicyclette>
+  </Table>
+  <Table>
+    <id_bicyclette>ORH4995</id_bicyclette>
+    <num_modele_bicyclette>105</num_modele_bicyclette>
+    <nom_bicyclette>Orléans</nom_bicyclette>
+    <grandeur_bicyclette>Hommes</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>2149</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>Vélo de course</ligne_produit_bicyclette>
+    <num_commande>21</num_commande>
+  </Table>
+  <Table>
+    <id_bicyclette>TCD0485</id_bicyclette>
+    <num_modele_bicyclette>113</num_modele_bicyclette>
+    <nom_bicyclette>Tierra Verde</nom_bicyclette>
+    <grandeur_bicyclette>Dames</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>499</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>Classique</ligne_produit_bicyclette>
+  </Table>
+  <Table>
+    <id_bicyclette>TCD7840</id_bicyclette>
+    <num_modele_bicyclette>113</num_modele_bicyclette>
+    <nom_bicyclette>Tierra Verde</nom_bicyclette>
+    <grandeur_bicyclette>Dames</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>499</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>Classique</ligne_produit_bicyclette>
+  </Table>
+  <Table>
+    <id_bicyclette>TCD8411</id_bicyclette>
+    <num_modele_bicyclette>113</num_modele_bicyclette>
+    <nom_bicyclette>Tierra Verde</nom_bicyclette>
+    <grandeur_bicyclette>Dames</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>499</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>Classique</ligne_produit_bicyclette>
+  </Table>
+  <Table>
+    <id_bicyclette>TCF2647</id_bicyclette>
+    <num_modele_bicyclette>109</num_modele_bicyclette>
+    <nom_bicyclette>Trail Explorer</nom_bicyclette>
+    <grandeur_bicyclette>Filles</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>319</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>Classique</ligne_produit_bicyclette>
+  </Table>
+  <Table>
+    <id_bicyclette>TCF2747</id_bicyclette>
+    <num_modele_bicyclette>109</num_modele_bicyclette>
+    <nom_bicyclette>Trail Explorer</nom_bicyclette>
+    <grandeur_bicyclette>Filles</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>319</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>Classique</ligne_produit_bicyclette>
+  </Table>
+  <Table>
+    <id_bicyclette>TCG4557</id_bicyclette>
+    <num_modele_bicyclette>110</num_modele_bicyclette>
+    <nom_bicyclette>Trail Explorer</nom_bicyclette>
+    <grandeur_bicyclette>Garçons</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>319</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>Classique</ligne_produit_bicyclette>
+  </Table>
+  <Table>
+    <id_bicyclette>TCG4597</id_bicyclette>
+    <num_modele_bicyclette>110</num_modele_bicyclette>
+    <nom_bicyclette>Trail Explorer</nom_bicyclette>
+    <grandeur_bicyclette>Garçons</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>319</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>Classique</ligne_produit_bicyclette>
+  </Table>
+  <Table>
+    <id_bicyclette>TCH1254</id_bicyclette>
+    <num_modele_bicyclette>112</num_modele_bicyclette>
+    <nom_bicyclette>Tierra Verde</nom_bicyclette>
+    <grandeur_bicyclette>Hommes</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>499</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>Classique</ligne_produit_bicyclette>
+  </Table>
+  <Table>
+    <id_bicyclette>TCH6548</id_bicyclette>
+    <num_modele_bicyclette>112</num_modele_bicyclette>
+    <nom_bicyclette>Tierra Verde</nom_bicyclette>
+    <grandeur_bicyclette>Hommes</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>399</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>Classique</ligne_produit_bicyclette>
+  </Table>
+  <Table>
+    <id_bicyclette>TCH8548</id_bicyclette>
+    <num_modele_bicyclette>112</num_modele_bicyclette>
+    <nom_bicyclette>Tierra Verde</nom_bicyclette>
+    <grandeur_bicyclette>Hommes</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>499</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>Classique</ligne_produit_bicyclette>
+  </Table>
+  <Table>
+    <nom_compagnie_entreprise>Bike Marseille Vélodrome</nom_compagnie_entreprise>
+    <rue_entreprise>3 Boulevard Michelet</rue_entreprise>
+    <ville_entreprise>Marseille</ville_entreprise>
+    <code_postale_entreprise>13008</code_postale_entreprise>
+    <province_entreprise>Provence-Alpes-Côte d’Azur</province_entreprise>
+    <telephone_entreprise>447841687</telephone_entreprise>
+    <courriel_entreprise>BikeVelodrome@gmail.com</courriel_entreprise>
+    <nom_contact_entreprise>Olive</nom_contact_entreprise>
+    <pourcentage_remise_entreprise>4</pourcentage_remise_entreprise>
+  </Table>
+  <Table>
+    <nom_compagnie_entreprise>Easy Rider</nom_compagnie_entreprise>
+    <rue_entreprise>Avenue Denis Padovani</rue_entreprise>
+    <ville_entreprise>Vitrolles</ville_entreprise>
+    <code_postale_entreprise>13127</code_postale_entreprise>
+    <province_entreprise>Provence-Alpes-Côte d’Azur</province_entreprise>
+    <telephone_entreprise>442151050</telephone_entreprise>
+    <courriel_entreprise>EasyRider@gmail.com</courriel_entreprise>
+    <nom_contact_entreprise>Strebi</nom_contact_entreprise>
+    <pourcentage_remise_entreprise>2.5</pourcentage_remise_entreprise>
+  </Table>
+  <Table>
+    <nom_compagnie_entreprise>Tinabico</nom_compagnie_entreprise>
+    <rue_entreprise>Route Nationale 113</rue_entreprise>
+    <ville_entreprise>Vitrolles</ville_entreprise>
+    <code_postale_entreprise>13127</code_postale_entreprise>
+    <province_entreprise>Provence-Alpes-Côte d’Azur</province_entreprise>
+    <telephone_entreprise>442845687</telephone_entreprise>
+    <courriel_entreprise>Tinabico_Bike@gmail.com</courriel_entreprise>
+    <nom_contact_entreprise>Amery</nom_contact_entreprise>
+    <pourcentage_remise_entreprise>4</pourcentage_remise_entreprise>
+  </Table>
+</NewDataSet>

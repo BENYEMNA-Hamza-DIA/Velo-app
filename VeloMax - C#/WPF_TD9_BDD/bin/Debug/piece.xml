@@ -1,0 +1,2344 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table>
+    <id_bicyclette>BRD3459</id_bicyclette>
+    <num_modele_bicyclette>108</num_modele_bicyclette>
+    <nom_bicyclette>BlueJay</nom_bicyclette>
+    <grandeur_bicyclette>Dames</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>2459</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>Vélo de course</ligne_produit_bicyclette>
+  </Table>
+  <Table>
+    <id_bicyclette>BRD3999</id_bicyclette>
+    <num_modele_bicyclette>108</num_modele_bicyclette>
+    <nom_bicyclette>BlueJay</nom_bicyclette>
+    <grandeur_bicyclette>Dames</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>2449</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>Vélo de course</ligne_produit_bicyclette>
+  </Table>
+  <Table>
+    <id_bicyclette>BRH3652</id_bicyclette>
+    <num_modele_bicyclette>107</num_modele_bicyclette>
+    <nom_bicyclette>BlueJay</nom_bicyclette>
+    <grandeur_bicyclette>Hommes</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>2149</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>Vélo de course</ligne_produit_bicyclette>
+  </Table>
+  <Table>
+    <id_bicyclette>BRH4347</id_bicyclette>
+    <num_modele_bicyclette>107</num_modele_bicyclette>
+    <nom_bicyclette>BlueJay</nom_bicyclette>
+    <grandeur_bicyclette>Hommes</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>2449</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>Vélo de course</ligne_produit_bicyclette>
+    <num_commande>2</num_commande>
+  </Table>
+  <Table>
+    <id_bicyclette>BRH4857</id_bicyclette>
+    <num_modele_bicyclette>107</num_modele_bicyclette>
+    <nom_bicyclette>BlueJay</nom_bicyclette>
+    <grandeur_bicyclette>Hommes</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>2459</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>Vélo de course</ligne_produit_bicyclette>
+  </Table>
+  <Table>
+    <id_bicyclette>CD2594</id_bicyclette>
+    <num_modele_bicyclette>113</num_modele_bicyclette>
+    <nom_bicyclette>Tierra Verde</nom_bicyclette>
+    <grandeur_bicyclette>Dames</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>399</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>Classique</ligne_produit_bicyclette>
+  </Table>
+  <Table>
+    <id_bicyclette>HTA2456</id_bicyclette>
+    <num_modele_bicyclette>104</num_modele_bicyclette>
+    <nom_bicyclette>Hooligan</nom_bicyclette>
+    <grandeur_bicyclette>Jeunes</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>699</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>VTT</ligne_produit_bicyclette>
+  </Table>
+  <Table>
+    <id_bicyclette>HTA2546</id_bicyclette>
+    <num_modele_bicyclette>104</num_modele_bicyclette>
+    <nom_bicyclette>Hooligan</nom_bicyclette>
+    <grandeur_bicyclette>Jeunes</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>699</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>VTT</ligne_produit_bicyclette>
+    <num_commande>5</num_commande>
+  </Table>
+  <Table>
+    <id_bicyclette>KTA1254</id_bicyclette>
+    <num_modele_bicyclette>101</num_modele_bicyclette>
+    <nom_bicyclette>Kilimandjaro</nom_bicyclette>
+    <grandeur_bicyclette>Adultes</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>929</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>VTT</ligne_produit_bicyclette>
+    <num_commande>2</num_commande>
+  </Table>
+  <Table>
+    <id_bicyclette>KTA5784</id_bicyclette>
+    <num_modele_bicyclette>101</num_modele_bicyclette>
+    <nom_bicyclette>Kilimandjaro</nom_bicyclette>
+    <grandeur_bicyclette>Adultes</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>929</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>VTT</ligne_produit_bicyclette>
+    <num_commande>16</num_commande>
+  </Table>
+  <Table>
+    <id_bicyclette>KTA8480</id_bicyclette>
+    <num_modele_bicyclette>101</num_modele_bicyclette>
+    <nom_bicyclette>Kilimandjaro</nom_bicyclette>
+    <grandeur_bicyclette>Adultes</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>929</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>VTT</ligne_produit_bicyclette>
+  </Table>
+  <Table>
+    <id_bicyclette>MBA4256</id_bicyclette>
+    <num_modele_bicyclette>115</num_modele_bicyclette>
+    <nom_bicyclette>Mud Zinger II</nom_bicyclette>
+    <grandeur_bicyclette>Adultes</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>359</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>BMX</ligne_produit_bicyclette>
+  </Table>
+  <Table>
+    <id_bicyclette>MBA8054</id_bicyclette>
+    <num_modele_bicyclette>115</num_modele_bicyclette>
+    <nom_bicyclette>Mud Zinger II</nom_bicyclette>
+    <grandeur_bicyclette>Adultes</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>659</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>BMX</ligne_produit_bicyclette>
+  </Table>
+  <Table>
+    <id_bicyclette>MBA8245</id_bicyclette>
+    <num_modele_bicyclette>115</num_modele_bicyclette>
+    <nom_bicyclette>Mud Zinger II</nom_bicyclette>
+    <grandeur_bicyclette>Adultes</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>559</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>BMX</ligne_produit_bicyclette>
+  </Table>
+  <Table>
+    <id_bicyclette>MBA8504</id_bicyclette>
+    <num_modele_bicyclette>115</num_modele_bicyclette>
+    <nom_bicyclette>Mud Zinger II</nom_bicyclette>
+    <grandeur_bicyclette>Adultes</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>659</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>BMX</ligne_produit_bicyclette>
+    <num_commande>4</num_commande>
+  </Table>
+  <Table>
+    <id_bicyclette>MBJ0012</id_bicyclette>
+    <num_modele_bicyclette>114</num_modele_bicyclette>
+    <nom_bicyclette>Mud Zinger I </nom_bicyclette>
+    <grandeur_bicyclette>Jeunes</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>579</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>BMX</ligne_produit_bicyclette>
+    <num_commande>11</num_commande>
+  </Table>
+  <Table>
+    <id_bicyclette>MBJ0912</id_bicyclette>
+    <num_modele_bicyclette>114</num_modele_bicyclette>
+    <nom_bicyclette>Mud Zinger I </nom_bicyclette>
+    <grandeur_bicyclette>Jeunes</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>579</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>BMX</ligne_produit_bicyclette>
+  </Table>
+  <Table>
+    <id_bicyclette>MBJ4569</id_bicyclette>
+    <num_modele_bicyclette>114</num_modele_bicyclette>
+    <nom_bicyclette>Mud Zinger I </nom_bicyclette>
+    <grandeur_bicyclette>Jeunes</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>279</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>BMX</ligne_produit_bicyclette>
+  </Table>
+  <Table>
+    <id_bicyclette>MBJ9999</id_bicyclette>
+    <num_modele_bicyclette>114</num_modele_bicyclette>
+    <nom_bicyclette>Mud Zinger I </nom_bicyclette>
+    <grandeur_bicyclette>Jeunes</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>479</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>BMX</ligne_produit_bicyclette>
+  </Table>
+  <Table>
+    <id_bicyclette>MTJ4597</id_bicyclette>
+    <num_modele_bicyclette>103</num_modele_bicyclette>
+    <nom_bicyclette>MontBlanc</nom_bicyclette>
+    <grandeur_bicyclette>Jeunes</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>879</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>VTT</ligne_produit_bicyclette>
+  </Table>
+  <Table>
+    <id_bicyclette>MTJ4847</id_bicyclette>
+    <num_modele_bicyclette>103</num_modele_bicyclette>
+    <nom_bicyclette>MontBlanc</nom_bicyclette>
+    <grandeur_bicyclette>Jeunes</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>879</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>VTT</ligne_produit_bicyclette>
+    <num_commande>19</num_commande>
+  </Table>
+  <Table>
+    <id_bicyclette>NCJ4587</id_bicyclette>
+    <num_modele_bicyclette>111</num_modele_bicyclette>
+    <nom_bicyclette>Night Hawk</nom_bicyclette>
+    <grandeur_bicyclette>Jeunes</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>489</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>Classique</ligne_produit_bicyclette>
+  </Table>
+  <Table>
+    <id_bicyclette>NCJ7587</id_bicyclette>
+    <num_modele_bicyclette>111</num_modele_bicyclette>
+    <nom_bicyclette>Night Hawk</nom_bicyclette>
+    <grandeur_bicyclette>Jeunes</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>489</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>Classique</ligne_produit_bicyclette>
+  </Table>
+  <Table>
+    <id_bicyclette>NTA5458</id_bicyclette>
+    <num_modele_bicyclette>102</num_modele_bicyclette>
+    <nom_bicyclette>NorthPole</nom_bicyclette>
+    <grandeur_bicyclette>Adultes</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>749</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>VTT</ligne_produit_bicyclette>
+    <num_commande>3</num_commande>
+  </Table>
+  <Table>
+    <id_bicyclette>NTA6458</id_bicyclette>
+    <num_modele_bicyclette>102</num_modele_bicyclette>
+    <nom_bicyclette>NorthPole</nom_bicyclette>
+    <grandeur_bicyclette>Adultes</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>749</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>VTT</ligne_produit_bicyclette>
+    <num_commande>19</num_commande>
+  </Table>
+  <Table>
+    <id_bicyclette>NTA7845</id_bicyclette>
+    <num_modele_bicyclette>102</num_modele_bicyclette>
+    <nom_bicyclette>NorthPole</nom_bicyclette>
+    <grandeur_bicyclette>Adultes</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>749</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>VTT</ligne_produit_bicyclette>
+  </Table>
+  <Table>
+    <id_bicyclette>ORD0117</id_bicyclette>
+    <num_modele_bicyclette>106</num_modele_bicyclette>
+    <nom_bicyclette>Orléans</nom_bicyclette>
+    <grandeur_bicyclette>Dames</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>2149</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>Vélo de course</ligne_produit_bicyclette>
+  </Table>
+  <Table>
+    <id_bicyclette>ORD4117</id_bicyclette>
+    <num_modele_bicyclette>106</num_modele_bicyclette>
+    <nom_bicyclette>Orléans</nom_bicyclette>
+    <grandeur_bicyclette>Dames</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>2149</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>Vélo de course</ligne_produit_bicyclette>
+  </Table>
+  <Table>
+    <id_bicyclette>ORD4527</id_bicyclette>
+    <num_modele_bicyclette>106</num_modele_bicyclette>
+    <nom_bicyclette>Orléans</nom_bicyclette>
+    <grandeur_bicyclette>Dames</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>2149</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>Vélo de course</ligne_produit_bicyclette>
+  </Table>
+  <Table>
+    <id_bicyclette>ORH4565</id_bicyclette>
+    <num_modele_bicyclette>105</num_modele_bicyclette>
+    <nom_bicyclette>Orléans</nom_bicyclette>
+    <grandeur_bicyclette>Hommes</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>2149</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>Vélo de course</ligne_produit_bicyclette>
+  </Table>
+  <Table>
+    <id_bicyclette>ORH4995</id_bicyclette>
+    <num_modele_bicyclette>105</num_modele_bicyclette>
+    <nom_bicyclette>Orléans</nom_bicyclette>
+    <grandeur_bicyclette>Hommes</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>2149</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>Vélo de course</ligne_produit_bicyclette>
+    <num_commande>21</num_commande>
+  </Table>
+  <Table>
+    <id_bicyclette>TCD0485</id_bicyclette>
+    <num_modele_bicyclette>113</num_modele_bicyclette>
+    <nom_bicyclette>Tierra Verde</nom_bicyclette>
+    <grandeur_bicyclette>Dames</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>499</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>Classique</ligne_produit_bicyclette>
+  </Table>
+  <Table>
+    <id_bicyclette>TCD7840</id_bicyclette>
+    <num_modele_bicyclette>113</num_modele_bicyclette>
+    <nom_bicyclette>Tierra Verde</nom_bicyclette>
+    <grandeur_bicyclette>Dames</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>499</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>Classique</ligne_produit_bicyclette>
+  </Table>
+  <Table>
+    <id_bicyclette>TCD8411</id_bicyclette>
+    <num_modele_bicyclette>113</num_modele_bicyclette>
+    <nom_bicyclette>Tierra Verde</nom_bicyclette>
+    <grandeur_bicyclette>Dames</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>499</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>Classique</ligne_produit_bicyclette>
+  </Table>
+  <Table>
+    <id_bicyclette>TCF2647</id_bicyclette>
+    <num_modele_bicyclette>109</num_modele_bicyclette>
+    <nom_bicyclette>Trail Explorer</nom_bicyclette>
+    <grandeur_bicyclette>Filles</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>319</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>Classique</ligne_produit_bicyclette>
+  </Table>
+  <Table>
+    <id_bicyclette>TCF2747</id_bicyclette>
+    <num_modele_bicyclette>109</num_modele_bicyclette>
+    <nom_bicyclette>Trail Explorer</nom_bicyclette>
+    <grandeur_bicyclette>Filles</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>319</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>Classique</ligne_produit_bicyclette>
+  </Table>
+  <Table>
+    <id_bicyclette>TCG4557</id_bicyclette>
+    <num_modele_bicyclette>110</num_modele_bicyclette>
+    <nom_bicyclette>Trail Explorer</nom_bicyclette>
+    <grandeur_bicyclette>Garçons</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>319</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>Classique</ligne_produit_bicyclette>
+  </Table>
+  <Table>
+    <id_bicyclette>TCG4597</id_bicyclette>
+    <num_modele_bicyclette>110</num_modele_bicyclette>
+    <nom_bicyclette>Trail Explorer</nom_bicyclette>
+    <grandeur_bicyclette>Garçons</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>319</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>Classique</ligne_produit_bicyclette>
+  </Table>
+  <Table>
+    <id_bicyclette>TCH1254</id_bicyclette>
+    <num_modele_bicyclette>112</num_modele_bicyclette>
+    <nom_bicyclette>Tierra Verde</nom_bicyclette>
+    <grandeur_bicyclette>Hommes</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>499</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>Classique</ligne_produit_bicyclette>
+  </Table>
+  <Table>
+    <id_bicyclette>TCH6548</id_bicyclette>
+    <num_modele_bicyclette>112</num_modele_bicyclette>
+    <nom_bicyclette>Tierra Verde</nom_bicyclette>
+    <grandeur_bicyclette>Hommes</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>399</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>Classique</ligne_produit_bicyclette>
+  </Table>
+  <Table>
+    <id_bicyclette>TCH8548</id_bicyclette>
+    <num_modele_bicyclette>112</num_modele_bicyclette>
+    <nom_bicyclette>Tierra Verde</nom_bicyclette>
+    <grandeur_bicyclette>Hommes</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>499</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>Classique</ligne_produit_bicyclette>
+  </Table>
+  <Table>
+    <nom_compagnie_entreprise>Bike Marseille Vélodrome</nom_compagnie_entreprise>
+    <rue_entreprise>3 Boulevard Michelet</rue_entreprise>
+    <ville_entreprise>Marseille</ville_entreprise>
+    <code_postale_entreprise>13008</code_postale_entreprise>
+    <province_entreprise>Provence-Alpes-Côte d’Azur</province_entreprise>
+    <telephone_entreprise>447841687</telephone_entreprise>
+    <courriel_entreprise>BikeVelodrome@gmail.com</courriel_entreprise>
+    <nom_contact_entreprise>Olive</nom_contact_entreprise>
+    <pourcentage_remise_entreprise>4</pourcentage_remise_entreprise>
+  </Table>
+  <Table>
+    <nom_compagnie_entreprise>Easy Rider</nom_compagnie_entreprise>
+    <rue_entreprise>Avenue Denis Padovani</rue_entreprise>
+    <ville_entreprise>Vitrolles</ville_entreprise>
+    <code_postale_entreprise>13127</code_postale_entreprise>
+    <province_entreprise>Provence-Alpes-Côte d’Azur</province_entreprise>
+    <telephone_entreprise>442151050</telephone_entreprise>
+    <courriel_entreprise>EasyRider@gmail.com</courriel_entreprise>
+    <nom_contact_entreprise>Strebi</nom_contact_entreprise>
+    <pourcentage_remise_entreprise>2.5</pourcentage_remise_entreprise>
+  </Table>
+  <Table>
+    <nom_compagnie_entreprise>Tinabico</nom_compagnie_entreprise>
+    <rue_entreprise>Route Nationale 113</rue_entreprise>
+    <ville_entreprise>Vitrolles</ville_entreprise>
+    <code_postale_entreprise>13127</code_postale_entreprise>
+    <province_entreprise>Provence-Alpes-Côte d’Azur</province_entreprise>
+    <telephone_entreprise>442845687</telephone_entreprise>
+    <courriel_entreprise>Tinabico_Bike@gmail.com</courriel_entreprise>
+    <nom_contact_entreprise>Amery</nom_contact_entreprise>
+    <pourcentage_remise_entreprise>4</pourcentage_remise_entreprise>
+  </Table>
+  <Table>
+    <id_particulier>68</id_particulier>
+    <nom_particulier>Berlouni</nom_particulier>
+    <prenom_particulier>Boulbaba</prenom_particulier>
+    <rue_particulier>1 Cours Julien</rue_particulier>
+    <ville_particulier>Marseille</ville_particulier>
+    <code_postale_particulier>13001</code_postale_particulier>
+    <province_particulier>Provence-Alpes-Côte d’Azur</province_particulier>
+    <telephone_particulier>654875219</telephone_particulier>
+    <courriel_particulier>BoublBaBerlou@gmail.com</courriel_particulier>
+  </Table>
+  <Table>
+    <id_particulier>86</id_particulier>
+    <nom_particulier>Mirio</nom_particulier>
+    <prenom_particulier>Driss</prenom_particulier>
+    <rue_particulier>14 Résidence Campagne Lévêque</rue_particulier>
+    <ville_particulier>Marseille</ville_particulier>
+    <code_postale_particulier>13015</code_postale_particulier>
+    <province_particulier>Provence-Alpes-Côte d’Azur</province_particulier>
+    <telephone_particulier>678450495</telephone_particulier>
+    <courriel_particulier>DrissMirioo@gmail.com</courriel_particulier>
+  </Table>
+  <Table>
+    <id_particulier>667</id_particulier>
+    <nom_particulier>Kebir</nom_particulier>
+    <prenom_particulier>Kamel</prenom_particulier>
+    <rue_particulier>162 Boulevard Mireille Lauze</rue_particulier>
+    <ville_particulier>Marseille</ville_particulier>
+    <code_postale_particulier>13010</code_postale_particulier>
+    <province_particulier>Provence-Alpes-Côte d’Azur</province_particulier>
+    <telephone_particulier>678450485</telephone_particulier>
+    <courriel_particulier>KametoK@gmail.com</courriel_particulier>
+  </Table>
+  <Table>
+    <id_particulier>754</id_particulier>
+    <nom_particulier>Detair</nom_particulier>
+    <prenom_particulier>Billy</prenom_particulier>
+    <rue_particulier>53 La Canebière</rue_particulier>
+    <ville_particulier>Marseille</ville_particulier>
+    <code_postale_particulier>13001</code_postale_particulier>
+    <province_particulier>Provence-Alpes-Côte d’Azur</province_particulier>
+    <telephone_particulier>706060</telephone_particulier>
+    <courriel_particulier>Rdetair@gmail.com</courriel_particulier>
+  </Table>
+  <Table>
+    <id_particulier>792</id_particulier>
+    <nom_particulier>Zousa</nom_particulier>
+    <prenom_particulier>Kotei</prenom_particulier>
+    <rue_particulier>7 Place du Mérou</rue_particulier>
+    <ville_particulier>Marseille</ville_particulier>
+    <code_postale_particulier>13016</code_postale_particulier>
+    <province_particulier>Provence-Alpes-Côte d’Azur</province_particulier>
+    <telephone_particulier>778452695</telephone_particulier>
+    <courriel_particulier>KoteiZousaa@gmail.com</courriel_particulier>
+  </Table>
+  <Table>
+    <id_particulier>992</id_particulier>
+    <nom_particulier>Raconte</nom_particulier>
+    <prenom_particulier>Miguel</prenom_particulier>
+    <rue_particulier>Rue Fort du Sanctuaire</rue_particulier>
+    <ville_particulier>Marseille</ville_particulier>
+    <code_postale_particulier>13281</code_postale_particulier>
+    <province_particulier>Provence-Alpes-Côte d’Azur</province_particulier>
+    <telephone_particulier>785342655</telephone_particulier>
+    <courriel_particulier>MiguelTom@gmail.com</courriel_particulier>
+  </Table>
+  <Table>
+    <id_particulier>1111</id_particulier>
+    <nom_particulier>test</nom_particulier>
+    <prenom_particulier>test</prenom_particulier>
+    <rue_particulier>test</rue_particulier>
+    <ville_particulier>test</ville_particulier>
+    <code_postale_particulier>111111</code_postale_particulier>
+    <province_particulier>test</province_particulier>
+    <telephone_particulier>111111</telephone_particulier>
+    <courriel_particulier>test</courriel_particulier>
+    <num_programme_fidelio>4</num_programme_fidelio>
+  </Table>
+  <Table>
+    <num_commande>2</num_commande>
+    <nom_compagnie_entreprise>Easy Rider</nom_compagnie_entreprise>
+    <date_commande>2021-05-20T00:00:00+02:00</date_commande>
+    <rue_livraison_commande>96 Rue de 8 mai 1945</rue_livraison_commande>
+    <ville_livraison_commande>Cavaillon</ville_livraison_commande>
+    <code_postale_livraison_commande>84300</code_postale_livraison_commande>
+    <province_livraison_commande>Provence-Alpes-Côte d’Azur</province_livraison_commande>
+    <quantite_bicyclettes_commande>2</quantite_bicyclettes_commande>
+    <quantite_pieces_commande>0</quantite_pieces_commande>
+    <date_livraison_commande>2021-05-25T00:00:00+02:00</date_livraison_commande>
+  </Table>
+  <Table>
+    <num_commande>3</num_commande>
+    <nom_compagnie_entreprise>Easy Rider</nom_compagnie_entreprise>
+    <date_commande>2021-05-27T00:00:00+02:00</date_commande>
+    <rue_livraison_commande>96 Rue de 8 mai 1945</rue_livraison_commande>
+    <ville_livraison_commande>Cavaillon</ville_livraison_commande>
+    <code_postale_livraison_commande>84300</code_postale_livraison_commande>
+    <province_livraison_commande>Provence-Alpes-Côte d’Azur</province_livraison_commande>
+    <quantite_bicyclettes_commande>1</quantite_bicyclettes_commande>
+    <quantite_pieces_commande>0</quantite_pieces_commande>
+    <date_livraison_commande>2021-06-01T00:00:00+02:00</date_livraison_commande>
+  </Table>
+  <Table>
+    <num_commande>4</num_commande>
+    <nom_compagnie_entreprise>Easy Rider</nom_compagnie_entreprise>
+    <date_commande>2021-05-25T00:00:00+02:00</date_commande>
+    <rue_livraison_commande>96 Rue de 8 mai 1945</rue_livraison_commande>
+    <ville_livraison_commande>Cavaillon</ville_livraison_commande>
+    <code_postale_livraison_commande>84300</code_postale_livraison_commande>
+    <province_livraison_commande>Provence-Alpes-Côte d’Azur</province_livraison_commande>
+    <quantite_bicyclettes_commande>1</quantite_bicyclettes_commande>
+    <quantite_pieces_commande>0</quantite_pieces_commande>
+    <date_livraison_commande>2021-05-27T00:00:00+02:00</date_livraison_commande>
+  </Table>
+  <Table>
+    <num_commande>5</num_commande>
+    <nom_compagnie_entreprise>Easy Rider</nom_compagnie_entreprise>
+    <date_commande>2021-05-24T00:00:00+02:00</date_commande>
+    <rue_livraison_commande>96 Rue de 8 mai 1945</rue_livraison_commande>
+    <ville_livraison_commande>Cavaillon</ville_livraison_commande>
+    <code_postale_livraison_commande>84300</code_postale_livraison_commande>
+    <province_livraison_commande>Provence-Alpes-Côte d’Azur</province_livraison_commande>
+    <quantite_bicyclettes_commande>1</quantite_bicyclettes_commande>
+    <quantite_pieces_commande>1</quantite_pieces_commande>
+    <date_livraison_commande>2021-05-28T00:00:00+02:00</date_livraison_commande>
+  </Table>
+  <Table>
+    <num_commande>10</num_commande>
+    <nom_compagnie_entreprise>Tinabico</nom_compagnie_entreprise>
+    <date_commande>2021-05-20T00:00:00+02:00</date_commande>
+    <rue_livraison_commande>Route Nationale 113</rue_livraison_commande>
+    <ville_livraison_commande>Vitrolles</ville_livraison_commande>
+    <code_postale_livraison_commande>13127</code_postale_livraison_commande>
+    <province_livraison_commande>Provence-Alpes-Côte d’Azur</province_livraison_commande>
+    <quantite_bicyclettes_commande>0</quantite_bicyclettes_commande>
+    <quantite_pieces_commande>5</quantite_pieces_commande>
+    <date_livraison_commande>2021-05-25T00:00:00+02:00</date_livraison_commande>
+  </Table>
+  <Table>
+    <num_commande>11</num_commande>
+    <nom_compagnie_entreprise>Tinabico</nom_compagnie_entreprise>
+    <date_commande>2021-05-27T00:00:00+02:00</date_commande>
+    <rue_livraison_commande>Route Nationale 113</rue_livraison_commande>
+    <ville_livraison_commande>Vitrolles</ville_livraison_commande>
+    <code_postale_livraison_commande>13127</code_postale_livraison_commande>
+    <province_livraison_commande>Provence-Alpes-Côte d’Azur</province_livraison_commande>
+    <quantite_bicyclettes_commande>1</quantite_bicyclettes_commande>
+    <quantite_pieces_commande>0</quantite_pieces_commande>
+    <date_livraison_commande>2021-06-01T00:00:00+02:00</date_livraison_commande>
+  </Table>
+  <Table>
+    <num_commande>12</num_commande>
+    <nom_compagnie_entreprise>Tinabico</nom_compagnie_entreprise>
+    <date_commande>2021-05-25T00:00:00+02:00</date_commande>
+    <rue_livraison_commande>Route Nationale 113</rue_livraison_commande>
+    <ville_livraison_commande>Vitrolles</ville_livraison_commande>
+    <code_postale_livraison_commande>13127</code_postale_livraison_commande>
+    <province_livraison_commande>Provence-Alpes-Côte d’Azur</province_livraison_commande>
+    <quantite_bicyclettes_commande>0</quantite_bicyclettes_commande>
+    <quantite_pieces_commande>1</quantite_pieces_commande>
+    <date_livraison_commande>2021-05-27T00:00:00+02:00</date_livraison_commande>
+  </Table>
+  <Table>
+    <num_commande>15</num_commande>
+    <id_particulier>754</id_particulier>
+    <date_commande>2021-05-20T00:00:00+02:00</date_commande>
+    <rue_livraison_commande>53 La Canebière</rue_livraison_commande>
+    <ville_livraison_commande>Marseille</ville_livraison_commande>
+    <code_postale_livraison_commande>13001</code_postale_livraison_commande>
+    <province_livraison_commande>Provence-Alpes-Côte d’Azur</province_livraison_commande>
+    <quantite_bicyclettes_commande>0</quantite_bicyclettes_commande>
+    <quantite_pieces_commande>5</quantite_pieces_commande>
+    <date_livraison_commande>2021-05-25T00:00:00+02:00</date_livraison_commande>
+  </Table>
+  <Table>
+    <num_commande>16</num_commande>
+    <id_particulier>754</id_particulier>
+    <date_commande>2021-05-27T00:00:00+02:00</date_commande>
+    <rue_livraison_commande>53 La Canebière</rue_livraison_commande>
+    <ville_livraison_commande>Marseille</ville_livraison_commande>
+    <code_postale_livraison_commande>13001</code_postale_livraison_commande>
+    <province_livraison_commande>Provence-Alpes-Côte d’Azur</province_livraison_commande>
+    <quantite_bicyclettes_commande>1</quantite_bicyclettes_commande>
+    <quantite_pieces_commande>0</quantite_pieces_commande>
+    <date_livraison_commande>2021-06-01T00:00:00+02:00</date_livraison_commande>
+  </Table>
+  <Table>
+    <num_commande>17</num_commande>
+    <id_particulier>754</id_particulier>
+    <date_commande>2021-05-25T00:00:00+02:00</date_commande>
+    <rue_livraison_commande>53 La Canebière</rue_livraison_commande>
+    <ville_livraison_commande>Marseille</ville_livraison_commande>
+    <code_postale_livraison_commande>13001</code_postale_livraison_commande>
+    <province_livraison_commande>Provence-Alpes-Côte d’Azur</province_livraison_commande>
+    <quantite_bicyclettes_commande>0</quantite_bicyclettes_commande>
+    <quantite_pieces_commande>1</quantite_pieces_commande>
+    <date_livraison_commande>2021-05-27T00:00:00+02:00</date_livraison_commande>
+  </Table>
+  <Table>
+    <num_commande>18</num_commande>
+    <id_particulier>792</id_particulier>
+    <date_commande>2021-05-20T00:00:00+02:00</date_commande>
+    <rue_livraison_commande>7 Place du Mérou</rue_livraison_commande>
+    <ville_livraison_commande>Marseille</ville_livraison_commande>
+    <code_postale_livraison_commande>13016</code_postale_livraison_commande>
+    <province_livraison_commande>Provence-Alpes-Côte d’Azur</province_livraison_commande>
+    <quantite_bicyclettes_commande>0</quantite_bicyclettes_commande>
+    <quantite_pieces_commande>5</quantite_pieces_commande>
+    <date_livraison_commande>2021-05-25T00:00:00+02:00</date_livraison_commande>
+  </Table>
+  <Table>
+    <num_commande>19</num_commande>
+    <id_particulier>792</id_particulier>
+    <date_commande>2021-05-27T00:00:00+02:00</date_commande>
+    <rue_livraison_commande>7 Place du Mérou</rue_livraison_commande>
+    <ville_livraison_commande>Marseille</ville_livraison_commande>
+    <code_postale_livraison_commande>13016</code_postale_livraison_commande>
+    <province_livraison_commande>Provence-Alpes-Côte d’Azur</province_livraison_commande>
+    <quantite_bicyclettes_commande>2</quantite_bicyclettes_commande>
+    <quantite_pieces_commande>0</quantite_pieces_commande>
+    <date_livraison_commande>2021-06-01T00:00:00+02:00</date_livraison_commande>
+  </Table>
+  <Table>
+    <num_commande>20</num_commande>
+    <id_particulier>792</id_particulier>
+    <date_commande>2021-05-25T00:00:00+02:00</date_commande>
+    <rue_livraison_commande>7 Place du Mérou</rue_livraison_commande>
+    <ville_livraison_commande>Marseille</ville_livraison_commande>
+    <code_postale_livraison_commande>13016</code_postale_livraison_commande>
+    <province_livraison_commande>Provence-Alpes-Côte d’Azur</province_livraison_commande>
+    <quantite_bicyclettes_commande>0</quantite_bicyclettes_commande>
+    <quantite_pieces_commande>2</quantite_pieces_commande>
+    <date_livraison_commande>2021-05-27T00:00:00+02:00</date_livraison_commande>
+  </Table>
+  <Table>
+    <num_commande>21</num_commande>
+    <id_particulier>86</id_particulier>
+    <date_commande>2021-05-27T00:00:00+02:00</date_commande>
+    <rue_livraison_commande>3 Boulevard Michelet</rue_livraison_commande>
+    <ville_livraison_commande>Marseille</ville_livraison_commande>
+    <code_postale_livraison_commande>13008</code_postale_livraison_commande>
+    <province_livraison_commande>Provence-Alpes-Côte d’Azur</province_livraison_commande>
+    <quantite_bicyclettes_commande>1</quantite_bicyclettes_commande>
+    <quantite_pieces_commande>1</quantite_pieces_commande>
+    <date_livraison_commande>2021-06-01T00:00:00+02:00</date_livraison_commande>
+  </Table>
+  <Table>
+    <num_commande>22</num_commande>
+    <id_particulier>86</id_particulier>
+    <date_commande>2021-05-25T00:00:00+02:00</date_commande>
+    <rue_livraison_commande>3 Boulevard Michelet</rue_livraison_commande>
+    <ville_livraison_commande>Marseille</ville_livraison_commande>
+    <code_postale_livraison_commande>13008</code_postale_livraison_commande>
+    <province_livraison_commande>Provence-Alpes-Côte d’Azur</province_livraison_commande>
+    <quantite_bicyclettes_commande>0</quantite_bicyclettes_commande>
+    <quantite_pieces_commande>1</quantite_pieces_commande>
+    <date_livraison_commande>2021-05-27T00:00:00+02:00</date_livraison_commande>
+  </Table>
+  <Table>
+    <num_commande>23</num_commande>
+    <nom_compagnie_entreprise>Bike Marseille Vélodrome</nom_compagnie_entreprise>
+    <date_commande>2021-05-24T00:00:00+02:00</date_commande>
+    <rue_livraison_commande>3 Boulevard Michelet</rue_livraison_commande>
+    <ville_livraison_commande>Marseille</ville_livraison_commande>
+    <code_postale_livraison_commande>13008</code_postale_livraison_commande>
+    <province_livraison_commande>Provence-Alpes-Côte d’Azur</province_livraison_commande>
+    <quantite_bicyclettes_commande>1</quantite_bicyclettes_commande>
+    <quantite_pieces_commande>0</quantite_pieces_commande>
+    <date_livraison_commande>2021-05-28T00:00:00+02:00</date_livraison_commande>
+  </Table>
+  <Table>
+    <num_commande>24</num_commande>
+    <id_particulier>992</id_particulier>
+    <date_commande>2021-05-24T00:00:00+02:00</date_commande>
+    <rue_livraison_commande>Rue Fort du Sanctuaire</rue_livraison_commande>
+    <ville_livraison_commande>Marseille</ville_livraison_commande>
+    <code_postale_livraison_commande>13281</code_postale_livraison_commande>
+    <province_livraison_commande>Provence-Alpes-Côte d’Azur</province_livraison_commande>
+    <quantite_bicyclettes_commande>1</quantite_bicyclettes_commande>
+    <quantite_pieces_commande>0</quantite_pieces_commande>
+    <date_livraison_commande>2021-05-28T00:00:00+02:00</date_livraison_commande>
+  </Table>
+  <Table>
+    <num_commande>25</num_commande>
+    <id_particulier>667</id_particulier>
+    <date_commande>2021-05-18T00:00:00+02:00</date_commande>
+    <rue_livraison_commande>162 Boulevard Mireille Lauze</rue_livraison_commande>
+    <ville_livraison_commande>Marseille</ville_livraison_commande>
+    <code_postale_livraison_commande>13010</code_postale_livraison_commande>
+    <province_livraison_commande>Provence-Alpes-Côte d’Azur</province_livraison_commande>
+    <quantite_bicyclettes_commande>1</quantite_bicyclettes_commande>
+    <quantite_pieces_commande>0</quantite_pieces_commande>
+    <date_livraison_commande>2021-05-18T00:00:00+02:00</date_livraison_commande>
+  </Table>
+  <Table>
+    <num_siret_fournisseur>123</num_siret_fournisseur>
+    <nom_fournisseur>THOMPSON &amp; THOMPSON</nom_fournisseur>
+    <contact_fournisseur>0458795458</contact_fournisseur>
+    <rue_fournisseur>24 Quai de Rive Neuve</rue_fournisseur>
+    <ville_fournisseur>Marseille</ville_fournisseur>
+    <code_postale_fournisseur>13007</code_postale_fournisseur>
+    <province_fournisseur>Provence-Alpes-Côte d’Azur</province_fournisseur>
+    <label_fournisseur>1</label_fournisseur>
+  </Table>
+  <Table>
+    <num_siret_fournisseur>145</num_siret_fournisseur>
+    <nom_fournisseur>COBANYAL BIKES</nom_fournisseur>
+    <contact_fournisseur>0475984285</contact_fournisseur>
+    <rue_fournisseur>3 Rue Frédéric Mistral</rue_fournisseur>
+    <ville_fournisseur>Aix-en-Provence</ville_fournisseur>
+    <code_postale_fournisseur>13100</code_postale_fournisseur>
+    <province_fournisseur>Provence-Alpes-Côte d’Azur</province_fournisseur>
+    <label_fournisseur>2</label_fournisseur>
+  </Table>
+  <Table>
+    <num_siret_fournisseur>378</num_siret_fournisseur>
+    <nom_fournisseur>VELOMANIA</nom_fournisseur>
+    <contact_fournisseur>0487451267</contact_fournisseur>
+    <rue_fournisseur>26 Avenue Clément Ader</rue_fournisseur>
+    <ville_fournisseur>Istres</ville_fournisseur>
+    <code_postale_fournisseur>13800</code_postale_fournisseur>
+    <province_fournisseur>Provence-Alpes-Côte d’Azur</province_fournisseur>
+    <label_fournisseur>3</label_fournisseur>
+  </Table>
+  <Table>
+    <num_siret_fournisseur>452</num_siret_fournisseur>
+    <nom_fournisseur>SERENISSIMO COMMERCIALE SRL</nom_fournisseur>
+    <contact_fournisseur>0445218679</contact_fournisseur>
+    <rue_fournisseur>7 av. du Lac</rue_fournisseur>
+    <ville_fournisseur>Embrun</ville_fournisseur>
+    <code_postale_fournisseur>5200</code_postale_fournisseur>
+    <province_fournisseur>Provence-Alpes-Côte d’Azur</province_fournisseur>
+    <label_fournisseur>2</label_fournisseur>
+  </Table>
+  <Table>
+    <num_siret_fournisseur>512</num_siret_fournisseur>
+    <nom_fournisseur>SUPERBIKE</nom_fournisseur>
+    <contact_fournisseur>0489654123</contact_fournisseur>
+    <rue_fournisseur>523 Rue Sainte-Geneviève</rue_fournisseur>
+    <ville_fournisseur>Avignon</ville_fournisseur>
+    <code_postale_fournisseur>84000</code_postale_fournisseur>
+    <province_fournisseur>Provence-Alpes-Côte d’Azur</province_fournisseur>
+    <label_fournisseur>4</label_fournisseur>
+  </Table>
+  <Table>
+    <num_siret_fournisseur>751</num_siret_fournisseur>
+    <nom_fournisseur>MIRANDA &amp; IRMA, DLA</nom_fournisseur>
+    <contact_fournisseur>0471974521</contact_fournisseur>
+    <rue_fournisseur>16 Rue Frédéric Mistral</rue_fournisseur>
+    <ville_fournisseur>Gignac-la-Nerthe</ville_fournisseur>
+    <code_postale_fournisseur>13180</code_postale_fournisseur>
+    <province_fournisseur>Provence-Alpes-Côte d’Azur</province_fournisseur>
+    <label_fournisseur>1</label_fournisseur>
+  </Table>
+  <Table>
+    <id_produit_piece>C010001</id_produit_piece>
+    <nom_fournisseur>MIRANDA &amp; IRMA</nom_fournisseur>
+    <num_produit_piece>C01</num_produit_piece>
+    <description_piece>Cadre</description_piece>
+    <prix_unitaire_piece>90</prix_unitaire_piece>
+    <date_introduction_marche_piece>2018-08-05T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2028-08-06T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>C020001</id_produit_piece>
+    <nom_fournisseur>MIRANDA &amp; IRMA</nom_fournisseur>
+    <num_produit_piece>C02</num_produit_piece>
+    <description_piece>Cadre</description_piece>
+    <prix_unitaire_piece>90</prix_unitaire_piece>
+    <date_introduction_marche_piece>2018-08-05T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2028-08-06T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>C150001</id_produit_piece>
+    <nom_fournisseur>SERENISSIMO COMMERCIALE SRL</nom_fournisseur>
+    <num_produit_piece>C15</num_produit_piece>
+    <description_piece>Cadre</description_piece>
+    <prix_unitaire_piece>200</prix_unitaire_piece>
+    <date_introduction_marche_piece>2015-04-05T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2025-04-06T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>C250001</id_produit_piece>
+    <nom_fournisseur>VELOMANIA</nom_fournisseur>
+    <num_produit_piece>C25</num_produit_piece>
+    <description_piece>Cadre</description_piece>
+    <prix_unitaire_piece>225</prix_unitaire_piece>
+    <date_introduction_marche_piece>2017-04-05T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2027-04-06T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>C320001</id_produit_piece>
+    <nom_fournisseur>THOMPSON &amp; THOMPSON</nom_fournisseur>
+    <num_produit_piece>C32</num_produit_piece>
+    <description_piece>Cadre</description_piece>
+    <prix_unitaire_piece>280</prix_unitaire_piece>
+    <date_introduction_marche_piece>2014-04-05T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2021-04-06T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>C320011</id_produit_piece>
+    <nom_fournisseur>SERENISSIMO COMMERCIALE SRL</nom_fournisseur>
+    <num_produit_piece>C32</num_produit_piece>
+    <description_piece>Cadre</description_piece>
+    <prix_unitaire_piece>280</prix_unitaire_piece>
+    <date_introduction_marche_piece>2014-04-05T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2021-04-06T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>C340001</id_produit_piece>
+    <nom_fournisseur>THOMPSON &amp; THOMPSON</nom_fournisseur>
+    <num_produit_piece>C34</num_produit_piece>
+    <description_piece>Cadre</description_piece>
+    <prix_unitaire_piece>300</prix_unitaire_piece>
+    <date_introduction_marche_piece>2019-04-05T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2029-04-06T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>C340002</id_produit_piece>
+    <nom_fournisseur>THOMPSON &amp; THOMPSON</nom_fournisseur>
+    <num_produit_piece>C76</num_produit_piece>
+    <description_piece>Cadre</description_piece>
+    <prix_unitaire_piece>250</prix_unitaire_piece>
+    <date_introduction_marche_piece>2019-08-05T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2029-08-06T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>C340003</id_produit_piece>
+    <nom_fournisseur>THOMPSON &amp; THOMPSON</nom_fournisseur>
+    <num_produit_piece>C76</num_produit_piece>
+    <description_piece>Cadre</description_piece>
+    <prix_unitaire_piece>250</prix_unitaire_piece>
+    <date_introduction_marche_piece>2019-08-05T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2029-08-06T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>C340012</id_produit_piece>
+    <nom_fournisseur>SERENISSIMO COMMERCIALE SRL</nom_fournisseur>
+    <num_produit_piece>C76</num_produit_piece>
+    <description_piece>Cadre</description_piece>
+    <prix_unitaire_piece>250</prix_unitaire_piece>
+    <date_introduction_marche_piece>2019-08-05T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2029-08-06T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>C340013</id_produit_piece>
+    <nom_fournisseur>SERENISSIMO COMMERCIALE SRL</nom_fournisseur>
+    <num_produit_piece>C76</num_produit_piece>
+    <description_piece>Cadre</description_piece>
+    <prix_unitaire_piece>250</prix_unitaire_piece>
+    <date_introduction_marche_piece>2019-08-05T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2029-08-06T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>C430001</id_produit_piece>
+    <nom_fournisseur>COBANYAL BIKES</nom_fournisseur>
+    <num_produit_piece>C43</num_produit_piece>
+    <description_piece>Cadre</description_piece>
+    <prix_unitaire_piece>1050</prix_unitaire_piece>
+    <date_introduction_marche_piece>2019-08-05T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2029-08-06T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>C430002</id_produit_piece>
+    <nom_fournisseur>COBANYAL BIKES</nom_fournisseur>
+    <num_produit_piece>C43</num_produit_piece>
+    <description_piece>Cadre</description_piece>
+    <prix_unitaire_piece>1050</prix_unitaire_piece>
+    <date_introduction_marche_piece>2019-08-05T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2029-08-06T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>C430003</id_produit_piece>
+    <nom_fournisseur>COBANYAL BIKES</nom_fournisseur>
+    <num_produit_piece>C43f</num_produit_piece>
+    <description_piece>Cadre</description_piece>
+    <prix_unitaire_piece>1030</prix_unitaire_piece>
+    <date_introduction_marche_piece>2019-08-05T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2029-08-06T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>C430009</id_produit_piece>
+    <nom_fournisseur>MIRANDA &amp; IRMA</nom_fournisseur>
+    <num_produit_piece>C43</num_produit_piece>
+    <description_piece>Cadre</description_piece>
+    <prix_unitaire_piece>1050</prix_unitaire_piece>
+    <date_introduction_marche_piece>2019-08-05T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2029-08-06T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>C430010</id_produit_piece>
+    <nom_fournisseur>MIRANDA &amp; IRMA</nom_fournisseur>
+    <num_produit_piece>C43f</num_produit_piece>
+    <description_piece>Cadre</description_piece>
+    <prix_unitaire_piece>1030</prix_unitaire_piece>
+    <date_introduction_marche_piece>2019-08-05T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2029-08-06T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>C440001</id_produit_piece>
+    <nom_fournisseur>COBANYAL BIKES</nom_fournisseur>
+    <num_produit_piece>C44f</num_produit_piece>
+    <description_piece>Cadre</description_piece>
+    <prix_unitaire_piece>1050</prix_unitaire_piece>
+    <date_introduction_marche_piece>2019-08-05T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2029-08-06T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>C877801</id_produit_piece>
+    <nom_fournisseur>SUPERBIKE</nom_fournisseur>
+    <num_produit_piece>C87</num_produit_piece>
+    <description_piece>Cadre</description_piece>
+    <prix_unitaire_piece>240</prix_unitaire_piece>
+    <date_introduction_marche_piece>2018-04-05T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2028-04-06T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <num_commande>21</num_commande>
+    <id_produit_piece>C877890</id_produit_piece>
+    <nom_fournisseur>VELOMANIA</nom_fournisseur>
+    <num_produit_piece>C87f</num_produit_piece>
+    <description_piece>Cadre</description_piece>
+    <prix_unitaire_piece>245</prix_unitaire_piece>
+    <date_introduction_marche_piece>2018-04-05T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2028-04-06T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>DR20001</id_produit_piece>
+    <nom_fournisseur>SERENISSIMO COMMERCIALE SRL</nom_fournisseur>
+    <num_produit_piece>DR23</num_produit_piece>
+    <description_piece>Derailleur Arriere</description_piece>
+    <prix_unitaire_piece>18</prix_unitaire_piece>
+    <date_introduction_marche_piece>2018-04-05T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2028-04-06T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>DR29101</id_produit_piece>
+    <nom_fournisseur>SUPERBIKE</nom_fournisseur>
+    <num_produit_piece>DR23</num_produit_piece>
+    <description_piece>Derailleur Arriere</description_piece>
+    <prix_unitaire_piece>17</prix_unitaire_piece>
+    <date_introduction_marche_piece>2019-04-05T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2029-04-06T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>DR29901</id_produit_piece>
+    <nom_fournisseur>VELOMANIA</nom_fournisseur>
+    <num_produit_piece>DR23</num_produit_piece>
+    <description_piece>Derailleur Arriere</description_piece>
+    <prix_unitaire_piece>17</prix_unitaire_piece>
+    <date_introduction_marche_piece>2019-04-05T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2029-04-06T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>DR50001</id_produit_piece>
+    <nom_fournisseur>THOMPSON &amp; THOMPSON</nom_fournisseur>
+    <num_produit_piece>DR56</num_produit_piece>
+    <description_piece>Derailleur Arriere</description_piece>
+    <prix_unitaire_piece>20</prix_unitaire_piece>
+    <date_introduction_marche_piece>2018-04-05T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2028-04-06T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>DR50011</id_produit_piece>
+    <nom_fournisseur>SERENISSIMO COMMERCIALE SRL</nom_fournisseur>
+    <num_produit_piece>DR56</num_produit_piece>
+    <description_piece>Derailleur Arriere</description_piece>
+    <prix_unitaire_piece>20</prix_unitaire_piece>
+    <date_introduction_marche_piece>2018-04-05T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2028-04-06T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>DR80001</id_produit_piece>
+    <nom_fournisseur>THOMPSON &amp; THOMPSON</nom_fournisseur>
+    <num_produit_piece>DR87</num_produit_piece>
+    <description_piece>Derailleur Arriere</description_piece>
+    <prix_unitaire_piece>22</prix_unitaire_piece>
+    <date_introduction_marche_piece>2019-02-05T00:00:00+01:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2028-02-06T00:00:00+01:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>DR80002</id_produit_piece>
+    <nom_fournisseur>THOMPSON &amp; THOMPSON</nom_fournisseur>
+    <num_produit_piece>DR87</num_produit_piece>
+    <description_piece>Derailleur Arriere</description_piece>
+    <prix_unitaire_piece>22</prix_unitaire_piece>
+    <date_introduction_marche_piece>2019-02-05T00:00:00+01:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2029-02-06T00:00:00+01:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>DR80003</id_produit_piece>
+    <nom_fournisseur>COBANYAL BIKES</nom_fournisseur>
+    <num_produit_piece>DR86</num_produit_piece>
+    <description_piece>Derailleur Arriere</description_piece>
+    <prix_unitaire_piece>65</prix_unitaire_piece>
+    <date_introduction_marche_piece>2018-02-05T00:00:00+01:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2028-02-06T00:00:00+01:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>DR80004</id_produit_piece>
+    <nom_fournisseur>THOMPSON &amp; THOMPSON</nom_fournisseur>
+    <num_produit_piece>DR86</num_produit_piece>
+    <description_piece>Derailleur Arriere</description_piece>
+    <prix_unitaire_piece>22</prix_unitaire_piece>
+    <date_introduction_marche_piece>2018-02-05T00:00:00+01:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2028-02-06T00:00:00+01:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>DR80008</id_produit_piece>
+    <nom_fournisseur>COBANYAL BIKES</nom_fournisseur>
+    <num_produit_piece>DR86</num_produit_piece>
+    <description_piece>Derailleur Arriere</description_piece>
+    <prix_unitaire_piece>65</prix_unitaire_piece>
+    <date_introduction_marche_piece>2018-02-05T00:00:00+01:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2028-02-06T00:00:00+01:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>DR80009</id_produit_piece>
+    <nom_fournisseur>COBANYAL BIKES</nom_fournisseur>
+    <num_produit_piece>DR86</num_produit_piece>
+    <description_piece>Derailleur Arriere</description_piece>
+    <prix_unitaire_piece>65</prix_unitaire_piece>
+    <date_introduction_marche_piece>2018-02-05T00:00:00+01:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2028-02-06T00:00:00+01:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>DR80010</id_produit_piece>
+    <nom_fournisseur>COBANYAL BIKES</nom_fournisseur>
+    <num_produit_piece>DR86</num_produit_piece>
+    <description_piece>Derailleur Arriere</description_piece>
+    <prix_unitaire_piece>65</prix_unitaire_piece>
+    <date_introduction_marche_piece>2018-02-05T00:00:00+01:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2028-02-06T00:00:00+01:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>DR80011</id_produit_piece>
+    <nom_fournisseur>SERENISSIMO COMMERCIALE SRL</nom_fournisseur>
+    <num_produit_piece>DR86</num_produit_piece>
+    <description_piece>Derailleur Arriere</description_piece>
+    <prix_unitaire_piece>22</prix_unitaire_piece>
+    <date_introduction_marche_piece>2018-02-05T00:00:00+01:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2028-02-06T00:00:00+01:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>DR80012</id_produit_piece>
+    <nom_fournisseur>SERENISSIMO COMMERCIALE SRL</nom_fournisseur>
+    <num_produit_piece>DR87</num_produit_piece>
+    <description_piece>Derailleur Arriere</description_piece>
+    <prix_unitaire_piece>22</prix_unitaire_piece>
+    <date_introduction_marche_piece>2019-02-05T00:00:00+01:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2029-02-06T00:00:00+01:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>DR80025</id_produit_piece>
+    <nom_fournisseur>MIRANDA &amp; IRMA</nom_fournisseur>
+    <num_produit_piece>DR86</num_produit_piece>
+    <description_piece>Derailleur Arriere</description_piece>
+    <prix_unitaire_piece>65</prix_unitaire_piece>
+    <date_introduction_marche_piece>2018-02-05T00:00:00+01:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2028-02-06T00:00:00+01:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>DR80035</id_produit_piece>
+    <nom_fournisseur>MIRANDA &amp; IRMA</nom_fournisseur>
+    <num_produit_piece>DR86</num_produit_piece>
+    <description_piece>Derailleur Arriere</description_piece>
+    <prix_unitaire_piece>65</prix_unitaire_piece>
+    <date_introduction_marche_piece>2018-02-05T00:00:00+01:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2028-02-06T00:00:00+01:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>DV10001</id_produit_piece>
+    <nom_fournisseur>THOMPSON &amp; THOMPSON</nom_fournisseur>
+    <num_produit_piece>DV133</num_produit_piece>
+    <description_piece>Derailleur Avant</description_piece>
+    <prix_unitaire_piece>20</prix_unitaire_piece>
+    <date_introduction_marche_piece>2020-08-25T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2030-08-26T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>DV10002</id_produit_piece>
+    <nom_fournisseur>THOMPSON &amp; THOMPSON</nom_fournisseur>
+    <num_produit_piece>DV17</num_produit_piece>
+    <description_piece>Derailleur Avant</description_piece>
+    <prix_unitaire_piece>25</prix_unitaire_piece>
+    <date_introduction_marche_piece>2021-01-25T00:00:00+01:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2031-01-26T00:00:00+01:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>DV10003</id_produit_piece>
+    <nom_fournisseur>THOMPSON &amp; THOMPSON</nom_fournisseur>
+    <num_produit_piece>DV17</num_produit_piece>
+    <description_piece>Derailleur Avant</description_piece>
+    <prix_unitaire_piece>25</prix_unitaire_piece>
+    <date_introduction_marche_piece>2021-01-25T00:00:00+01:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2031-01-26T00:00:00+01:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>DV10011</id_produit_piece>
+    <nom_fournisseur>SERENISSIMO COMMERCIALE SRL</nom_fournisseur>
+    <num_produit_piece>DV133</num_produit_piece>
+    <description_piece>Derailleur Avant</description_piece>
+    <prix_unitaire_piece>20</prix_unitaire_piece>
+    <date_introduction_marche_piece>2020-08-25T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2030-08-26T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>DV10013</id_produit_piece>
+    <nom_fournisseur>SERENISSIMO COMMERCIALE SRL</nom_fournisseur>
+    <num_produit_piece>DV17</num_produit_piece>
+    <description_piece>Derailleur Avant</description_piece>
+    <prix_unitaire_piece>25</prix_unitaire_piece>
+    <date_introduction_marche_piece>2021-01-25T00:00:00+01:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2031-01-26T00:00:00+01:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>DV10015</id_produit_piece>
+    <nom_fournisseur>SERENISSIMO COMMERCIALE SRL</nom_fournisseur>
+    <num_produit_piece>DV15</num_produit_piece>
+    <description_piece>Derailleur Avant</description_piece>
+    <prix_unitaire_piece>15</prix_unitaire_piece>
+    <date_introduction_marche_piece>2020-08-25T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2030-08-26T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>DV49215</id_produit_piece>
+    <nom_fournisseur>SUPERBIKE</nom_fournisseur>
+    <num_produit_piece>DV41</num_produit_piece>
+    <description_piece>Derailleur Avant</description_piece>
+    <prix_unitaire_piece>18</prix_unitaire_piece>
+    <date_introduction_marche_piece>2020-08-25T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2030-08-26T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>DV49915</id_produit_piece>
+    <nom_fournisseur>VELOMANIA</nom_fournisseur>
+    <num_produit_piece>DV41</num_produit_piece>
+    <description_piece>Derailleur Avant</description_piece>
+    <prix_unitaire_piece>18</prix_unitaire_piece>
+    <date_introduction_marche_piece>2020-08-25T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2030-08-26T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>DV50001</id_produit_piece>
+    <nom_fournisseur>COBANYAL BIKES</nom_fournisseur>
+    <num_produit_piece>DV57</num_produit_piece>
+    <description_piece>Derailleur Avant</description_piece>
+    <prix_unitaire_piece>50</prix_unitaire_piece>
+    <date_introduction_marche_piece>2019-02-05T00:00:00+01:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2029-02-06T00:00:00+01:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>DV50002</id_produit_piece>
+    <nom_fournisseur>COBANYAL BIKES</nom_fournisseur>
+    <num_produit_piece>DV57</num_produit_piece>
+    <description_piece>Derailleur Avant</description_piece>
+    <prix_unitaire_piece>50</prix_unitaire_piece>
+    <date_introduction_marche_piece>2019-02-05T00:00:00+01:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2029-02-06T00:00:00+01:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>DV50003</id_produit_piece>
+    <nom_fournisseur>COBANYAL BIKES</nom_fournisseur>
+    <num_produit_piece>DV57</num_produit_piece>
+    <description_piece>Derailleur Avant</description_piece>
+    <prix_unitaire_piece>50</prix_unitaire_piece>
+    <date_introduction_marche_piece>2019-02-05T00:00:00+01:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2029-02-06T00:00:00+01:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>DV50009</id_produit_piece>
+    <nom_fournisseur>MIRANDA &amp; IRMA</nom_fournisseur>
+    <num_produit_piece>DV57</num_produit_piece>
+    <description_piece>Derailleur Avant</description_piece>
+    <prix_unitaire_piece>50</prix_unitaire_piece>
+    <date_introduction_marche_piece>2019-02-05T00:00:00+01:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2029-02-06T00:00:00+01:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>DV50014</id_produit_piece>
+    <nom_fournisseur>MIRANDA &amp; IRMA</nom_fournisseur>
+    <num_produit_piece>DV57</num_produit_piece>
+    <description_piece>Derailleur Avant</description_piece>
+    <prix_unitaire_piece>50</prix_unitaire_piece>
+    <date_introduction_marche_piece>2019-02-05T00:00:00+01:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2029-02-06T00:00:00+01:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>DV50086</id_produit_piece>
+    <nom_fournisseur>COBANYAL BIKES</nom_fournisseur>
+    <num_produit_piece>DV57</num_produit_piece>
+    <description_piece>Derailleur Avant</description_piece>
+    <prix_unitaire_piece>50</prix_unitaire_piece>
+    <date_introduction_marche_piece>2019-02-05T00:00:00+01:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2029-02-06T00:00:00+01:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>DV80001</id_produit_piece>
+    <nom_fournisseur>THOMPSON &amp; THOMPSON</nom_fournisseur>
+    <num_produit_piece>DR87</num_produit_piece>
+    <description_piece>Derailleur Avant</description_piece>
+    <prix_unitaire_piece>22</prix_unitaire_piece>
+    <date_introduction_marche_piece>2019-02-05T00:00:00+01:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2029-02-06T00:00:00+01:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>DV80011</id_produit_piece>
+    <nom_fournisseur>SERENISSIMO COMMERCIALE SRL</nom_fournisseur>
+    <num_produit_piece>DR87</num_produit_piece>
+    <description_piece>Derailleur Avant</description_piece>
+    <prix_unitaire_piece>22</prix_unitaire_piece>
+    <date_introduction_marche_piece>2019-02-05T00:00:00+01:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2029-02-06T00:00:00+01:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>F300001</id_produit_piece>
+    <nom_fournisseur>THOMPSON &amp; THOMPSON</nom_fournisseur>
+    <num_produit_piece>F3</num_produit_piece>
+    <description_piece>Freins</description_piece>
+    <prix_unitaire_piece>30</prix_unitaire_piece>
+    <date_introduction_marche_piece>2018-02-28T00:00:00+01:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2028-03-01T00:00:00+01:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>F300002</id_produit_piece>
+    <nom_fournisseur>THOMPSON &amp; THOMPSON</nom_fournisseur>
+    <num_produit_piece>F3</num_produit_piece>
+    <description_piece>Freins</description_piece>
+    <prix_unitaire_piece>30</prix_unitaire_piece>
+    <date_introduction_marche_piece>2018-02-28T00:00:00+01:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2028-03-01T00:00:00+01:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>F300003</id_produit_piece>
+    <nom_fournisseur>THOMPSON &amp; THOMPSON</nom_fournisseur>
+    <num_produit_piece>F3</num_produit_piece>
+    <description_piece>Freins</description_piece>
+    <prix_unitaire_piece>30</prix_unitaire_piece>
+    <date_introduction_marche_piece>2018-02-28T00:00:00+01:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2028-03-01T00:00:00+01:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>F300004</id_produit_piece>
+    <nom_fournisseur>THOMPSON &amp; THOMPSON</nom_fournisseur>
+    <num_produit_piece>F3</num_produit_piece>
+    <description_piece>Freins</description_piece>
+    <prix_unitaire_piece>30</prix_unitaire_piece>
+    <date_introduction_marche_piece>2018-02-28T00:00:00+01:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2028-03-01T00:00:00+01:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>F300011</id_produit_piece>
+    <nom_fournisseur>SERENISSIMO COMMERCIALE SRL</nom_fournisseur>
+    <num_produit_piece>F3</num_produit_piece>
+    <description_piece>Freins</description_piece>
+    <prix_unitaire_piece>30</prix_unitaire_piece>
+    <date_introduction_marche_piece>2018-02-28T00:00:00+01:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2028-03-01T00:00:00+01:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>F300013</id_produit_piece>
+    <nom_fournisseur>SERENISSIMO COMMERCIALE SRL</nom_fournisseur>
+    <num_produit_piece>F3</num_produit_piece>
+    <description_piece>Freins</description_piece>
+    <prix_unitaire_piece>30</prix_unitaire_piece>
+    <date_introduction_marche_piece>2018-02-28T00:00:00+01:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2028-03-01T00:00:00+01:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>F300014</id_produit_piece>
+    <nom_fournisseur>SERENISSIMO COMMERCIALE SRL</nom_fournisseur>
+    <num_produit_piece>F3</num_produit_piece>
+    <description_piece>Freins</description_piece>
+    <prix_unitaire_piece>30</prix_unitaire_piece>
+    <date_introduction_marche_piece>2018-02-28T00:00:00+01:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2028-03-01T00:00:00+01:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>F900001</id_produit_piece>
+    <nom_fournisseur>COBANYAL BIKES</nom_fournisseur>
+    <num_produit_piece>F9</num_produit_piece>
+    <description_piece>Freins</description_piece>
+    <prix_unitaire_piece>40</prix_unitaire_piece>
+    <date_introduction_marche_piece>2019-02-28T00:00:00+01:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2029-03-01T00:00:00+01:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>F900002</id_produit_piece>
+    <nom_fournisseur>COBANYAL BIKES</nom_fournisseur>
+    <num_produit_piece>F9</num_produit_piece>
+    <description_piece>Freins</description_piece>
+    <prix_unitaire_piece>40</prix_unitaire_piece>
+    <date_introduction_marche_piece>2019-02-28T00:00:00+01:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2029-03-01T00:00:00+01:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>F900003</id_produit_piece>
+    <nom_fournisseur>COBANYAL BIKES</nom_fournisseur>
+    <num_produit_piece>F9</num_produit_piece>
+    <description_piece>Freins</description_piece>
+    <prix_unitaire_piece>40</prix_unitaire_piece>
+    <date_introduction_marche_piece>2019-02-28T00:00:00+01:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2029-03-01T00:00:00+01:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>F900004</id_produit_piece>
+    <nom_fournisseur>COBANYAL BIKES</nom_fournisseur>
+    <num_produit_piece>F9</num_produit_piece>
+    <description_piece>Freins</description_piece>
+    <prix_unitaire_piece>40</prix_unitaire_piece>
+    <date_introduction_marche_piece>2019-02-28T00:00:00+01:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2029-03-01T00:00:00+01:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>F900013</id_produit_piece>
+    <nom_fournisseur>SERENISSIMO COMMERCIALE SRL</nom_fournisseur>
+    <num_produit_piece>F9</num_produit_piece>
+    <description_piece>Freins</description_piece>
+    <prix_unitaire_piece>40</prix_unitaire_piece>
+    <date_introduction_marche_piece>2019-02-28T00:00:00+01:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2029-03-01T00:00:00+01:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>F900054</id_produit_piece>
+    <nom_fournisseur>MIRANDA &amp; IRMA</nom_fournisseur>
+    <num_produit_piece>F9</num_produit_piece>
+    <description_piece>Freins</description_piece>
+    <prix_unitaire_piece>40</prix_unitaire_piece>
+    <date_introduction_marche_piece>2019-02-28T00:00:00+01:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2029-03-01T00:00:00+01:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>F900783</id_produit_piece>
+    <nom_fournisseur>MIRANDA &amp; IRMA</nom_fournisseur>
+    <num_produit_piece>F9</num_produit_piece>
+    <description_piece>Freins</description_piece>
+    <prix_unitaire_piece>40</prix_unitaire_piece>
+    <date_introduction_marche_piece>2019-02-28T00:00:00+01:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2029-03-01T00:00:00+01:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>F909813</id_produit_piece>
+    <nom_fournisseur>SUPERBIKE</nom_fournisseur>
+    <num_produit_piece>F9</num_produit_piece>
+    <description_piece>Freins</description_piece>
+    <prix_unitaire_piece>40</prix_unitaire_piece>
+    <date_introduction_marche_piece>2019-02-28T00:00:00+01:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2029-03-01T00:00:00+01:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>F909913</id_produit_piece>
+    <nom_fournisseur>VELOMANIA</nom_fournisseur>
+    <num_produit_piece>F9</num_produit_piece>
+    <description_piece>Freins</description_piece>
+    <prix_unitaire_piece>40</prix_unitaire_piece>
+    <date_introduction_marche_piece>2019-02-28T00:00:00+01:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2029-03-01T00:00:00+01:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>G120001</id_produit_piece>
+    <nom_fournisseur>MIRANDA &amp; IRMA</nom_fournisseur>
+    <num_produit_piece>G12</num_produit_piece>
+    <description_piece>Guidon</description_piece>
+    <prix_unitaire_piece>40</prix_unitaire_piece>
+    <date_introduction_marche_piece>2015-08-12T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2025-08-13T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>G120002</id_produit_piece>
+    <nom_fournisseur>MIRANDA &amp; IRMA</nom_fournisseur>
+    <num_produit_piece>G12</num_produit_piece>
+    <description_piece>Guidon</description_piece>
+    <prix_unitaire_piece>40</prix_unitaire_piece>
+    <date_introduction_marche_piece>2015-08-12T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2025-08-13T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>G120012</id_produit_piece>
+    <nom_fournisseur>SERENISSIMO COMMERCIALE SRL</nom_fournisseur>
+    <num_produit_piece>G12</num_produit_piece>
+    <description_piece>Guidon</description_piece>
+    <prix_unitaire_piece>40</prix_unitaire_piece>
+    <date_introduction_marche_piece>2015-08-12T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2025-08-13T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>G129712</id_produit_piece>
+    <nom_fournisseur>SUPERBIKE</nom_fournisseur>
+    <num_produit_piece>G12</num_produit_piece>
+    <description_piece>Guidon</description_piece>
+    <prix_unitaire_piece>40</prix_unitaire_piece>
+    <date_introduction_marche_piece>2015-08-12T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2025-08-13T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>G129912</id_produit_piece>
+    <nom_fournisseur>VELOMANIA</nom_fournisseur>
+    <num_produit_piece>G12</num_produit_piece>
+    <description_piece>Guidon</description_piece>
+    <prix_unitaire_piece>40</prix_unitaire_piece>
+    <date_introduction_marche_piece>2015-08-12T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2025-08-13T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>G700001</id_produit_piece>
+    <nom_fournisseur>THOMPSON &amp; THOMPSON</nom_fournisseur>
+    <num_produit_piece>G7</num_produit_piece>
+    <description_piece>Guidon</description_piece>
+    <prix_unitaire_piece>30</prix_unitaire_piece>
+    <date_introduction_marche_piece>2019-08-12T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2029-08-13T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>G700002</id_produit_piece>
+    <nom_fournisseur>THOMPSON &amp; THOMPSON</nom_fournisseur>
+    <num_produit_piece>G7</num_produit_piece>
+    <description_piece>Guidon</description_piece>
+    <prix_unitaire_piece>30</prix_unitaire_piece>
+    <date_introduction_marche_piece>2019-08-12T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2029-08-13T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>G700003</id_produit_piece>
+    <nom_fournisseur>THOMPSON &amp; THOMPSON</nom_fournisseur>
+    <num_produit_piece>G7</num_produit_piece>
+    <description_piece>Guidon</description_piece>
+    <prix_unitaire_piece>30</prix_unitaire_piece>
+    <date_introduction_marche_piece>2019-08-12T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2029-08-13T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>G700004</id_produit_piece>
+    <nom_fournisseur>THOMPSON &amp; THOMPSON</nom_fournisseur>
+    <num_produit_piece>G7</num_produit_piece>
+    <description_piece>Guidon</description_piece>
+    <prix_unitaire_piece>30</prix_unitaire_piece>
+    <date_introduction_marche_piece>2019-08-12T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2029-08-13T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>G700011</id_produit_piece>
+    <nom_fournisseur>SERENISSIMO COMMERCIALE SRL</nom_fournisseur>
+    <num_produit_piece>G7</num_produit_piece>
+    <description_piece>Guidon</description_piece>
+    <prix_unitaire_piece>30</prix_unitaire_piece>
+    <date_introduction_marche_piece>2019-08-12T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2029-08-13T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>G700013</id_produit_piece>
+    <nom_fournisseur>SERENISSIMO COMMERCIALE SRL</nom_fournisseur>
+    <num_produit_piece>G7</num_produit_piece>
+    <description_piece>Guidon</description_piece>
+    <prix_unitaire_piece>30</prix_unitaire_piece>
+    <date_introduction_marche_piece>2019-08-12T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2029-08-13T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>G700014</id_produit_piece>
+    <nom_fournisseur>SERENISSIMO COMMERCIALE SRL</nom_fournisseur>
+    <num_produit_piece>G7</num_produit_piece>
+    <description_piece>Guidon</description_piece>
+    <prix_unitaire_piece>30</prix_unitaire_piece>
+    <date_introduction_marche_piece>2019-08-12T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2029-08-13T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>G900001</id_produit_piece>
+    <nom_fournisseur>COBANYAL BIKES</nom_fournisseur>
+    <num_produit_piece>G9</num_produit_piece>
+    <description_piece>Guidon</description_piece>
+    <prix_unitaire_piece>180</prix_unitaire_piece>
+    <date_introduction_marche_piece>2019-08-12T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2029-08-13T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>G900002</id_produit_piece>
+    <nom_fournisseur>COBANYAL BIKES</nom_fournisseur>
+    <num_produit_piece>G9</num_produit_piece>
+    <description_piece>Guidon</description_piece>
+    <prix_unitaire_piece>180</prix_unitaire_piece>
+    <date_introduction_marche_piece>2019-08-12T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2029-08-13T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>G900003</id_produit_piece>
+    <nom_fournisseur>COBANYAL BIKES</nom_fournisseur>
+    <num_produit_piece>G9</num_produit_piece>
+    <description_piece>Guidon</description_piece>
+    <prix_unitaire_piece>180</prix_unitaire_piece>
+    <date_introduction_marche_piece>2019-08-12T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2029-08-13T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>G900004</id_produit_piece>
+    <nom_fournisseur>COBANYAL BIKES</nom_fournisseur>
+    <num_produit_piece>G9</num_produit_piece>
+    <description_piece>Guidon</description_piece>
+    <prix_unitaire_piece>180</prix_unitaire_piece>
+    <date_introduction_marche_piece>2019-08-12T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2029-08-13T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>G900005</id_produit_piece>
+    <nom_fournisseur>MIRANDA &amp; IRMA</nom_fournisseur>
+    <num_produit_piece>G9</num_produit_piece>
+    <description_piece>Guidon</description_piece>
+    <prix_unitaire_piece>180</prix_unitaire_piece>
+    <date_introduction_marche_piece>2019-08-12T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2029-08-13T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>G900006</id_produit_piece>
+    <nom_fournisseur>MIRANDA &amp; IRMA</nom_fournisseur>
+    <num_produit_piece>G9</num_produit_piece>
+    <description_piece>Guidon</description_piece>
+    <prix_unitaire_piece>180</prix_unitaire_piece>
+    <date_introduction_marche_piece>2019-08-12T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2029-08-13T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>O200001</id_produit_piece>
+    <nom_fournisseur>THOMPSON &amp; THOMPSON</nom_fournisseur>
+    <num_produit_piece>O2</num_produit_piece>
+    <description_piece>Ordinateur</description_piece>
+    <prix_unitaire_piece>200</prix_unitaire_piece>
+    <date_introduction_marche_piece>2015-08-25T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2025-08-26T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>O200002</id_produit_piece>
+    <nom_fournisseur>THOMPSON &amp; THOMPSON</nom_fournisseur>
+    <num_produit_piece>O2</num_produit_piece>
+    <description_piece>Ordinateur</description_piece>
+    <prix_unitaire_piece>200</prix_unitaire_piece>
+    <date_introduction_marche_piece>2015-08-25T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2025-08-26T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>O200011</id_produit_piece>
+    <nom_fournisseur>SERENISSIMO COMMERCIALE SRL</nom_fournisseur>
+    <num_produit_piece>O2</num_produit_piece>
+    <description_piece>Ordinateur</description_piece>
+    <prix_unitaire_piece>200</prix_unitaire_piece>
+    <date_introduction_marche_piece>2015-08-25T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2025-08-26T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>O200012</id_produit_piece>
+    <nom_fournisseur>SERENISSIMO COMMERCIALE SRL</nom_fournisseur>
+    <num_produit_piece>O2</num_produit_piece>
+    <description_piece>Ordinateur</description_piece>
+    <prix_unitaire_piece>200</prix_unitaire_piece>
+    <date_introduction_marche_piece>2015-08-25T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2025-08-26T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>O400001</id_produit_piece>
+    <nom_fournisseur>COBANYAL BIKES</nom_fournisseur>
+    <num_produit_piece>O4</num_produit_piece>
+    <description_piece>Ordinateur</description_piece>
+    <prix_unitaire_piece>350</prix_unitaire_piece>
+    <date_introduction_marche_piece>2019-08-25T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2029-08-26T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>O400002</id_produit_piece>
+    <nom_fournisseur>COBANYAL BIKES</nom_fournisseur>
+    <num_produit_piece>O4</num_produit_piece>
+    <description_piece>Ordinateur</description_piece>
+    <prix_unitaire_piece>350</prix_unitaire_piece>
+    <date_introduction_marche_piece>2019-08-25T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2029-08-26T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>O400742</id_produit_piece>
+    <nom_fournisseur>MIRANDA &amp; IRMA</nom_fournisseur>
+    <num_produit_piece>O4</num_produit_piece>
+    <description_piece>Ordinateur</description_piece>
+    <prix_unitaire_piece>350</prix_unitaire_piece>
+    <date_introduction_marche_piece>2019-08-25T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2029-08-26T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>O409001</id_produit_piece>
+    <nom_fournisseur>MIRANDA &amp; IRMA</nom_fournisseur>
+    <num_produit_piece>O4</num_produit_piece>
+    <description_piece>Ordinateur</description_piece>
+    <prix_unitaire_piece>350</prix_unitaire_piece>
+    <date_introduction_marche_piece>2019-08-25T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2029-08-26T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>P100001</id_produit_piece>
+    <nom_fournisseur>MIRANDA &amp; IRMA</nom_fournisseur>
+    <num_produit_piece>P1</num_produit_piece>
+    <description_piece>Pedalier</description_piece>
+    <prix_unitaire_piece>60</prix_unitaire_piece>
+    <date_introduction_marche_piece>2020-11-10T00:00:00+01:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2030-11-06T00:00:00+01:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>P100002</id_produit_piece>
+    <nom_fournisseur>MIRANDA &amp; IRMA</nom_fournisseur>
+    <num_produit_piece>P1</num_produit_piece>
+    <description_piece>Pedalier</description_piece>
+    <prix_unitaire_piece>115</prix_unitaire_piece>
+    <date_introduction_marche_piece>2020-11-10T00:00:00+01:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2030-11-06T00:00:00+01:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>P120001</id_produit_piece>
+    <nom_fournisseur>THOMPSON &amp; THOMPSON</nom_fournisseur>
+    <num_produit_piece>P12</num_produit_piece>
+    <description_piece>Pedalier</description_piece>
+    <prix_unitaire_piece>60</prix_unitaire_piece>
+    <date_introduction_marche_piece>2020-06-10T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2030-04-06T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>P120002</id_produit_piece>
+    <nom_fournisseur>THOMPSON &amp; THOMPSON</nom_fournisseur>
+    <num_produit_piece>P12</num_produit_piece>
+    <description_piece>Pedalier</description_piece>
+    <prix_unitaire_piece>60</prix_unitaire_piece>
+    <date_introduction_marche_piece>2020-06-10T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2030-04-06T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>P120003</id_produit_piece>
+    <nom_fournisseur>THOMPSON &amp; THOMPSON</nom_fournisseur>
+    <num_produit_piece>P12</num_produit_piece>
+    <description_piece>Pedalier</description_piece>
+    <prix_unitaire_piece>60</prix_unitaire_piece>
+    <date_introduction_marche_piece>2020-06-10T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2030-04-06T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>P120004</id_produit_piece>
+    <nom_fournisseur>THOMPSON &amp; THOMPSON</nom_fournisseur>
+    <num_produit_piece>P12</num_produit_piece>
+    <description_piece>Pedalier</description_piece>
+    <prix_unitaire_piece>60</prix_unitaire_piece>
+    <date_introduction_marche_piece>2020-06-10T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2030-04-06T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>P120011</id_produit_piece>
+    <nom_fournisseur>SERENISSIMO COMMERCIALE SRL</nom_fournisseur>
+    <num_produit_piece>P12</num_produit_piece>
+    <description_piece>Pedalier</description_piece>
+    <prix_unitaire_piece>60</prix_unitaire_piece>
+    <date_introduction_marche_piece>2020-06-10T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2030-04-06T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>P120013</id_produit_piece>
+    <nom_fournisseur>SERENISSIMO COMMERCIALE SRL</nom_fournisseur>
+    <num_produit_piece>P12</num_produit_piece>
+    <description_piece>Pedalier</description_piece>
+    <prix_unitaire_piece>60</prix_unitaire_piece>
+    <date_introduction_marche_piece>2020-06-10T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2030-04-06T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>P127594</id_produit_piece>
+    <nom_fournisseur>SERENISSIMO COMMERCIALE SRL</nom_fournisseur>
+    <num_produit_piece>P12</num_produit_piece>
+    <description_piece>Pedalier</description_piece>
+    <prix_unitaire_piece>60</prix_unitaire_piece>
+    <date_introduction_marche_piece>2021-06-10T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2031-04-06T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <num_commande>20</num_commande>
+    <id_produit_piece>P129171</id_produit_piece>
+    <nom_fournisseur>SUPERBIKE</nom_fournisseur>
+    <num_produit_piece>P12</num_produit_piece>
+    <description_piece>Pedalier</description_piece>
+    <prix_unitaire_piece>60</prix_unitaire_piece>
+    <date_introduction_marche_piece>2020-06-10T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2030-04-06T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>P129971</id_produit_piece>
+    <nom_fournisseur>VELOMANIA</nom_fournisseur>
+    <num_produit_piece>P12</num_produit_piece>
+    <description_piece>Pedalier</description_piece>
+    <prix_unitaire_piece>60</prix_unitaire_piece>
+    <date_introduction_marche_piece>2020-06-10T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2030-04-06T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>P150071</id_produit_piece>
+    <nom_fournisseur>SERENISSIMO COMMERCIALE SRL</nom_fournisseur>
+    <num_produit_piece>P15</num_produit_piece>
+    <description_piece>Pedalier</description_piece>
+    <prix_unitaire_piece>60</prix_unitaire_piece>
+    <date_introduction_marche_piece>2020-06-10T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2030-04-06T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>P340001</id_produit_piece>
+    <nom_fournisseur>COBANYAL BIKES</nom_fournisseur>
+    <num_produit_piece>P34</num_produit_piece>
+    <description_piece>Pedalier</description_piece>
+    <prix_unitaire_piece>115</prix_unitaire_piece>
+    <date_introduction_marche_piece>2020-06-10T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2030-04-06T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>P340002</id_produit_piece>
+    <nom_fournisseur>COBANYAL BIKES</nom_fournisseur>
+    <num_produit_piece>P34</num_produit_piece>
+    <description_piece>Pedalier</description_piece>
+    <prix_unitaire_piece>115</prix_unitaire_piece>
+    <date_introduction_marche_piece>2020-06-10T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2030-04-06T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>P340003</id_produit_piece>
+    <nom_fournisseur>COBANYAL BIKES</nom_fournisseur>
+    <num_produit_piece>P34</num_produit_piece>
+    <description_piece>Pedalier</description_piece>
+    <prix_unitaire_piece>115</prix_unitaire_piece>
+    <date_introduction_marche_piece>2020-06-10T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2030-04-06T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>P340004</id_produit_piece>
+    <nom_fournisseur>COBANYAL BIKES</nom_fournisseur>
+    <num_produit_piece>P34</num_produit_piece>
+    <description_piece>Pedalier</description_piece>
+    <prix_unitaire_piece>115</prix_unitaire_piece>
+    <date_introduction_marche_piece>2020-06-10T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2030-04-06T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>P340784</id_produit_piece>
+    <nom_fournisseur>MIRANDA &amp; IRMA</nom_fournisseur>
+    <num_produit_piece>P34</num_produit_piece>
+    <description_piece>Pedalier</description_piece>
+    <prix_unitaire_piece>115</prix_unitaire_piece>
+    <date_introduction_marche_piece>2020-06-10T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2030-04-06T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>P340903</id_produit_piece>
+    <nom_fournisseur>MIRANDA &amp; IRMA</nom_fournisseur>
+    <num_produit_piece>P34</num_produit_piece>
+    <description_piece>Pedalier</description_piece>
+    <prix_unitaire_piece>115</prix_unitaire_piece>
+    <date_introduction_marche_piece>2020-06-10T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2030-04-06T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>R020001</id_produit_piece>
+    <nom_fournisseur>COBANYAL BIKES</nom_fournisseur>
+    <num_produit_piece>R02</num_produit_piece>
+    <description_piece>Reflecteur</description_piece>
+    <prix_unitaire_piece>10</prix_unitaire_piece>
+    <date_introduction_marche_piece>2014-06-10T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2024-04-06T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>R020002</id_produit_piece>
+    <nom_fournisseur>COBANYAL BIKES</nom_fournisseur>
+    <num_produit_piece>R02</num_produit_piece>
+    <description_piece>Reflecteur</description_piece>
+    <prix_unitaire_piece>10</prix_unitaire_piece>
+    <date_introduction_marche_piece>2014-06-10T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2024-04-06T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>R020003</id_produit_piece>
+    <nom_fournisseur>COBANYAL BIKES</nom_fournisseur>
+    <num_produit_piece>R02</num_produit_piece>
+    <description_piece>Reflecteur</description_piece>
+    <prix_unitaire_piece>10</prix_unitaire_piece>
+    <date_introduction_marche_piece>2014-06-10T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2024-04-06T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>R020004</id_produit_piece>
+    <nom_fournisseur>COBANYAL BIKES</nom_fournisseur>
+    <num_produit_piece>R02</num_produit_piece>
+    <description_piece>Reflecteur</description_piece>
+    <prix_unitaire_piece>10</prix_unitaire_piece>
+    <date_introduction_marche_piece>2014-06-10T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2024-04-06T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>R020094</id_produit_piece>
+    <nom_fournisseur>MIRANDA &amp; IRMA</nom_fournisseur>
+    <num_produit_piece>R02</num_produit_piece>
+    <description_piece>Reflecteur</description_piece>
+    <prix_unitaire_piece>10</prix_unitaire_piece>
+    <date_introduction_marche_piece>2014-06-10T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2024-04-06T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>R020903</id_produit_piece>
+    <nom_fournisseur>MIRANDA &amp; IRMA</nom_fournisseur>
+    <num_produit_piece>R02</num_produit_piece>
+    <description_piece>Reflecteur</description_piece>
+    <prix_unitaire_piece>10</prix_unitaire_piece>
+    <date_introduction_marche_piece>2014-06-10T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2024-04-06T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>R090001</id_produit_piece>
+    <nom_fournisseur>MIRANDA &amp; IRMA</nom_fournisseur>
+    <num_produit_piece>R09</num_produit_piece>
+    <description_piece>Reflecteur</description_piece>
+    <prix_unitaire_piece>5</prix_unitaire_piece>
+    <date_introduction_marche_piece>2014-06-10T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2024-04-06T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>R090002</id_produit_piece>
+    <nom_fournisseur>MIRANDA &amp; IRMA</nom_fournisseur>
+    <num_produit_piece>R09</num_produit_piece>
+    <description_piece>Reflecteur</description_piece>
+    <prix_unitaire_piece>10</prix_unitaire_piece>
+    <date_introduction_marche_piece>2014-06-10T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2024-04-06T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>R100001</id_produit_piece>
+    <nom_fournisseur>MIRANDA &amp; IRMA</nom_fournisseur>
+    <num_produit_piece>R1</num_produit_piece>
+    <description_piece>Roue Avant</description_piece>
+    <prix_unitaire_piece>30</prix_unitaire_piece>
+    <date_introduction_marche_piece>2017-08-18T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2027-08-18T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>R100002</id_produit_piece>
+    <nom_fournisseur>MIRANDA &amp; IRMA</nom_fournisseur>
+    <num_produit_piece>R1</num_produit_piece>
+    <description_piece>Roue Avant</description_piece>
+    <prix_unitaire_piece>30</prix_unitaire_piece>
+    <date_introduction_marche_piece>2017-08-18T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2027-08-18T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>R1000021</id_produit_piece>
+    <nom_fournisseur>MIRANDA &amp; IRMA</nom_fournisseur>
+    <num_produit_piece>R10</num_produit_piece>
+    <description_piece>Reflecteur</description_piece>
+    <prix_unitaire_piece>12</prix_unitaire_piece>
+    <date_introduction_marche_piece>2016-06-10T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2026-04-06T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>R110001</id_produit_piece>
+    <nom_fournisseur>SERENISSIMO COMMERCIALE SRL</nom_fournisseur>
+    <num_produit_piece>R11</num_produit_piece>
+    <description_piece>Roue Avant</description_piece>
+    <prix_unitaire_piece>50</prix_unitaire_piece>
+    <date_introduction_marche_piece>2015-08-18T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2025-08-19T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>R119101</id_produit_piece>
+    <nom_fournisseur>SUPERBIKE</nom_fournisseur>
+    <num_produit_piece>R11</num_produit_piece>
+    <description_piece>Roue Avant</description_piece>
+    <prix_unitaire_piece>50</prix_unitaire_piece>
+    <date_introduction_marche_piece>2015-08-18T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2025-08-19T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>R119901</id_produit_piece>
+    <nom_fournisseur>VELOMANIA</nom_fournisseur>
+    <num_produit_piece>R11</num_produit_piece>
+    <description_piece>Roue Avant</description_piece>
+    <prix_unitaire_piece>50</prix_unitaire_piece>
+    <date_introduction_marche_piece>2015-08-18T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2025-08-19T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>R120001</id_produit_piece>
+    <nom_fournisseur>THOMPSON &amp; THOMPSON</nom_fournisseur>
+    <num_produit_piece>R12</num_produit_piece>
+    <description_piece>Roue Avant</description_piece>
+    <prix_unitaire_piece>50</prix_unitaire_piece>
+    <date_introduction_marche_piece>2018-08-18T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2028-08-18T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>R120011</id_produit_piece>
+    <nom_fournisseur>SERENISSIMO COMMERCIALE SRL</nom_fournisseur>
+    <num_produit_piece>R12</num_produit_piece>
+    <description_piece>Roue Avant</description_piece>
+    <prix_unitaire_piece>50</prix_unitaire_piece>
+    <date_introduction_marche_piece>2018-08-18T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2028-08-18T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>R120061</id_produit_piece>
+    <nom_fournisseur>SERENISSIMO COMMERCIALE SRL</nom_fournisseur>
+    <num_produit_piece>R12</num_produit_piece>
+    <description_piece>Roue Arriere</description_piece>
+    <prix_unitaire_piece>60</prix_unitaire_piece>
+    <date_introduction_marche_piece>2015-02-12T00:00:00+01:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2025-02-13T00:00:00+01:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>R129161</id_produit_piece>
+    <nom_fournisseur>SUPERBIKE</nom_fournisseur>
+    <num_produit_piece>R12</num_produit_piece>
+    <description_piece>Roue Arriere</description_piece>
+    <prix_unitaire_piece>60</prix_unitaire_piece>
+    <date_introduction_marche_piece>2015-02-12T00:00:00+01:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2025-02-13T00:00:00+01:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>R129961</id_produit_piece>
+    <nom_fournisseur>VELOMANIA</nom_fournisseur>
+    <num_produit_piece>R12</num_produit_piece>
+    <description_piece>Roue Arriere</description_piece>
+    <prix_unitaire_piece>60</prix_unitaire_piece>
+    <date_introduction_marche_piece>2015-02-12T00:00:00+01:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2025-02-13T00:00:00+01:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>R180001</id_produit_piece>
+    <nom_fournisseur>COBANYAL BIKES</nom_fournisseur>
+    <num_produit_piece>R18</num_produit_piece>
+    <description_piece>Roue Arriere</description_piece>
+    <prix_unitaire_piece>190</prix_unitaire_piece>
+    <date_introduction_marche_piece>2019-02-12T00:00:00+01:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2029-02-12T00:00:00+01:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>R180002</id_produit_piece>
+    <nom_fournisseur>COBANYAL BIKES</nom_fournisseur>
+    <num_produit_piece>R18</num_produit_piece>
+    <description_piece>Roue Arriere</description_piece>
+    <prix_unitaire_piece>190</prix_unitaire_piece>
+    <date_introduction_marche_piece>2019-02-12T00:00:00+01:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2029-02-12T00:00:00+01:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>R180003</id_produit_piece>
+    <nom_fournisseur>COBANYAL BIKES</nom_fournisseur>
+    <num_produit_piece>R18</num_produit_piece>
+    <description_piece>Roue Arriere</description_piece>
+    <prix_unitaire_piece>190</prix_unitaire_piece>
+    <date_introduction_marche_piece>2019-02-12T00:00:00+01:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2029-02-12T00:00:00+01:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>R180004</id_produit_piece>
+    <nom_fournisseur>COBANYAL BIKES</nom_fournisseur>
+    <num_produit_piece>R18</num_produit_piece>
+    <description_piece>Roue Arriere</description_piece>
+    <prix_unitaire_piece>190</prix_unitaire_piece>
+    <date_introduction_marche_piece>2019-02-12T00:00:00+01:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2029-02-12T00:00:00+01:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>R180084</id_produit_piece>
+    <nom_fournisseur>MIRANDA &amp; IRMA</nom_fournisseur>
+    <num_produit_piece>R18</num_produit_piece>
+    <description_piece>Roue Arriere</description_piece>
+    <prix_unitaire_piece>190</prix_unitaire_piece>
+    <date_introduction_marche_piece>2019-02-12T00:00:00+01:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2029-02-12T00:00:00+01:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>R180903</id_produit_piece>
+    <nom_fournisseur>MIRANDA &amp; IRMA</nom_fournisseur>
+    <num_produit_piece>R18</num_produit_piece>
+    <description_piece>Roue Arriere</description_piece>
+    <prix_unitaire_piece>190</prix_unitaire_piece>
+    <date_introduction_marche_piece>2019-02-12T00:00:00+01:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2029-02-12T00:00:00+01:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>R190001</id_produit_piece>
+    <nom_fournisseur>COBANYAL BIKES</nom_fournisseur>
+    <num_produit_piece>R19</num_produit_piece>
+    <description_piece>Roue Avant</description_piece>
+    <prix_unitaire_piece>180</prix_unitaire_piece>
+    <date_introduction_marche_piece>2019-08-18T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2029-08-18T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>R190002</id_produit_piece>
+    <nom_fournisseur>COBANYAL BIKES</nom_fournisseur>
+    <num_produit_piece>R19</num_produit_piece>
+    <description_piece>Roue Avant</description_piece>
+    <prix_unitaire_piece>180</prix_unitaire_piece>
+    <date_introduction_marche_piece>2019-08-18T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2029-08-18T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>R190003</id_produit_piece>
+    <nom_fournisseur>COBANYAL BIKES</nom_fournisseur>
+    <num_produit_piece>R19</num_produit_piece>
+    <description_piece>Roue Avant</description_piece>
+    <prix_unitaire_piece>180</prix_unitaire_piece>
+    <date_introduction_marche_piece>2019-08-18T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2029-08-18T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>R190004</id_produit_piece>
+    <nom_fournisseur>COBANYAL BIKES</nom_fournisseur>
+    <num_produit_piece>R19</num_produit_piece>
+    <description_piece>Roue Avant</description_piece>
+    <prix_unitaire_piece>180</prix_unitaire_piece>
+    <date_introduction_marche_piece>2019-08-18T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2029-08-18T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>R190074</id_produit_piece>
+    <nom_fournisseur>MIRANDA &amp; IRMA</nom_fournisseur>
+    <num_produit_piece>R19</num_produit_piece>
+    <description_piece>Roue Avant</description_piece>
+    <prix_unitaire_piece>180</prix_unitaire_piece>
+    <date_introduction_marche_piece>2019-08-18T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2029-08-18T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>R190903</id_produit_piece>
+    <nom_fournisseur>MIRANDA &amp; IRMA</nom_fournisseur>
+    <num_produit_piece>R19</num_produit_piece>
+    <description_piece>Roue Avant</description_piece>
+    <prix_unitaire_piece>180</prix_unitaire_piece>
+    <date_introduction_marche_piece>2019-08-18T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2029-08-18T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>R200001</id_produit_piece>
+    <nom_fournisseur>MIRANDA &amp; IRMA</nom_fournisseur>
+    <num_produit_piece>R2</num_produit_piece>
+    <description_piece>Roue Arriere</description_piece>
+    <prix_unitaire_piece>35</prix_unitaire_piece>
+    <date_introduction_marche_piece>2017-02-12T00:00:00+01:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2027-02-12T00:00:00+01:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>R200002</id_produit_piece>
+    <nom_fournisseur>MIRANDA &amp; IRMA</nom_fournisseur>
+    <num_produit_piece>R2</num_produit_piece>
+    <description_piece>Roue Arriere</description_piece>
+    <prix_unitaire_piece>35</prix_unitaire_piece>
+    <date_introduction_marche_piece>2017-02-12T00:00:00+01:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2027-02-12T00:00:00+01:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>R320001</id_produit_piece>
+    <nom_fournisseur>THOMPSON &amp; THOMPSON</nom_fournisseur>
+    <num_produit_piece>R32</num_produit_piece>
+    <description_piece>Roue Arriere</description_piece>
+    <prix_unitaire_piece>60</prix_unitaire_piece>
+    <date_introduction_marche_piece>2018-02-12T00:00:00+01:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2028-02-12T00:00:00+01:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>R320011</id_produit_piece>
+    <nom_fournisseur>SERENISSIMO COMMERCIALE SRL</nom_fournisseur>
+    <num_produit_piece>R32</num_produit_piece>
+    <description_piece>Roue Arriere</description_piece>
+    <prix_unitaire_piece>60</prix_unitaire_piece>
+    <date_introduction_marche_piece>2018-02-12T00:00:00+01:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2028-02-12T00:00:00+01:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>R450001</id_produit_piece>
+    <nom_fournisseur>THOMPSON &amp; THOMPSON</nom_fournisseur>
+    <num_produit_piece>R45</num_produit_piece>
+    <description_piece>Roue Avant</description_piece>
+    <prix_unitaire_piece>70</prix_unitaire_piece>
+    <date_introduction_marche_piece>2016-08-18T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2026-08-18T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>R450011</id_produit_piece>
+    <nom_fournisseur>SERENISSIMO COMMERCIALE SRL</nom_fournisseur>
+    <num_produit_piece>R45</num_produit_piece>
+    <description_piece>Roue Avant</description_piece>
+    <prix_unitaire_piece>70</prix_unitaire_piece>
+    <date_introduction_marche_piece>2016-08-18T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2026-08-18T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>R460002</id_produit_piece>
+    <nom_fournisseur>THOMPSON &amp; THOMPSON</nom_fournisseur>
+    <num_produit_piece>R46</num_produit_piece>
+    <description_piece>Roue Arriere</description_piece>
+    <prix_unitaire_piece>80</prix_unitaire_piece>
+    <date_introduction_marche_piece>2016-02-12T00:00:00+01:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2026-02-12T00:00:00+01:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>R460012</id_produit_piece>
+    <nom_fournisseur>SERENISSIMO COMMERCIALE SRL</nom_fournisseur>
+    <num_produit_piece>R46</num_produit_piece>
+    <description_piece>Roue Arriere</description_piece>
+    <prix_unitaire_piece>80</prix_unitaire_piece>
+    <date_introduction_marche_piece>2016-02-12T00:00:00+01:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2026-02-12T00:00:00+01:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>R470001</id_produit_piece>
+    <nom_fournisseur>THOMPSON &amp; THOMPSON</nom_fournisseur>
+    <num_produit_piece>R47</num_produit_piece>
+    <description_piece>Roue Arriere</description_piece>
+    <prix_unitaire_piece>90</prix_unitaire_piece>
+    <date_introduction_marche_piece>2018-02-12T00:00:00+01:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2028-02-12T00:00:00+01:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>R470002</id_produit_piece>
+    <nom_fournisseur>THOMPSON &amp; THOMPSON</nom_fournisseur>
+    <num_produit_piece>R47</num_produit_piece>
+    <description_piece>Roue Arriere</description_piece>
+    <prix_unitaire_piece>90</prix_unitaire_piece>
+    <date_introduction_marche_piece>2018-02-12T00:00:00+01:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2028-02-12T00:00:00+01:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>R470012</id_produit_piece>
+    <nom_fournisseur>SERENISSIMO COMMERCIALE SRL</nom_fournisseur>
+    <num_produit_piece>R47</num_produit_piece>
+    <description_piece>Roue Arriere</description_piece>
+    <prix_unitaire_piece>90</prix_unitaire_piece>
+    <date_introduction_marche_piece>2018-02-12T00:00:00+01:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2028-02-12T00:00:00+01:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>R480001</id_produit_piece>
+    <nom_fournisseur>THOMPSON &amp; THOMPSON</nom_fournisseur>
+    <num_produit_piece>R48</num_produit_piece>
+    <description_piece>Roue Avant</description_piece>
+    <prix_unitaire_piece>80</prix_unitaire_piece>
+    <date_introduction_marche_piece>2018-08-18T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2028-08-18T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>R480002</id_produit_piece>
+    <nom_fournisseur>THOMPSON &amp; THOMPSON</nom_fournisseur>
+    <num_produit_piece>R48</num_produit_piece>
+    <description_piece>Roue Avant</description_piece>
+    <prix_unitaire_piece>80</prix_unitaire_piece>
+    <date_introduction_marche_piece>2018-08-18T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2028-08-18T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>R480012</id_produit_piece>
+    <nom_fournisseur>SERENISSIMO COMMERCIALE SRL</nom_fournisseur>
+    <num_produit_piece>R48</num_produit_piece>
+    <description_piece>Roue Avant</description_piece>
+    <prix_unitaire_piece>80</prix_unitaire_piece>
+    <date_introduction_marche_piece>2018-08-18T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2028-08-18T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>S010001</id_produit_piece>
+    <nom_fournisseur>MIRANDA &amp; IRMA</nom_fournisseur>
+    <num_produit_piece>S01</num_produit_piece>
+    <description_piece>Panier</description_piece>
+    <prix_unitaire_piece>15</prix_unitaire_piece>
+    <date_introduction_marche_piece>2015-08-25T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2025-08-26T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>S020001</id_produit_piece>
+    <nom_fournisseur>MIRANDA &amp; IRMA</nom_fournisseur>
+    <num_produit_piece>S02</num_produit_piece>
+    <description_piece>Selle</description_piece>
+    <prix_unitaire_piece>15</prix_unitaire_piece>
+    <date_introduction_marche_piece>2014-06-10T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2024-04-06T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>S030001</id_produit_piece>
+    <nom_fournisseur>MIRANDA &amp; IRMA</nom_fournisseur>
+    <num_produit_piece>S03</num_produit_piece>
+    <description_piece>Selle</description_piece>
+    <prix_unitaire_piece>15</prix_unitaire_piece>
+    <date_introduction_marche_piece>2014-06-10T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2024-04-06T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>S050001</id_produit_piece>
+    <nom_fournisseur>MIRANDA &amp; IRMA</nom_fournisseur>
+    <num_produit_piece>S05</num_produit_piece>
+    <description_piece>Panier</description_piece>
+    <prix_unitaire_piece>16</prix_unitaire_piece>
+    <date_introduction_marche_piece>2015-08-25T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2025-08-26T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>S350001</id_produit_piece>
+    <nom_fournisseur>COBANYAL BIKES</nom_fournisseur>
+    <num_produit_piece>S35</num_produit_piece>
+    <description_piece>Selle</description_piece>
+    <prix_unitaire_piece>115</prix_unitaire_piece>
+    <date_introduction_marche_piece>2019-06-10T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2029-04-06T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>S350002</id_produit_piece>
+    <nom_fournisseur>COBANYAL BIKES</nom_fournisseur>
+    <num_produit_piece>S35</num_produit_piece>
+    <description_piece>Selle</description_piece>
+    <prix_unitaire_piece>115</prix_unitaire_piece>
+    <date_introduction_marche_piece>2019-06-10T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2029-04-06T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>S350062</id_produit_piece>
+    <nom_fournisseur>MIRANDA &amp; IRMA</nom_fournisseur>
+    <num_produit_piece>S35</num_produit_piece>
+    <description_piece>Selle</description_piece>
+    <prix_unitaire_piece>115</prix_unitaire_piece>
+    <date_introduction_marche_piece>2019-06-10T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2029-04-06T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>S360001</id_produit_piece>
+    <nom_fournisseur>SERENISSIMO COMMERCIALE SRL</nom_fournisseur>
+    <num_produit_piece>S36</num_produit_piece>
+    <description_piece>Selle</description_piece>
+    <prix_unitaire_piece>50</prix_unitaire_piece>
+    <date_introduction_marche_piece>2017-06-10T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2027-04-06T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>S369501</id_produit_piece>
+    <nom_fournisseur>SUPERBIKE</nom_fournisseur>
+    <num_produit_piece>S36</num_produit_piece>
+    <description_piece>Selle</description_piece>
+    <prix_unitaire_piece>50</prix_unitaire_piece>
+    <date_introduction_marche_piece>2017-06-10T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2027-04-06T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>S369901</id_produit_piece>
+    <nom_fournisseur>VELOMANIA</nom_fournisseur>
+    <num_produit_piece>S34</num_produit_piece>
+    <description_piece>Selle</description_piece>
+    <prix_unitaire_piece>30</prix_unitaire_piece>
+    <date_introduction_marche_piece>2014-06-10T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2024-04-06T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>S370001</id_produit_piece>
+    <nom_fournisseur>COBANYAL BIKES</nom_fournisseur>
+    <num_produit_piece>S37</num_produit_piece>
+    <description_piece>Selle</description_piece>
+    <prix_unitaire_piece>115</prix_unitaire_piece>
+    <date_introduction_marche_piece>2019-06-10T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2029-04-06T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>S370002</id_produit_piece>
+    <nom_fournisseur>COBANYAL BIKES</nom_fournisseur>
+    <num_produit_piece>S37</num_produit_piece>
+    <description_piece>Selle</description_piece>
+    <prix_unitaire_piece>115</prix_unitaire_piece>
+    <date_introduction_marche_piece>2019-06-10T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2029-04-06T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>S370802</id_produit_piece>
+    <nom_fournisseur>MIRANDA &amp; IRMA</nom_fournisseur>
+    <num_produit_piece>S37</num_produit_piece>
+    <description_piece>Selle</description_piece>
+    <prix_unitaire_piece>115</prix_unitaire_piece>
+    <date_introduction_marche_piece>2019-06-10T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2029-04-06T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <num_commande>5</num_commande>
+    <id_produit_piece>S739981</id_produit_piece>
+    <nom_fournisseur>VELOMANIA</nom_fournisseur>
+    <num_produit_piece>S73</num_produit_piece>
+    <description_piece>Panier</description_piece>
+    <prix_unitaire_piece>11</prix_unitaire_piece>
+    <date_introduction_marche_piece>2018-02-25T00:00:00+01:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2028-02-26T00:00:00+01:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <num_commande>17</num_commande>
+    <id_produit_piece>S740081</id_produit_piece>
+    <nom_fournisseur>SERENISSIMO COMMERCIALE SRL</nom_fournisseur>
+    <num_produit_piece>S74</num_produit_piece>
+    <description_piece>Panier</description_piece>
+    <prix_unitaire_piece>18</prix_unitaire_piece>
+    <date_introduction_marche_piece>2018-08-25T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2028-08-26T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <num_commande>20</num_commande>
+    <id_produit_piece>S749181</id_produit_piece>
+    <nom_fournisseur>SUPERBIKE</nom_fournisseur>
+    <num_produit_piece>S74</num_produit_piece>
+    <description_piece>Panier</description_piece>
+    <prix_unitaire_piece>13</prix_unitaire_piece>
+    <date_introduction_marche_piece>2018-08-25T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2028-08-26T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>S880001</id_produit_piece>
+    <nom_fournisseur>THOMPSON &amp; THOMPSON</nom_fournisseur>
+    <num_produit_piece>S88</num_produit_piece>
+    <description_piece>Selle</description_piece>
+    <prix_unitaire_piece>50</prix_unitaire_piece>
+    <date_introduction_marche_piece>2015-06-10T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2025-04-06T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>S880002</id_produit_piece>
+    <nom_fournisseur>THOMPSON &amp; THOMPSON</nom_fournisseur>
+    <num_produit_piece>S88</num_produit_piece>
+    <description_piece>Selle</description_piece>
+    <prix_unitaire_piece>50</prix_unitaire_piece>
+    <date_introduction_marche_piece>2015-06-10T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2025-04-06T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>S880003</id_produit_piece>
+    <nom_fournisseur>THOMPSON &amp; THOMPSON</nom_fournisseur>
+    <num_produit_piece>S88</num_produit_piece>
+    <description_piece>Selle</description_piece>
+    <prix_unitaire_piece>50</prix_unitaire_piece>
+    <date_introduction_marche_piece>2015-06-10T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2025-04-06T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>S880004</id_produit_piece>
+    <nom_fournisseur>THOMPSON &amp; THOMPSON</nom_fournisseur>
+    <num_produit_piece>S88</num_produit_piece>
+    <description_piece>Selle</description_piece>
+    <prix_unitaire_piece>50</prix_unitaire_piece>
+    <date_introduction_marche_piece>2015-06-10T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2025-04-06T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>S880011</id_produit_piece>
+    <nom_fournisseur>SERENISSIMO COMMERCIALE SRL</nom_fournisseur>
+    <num_produit_piece>S88</num_produit_piece>
+    <description_piece>Selle</description_piece>
+    <prix_unitaire_piece>50</prix_unitaire_piece>
+    <date_introduction_marche_piece>2015-06-10T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2025-04-06T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>S880013</id_produit_piece>
+    <nom_fournisseur>SERENISSIMO COMMERCIALE SRL</nom_fournisseur>
+    <num_produit_piece>S88</num_produit_piece>
+    <description_piece>Selle</description_piece>
+    <prix_unitaire_piece>50</prix_unitaire_piece>
+    <date_introduction_marche_piece>2015-06-10T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2025-04-06T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+  <Table>
+    <id_produit_piece>S880014</id_produit_piece>
+    <nom_fournisseur>SERENISSIMO COMMERCIALE SRL</nom_fournisseur>
+    <num_produit_piece>S88</num_produit_piece>
+    <description_piece>Selle</description_piece>
+    <prix_unitaire_piece>50</prix_unitaire_piece>
+    <date_introduction_marche_piece>2015-06-10T00:00:00+02:00</date_introduction_marche_piece>
+    <date_discontinuation_piece>2025-04-06T00:00:00+02:00</date_discontinuation_piece>
+  </Table>
+</NewDataSet>

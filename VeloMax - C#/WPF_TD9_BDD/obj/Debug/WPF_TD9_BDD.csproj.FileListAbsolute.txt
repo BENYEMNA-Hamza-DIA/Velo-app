@@ -1,0 +1,522 @@
+C:\Users\aymer\source\repos\WPF_TD9_BDD\WPF_TD9_BDD\bin\Debug\WPF_TD9_BDD.exe.config
+C:\Users\aymer\source\repos\WPF_TD9_BDD\WPF_TD9_BDD\bin\Debug\WPF_TD9_BDD.exe
+C:\Users\aymer\source\repos\WPF_TD9_BDD\WPF_TD9_BDD\bin\Debug\WPF_TD9_BDD.pdb
+C:\Users\aymer\source\repos\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\WPF_TD9_BDD.csprojAssemblyReference.cache
+C:\Users\aymer\source\repos\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\MainWindow.g.cs
+C:\Users\aymer\source\repos\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\Menue.g.cs
+C:\Users\aymer\source\repos\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\App.g.cs
+C:\Users\aymer\source\repos\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\WPF_TD9_BDD_MarkupCompile.cache
+C:\Users\aymer\source\repos\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\WPF_TD9_BDD_MarkupCompile.lref
+C:\Users\aymer\source\repos\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\MainWindow.baml
+C:\Users\aymer\source\repos\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\Menue.baml
+C:\Users\aymer\source\repos\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\WPF_TD9_BDD.g.resources
+C:\Users\aymer\source\repos\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\WPF_TD9_BDD.Properties.Resources.resources
+C:\Users\aymer\source\repos\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\WPF_TD9_BDD.csproj.GenerateResource.cache
+C:\Users\aymer\source\repos\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\WPF_TD9_BDD.csproj.CoreCompileInputs.cache
+C:\Users\aymer\source\repos\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\WPF_TD9_BDD.exe
+C:\Users\aymer\source\repos\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\WPF_TD9_BDD.pdb
+C:\Users\aymer\source\repos\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\WPF_TD9_BDD.exe.config
+C:\Users\aymer\source\repos\WPF_TD9_BDD\WPF_TD9_BDD\bin\Debug\MySql.Data.dll
+C:\Users\aymer\source\repos\WPF_TD9_BDD\WPF_TD9_BDD\bin\Debug\Google.Protobuf.dll
+C:\Users\aymer\source\repos\WPF_TD9_BDD\WPF_TD9_BDD\bin\Debug\Zstandard.Net.dll
+C:\Users\aymer\source\repos\WPF_TD9_BDD\WPF_TD9_BDD\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\aymer\source\repos\WPF_TD9_BDD\WPF_TD9_BDD\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\aymer\source\repos\WPF_TD9_BDD\WPF_TD9_BDD\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\aymer\source\repos\WPF_TD9_BDD\WPF_TD9_BDD\bin\Debug\Renci.SshNet.dll
+C:\Users\aymer\source\repos\WPF_TD9_BDD\WPF_TD9_BDD\bin\Debug\System.Memory.dll
+C:\Users\aymer\source\repos\WPF_TD9_BDD\WPF_TD9_BDD\bin\Debug\System.Buffers.dll
+C:\Users\aymer\source\repos\WPF_TD9_BDD\WPF_TD9_BDD\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\aymer\source\repos\WPF_TD9_BDD\WPF_TD9_BDD\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\aymer\source\repos\WPF_TD9_BDD\WPF_TD9_BDD\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\aymer\source\repos\WPF_TD9_BDD\WPF_TD9_BDD\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\aymer\source\repos\WPF_TD9_BDD\WPF_TD9_BDD\bin\Debug\MySql.Data.xml
+C:\Users\aymer\source\repos\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\WPF_TD9_BDD.csproj.CopyComplete
+C:\Users\aymer\source\repos\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\LoginPage.g.cs
+C:\Users\aymer\source\repos\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\LoginPage.baml
+C:\Users\aymer\source\repos\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\ConnexionBase.g.cs
+C:\Users\aymer\source\repos\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\ConnexionBase.baml
+C:\Users\aymer\source\repos\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\GestionBicyclette.g.cs
+C:\Users\aymer\source\repos\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\GestionBicyclette.baml
+C:\Users\aymer\source\repos\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\Creation_Bicyclette.g.cs
+C:\Users\aymer\source\repos\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\Creation_Bicyclette.baml
+C:\Users\aymer\source\repos\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\GestionStock.g.cs
+C:\Users\aymer\source\repos\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\GestionStock.baml
+C:\Users\aymer\source\repos\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\StockNomFournisseur.g.cs
+C:\Users\aymer\source\repos\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\StockNomFournisseur.baml
+C:\Users\aymer\source\repos\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\Marque_Velo.g.cs
+C:\Users\aymer\source\repos\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\Marque_Velo.baml
+C:\Users\aymer\source\repos\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\SuppressionBicyclette.g.cs
+C:\Users\aymer\source\repos\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\SuppressionBicyclette.baml
+C:\Users\aymer\source\repos\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\GestionPiece.g.cs
+C:\Users\aymer\source\repos\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\GestionPiece.baml
+C:\Users\aymer\source\repos\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\Creation_Piece.g.cs
+C:\Users\aymer\source\repos\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\SuppressionPiece.g.cs
+C:\Users\aymer\source\repos\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\Creation_Piece.baml
+C:\Users\aymer\source\repos\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\SuppressionPiece.baml
+C:\Users\aymer\source\repos\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\ClientEntreprisexaml.g.cs
+C:\Users\aymer\source\repos\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\ClientParticulier.g.cs
+C:\Users\aymer\source\repos\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\GestionClient.g.cs
+C:\Users\aymer\source\repos\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\ClientEntreprisexaml.baml
+C:\Users\aymer\source\repos\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\ClientParticulier.baml
+C:\Users\aymer\source\repos\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\GestionClient.baml
+C:\Users\aymer\source\repos\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\CreationFournisseur.g.cs
+C:\Users\aymer\source\repos\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\GestionFournisseur.g.cs
+C:\Users\aymer\source\repos\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\SuppressionFournisseur.g.cs
+C:\Users\aymer\source\repos\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\CreationFournisseur.baml
+C:\Users\aymer\source\repos\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\GestionFournisseur.baml
+C:\Users\aymer\source\repos\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\SuppressionFournisseur.baml
+C:\Users\aymer\source\repos\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\CreationClientParticulier.g.cs
+C:\Users\aymer\source\repos\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\SuppressionClientParticulier.g.cs
+C:\Users\aymer\source\repos\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\CreationClientParticulier.baml
+C:\Users\aymer\source\repos\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\SuppressionClientParticulier.baml
+C:\Users\aymer\source\repos\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\CreationClientEntreprise.g.cs
+C:\Users\aymer\source\repos\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\SuppressionClientEntreprise.g.cs
+C:\Users\aymer\source\repos\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\CreationClientEntreprise.baml
+C:\Users\aymer\source\repos\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\SuppressionClientEntreprise.baml
+C:\Users\aymer\source\repos\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\GestionCommande.g.cs
+C:\Users\aymer\source\repos\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\GestionCommande.baml
+C:\Users\aymer\source\repos\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\CreationCommande.g.cs
+C:\Users\aymer\source\repos\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\SuppressionCommande.g.cs
+C:\Users\aymer\source\repos\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\CreationCommande.baml
+C:\Users\aymer\source\repos\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\SuppressionCommande.baml
+C:\Users\aymer\source\repos\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\ConnexionBaseUser.g.cs
+C:\Users\aymer\source\repos\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\ConnexionBaseUser.baml
+C:\Users\eiize\Desktop\ESILV\BDD_Interoperabilite\PROBLEME\FINITO\WPF_TD9_BDD\WPF_TD9_BDD\bin\Debug\WPF_TD9_BDD.exe.config
+C:\Users\eiize\Desktop\ESILV\BDD_Interoperabilite\PROBLEME\FINITO\WPF_TD9_BDD\WPF_TD9_BDD\bin\Debug\WPF_TD9_BDD.exe
+C:\Users\eiize\Desktop\ESILV\BDD_Interoperabilite\PROBLEME\FINITO\WPF_TD9_BDD\WPF_TD9_BDD\bin\Debug\WPF_TD9_BDD.pdb
+C:\Users\eiize\Desktop\ESILV\BDD_Interoperabilite\PROBLEME\FINITO\WPF_TD9_BDD\WPF_TD9_BDD\bin\Debug\MySql.Data.dll
+C:\Users\eiize\Desktop\ESILV\BDD_Interoperabilite\PROBLEME\FINITO\WPF_TD9_BDD\WPF_TD9_BDD\bin\Debug\Google.Protobuf.dll
+C:\Users\eiize\Desktop\ESILV\BDD_Interoperabilite\PROBLEME\FINITO\WPF_TD9_BDD\WPF_TD9_BDD\bin\Debug\Zstandard.Net.dll
+C:\Users\eiize\Desktop\ESILV\BDD_Interoperabilite\PROBLEME\FINITO\WPF_TD9_BDD\WPF_TD9_BDD\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\eiize\Desktop\ESILV\BDD_Interoperabilite\PROBLEME\FINITO\WPF_TD9_BDD\WPF_TD9_BDD\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\eiize\Desktop\ESILV\BDD_Interoperabilite\PROBLEME\FINITO\WPF_TD9_BDD\WPF_TD9_BDD\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\eiize\Desktop\ESILV\BDD_Interoperabilite\PROBLEME\FINITO\WPF_TD9_BDD\WPF_TD9_BDD\bin\Debug\Renci.SshNet.dll
+C:\Users\eiize\Desktop\ESILV\BDD_Interoperabilite\PROBLEME\FINITO\WPF_TD9_BDD\WPF_TD9_BDD\bin\Debug\System.Memory.dll
+C:\Users\eiize\Desktop\ESILV\BDD_Interoperabilite\PROBLEME\FINITO\WPF_TD9_BDD\WPF_TD9_BDD\bin\Debug\System.Buffers.dll
+C:\Users\eiize\Desktop\ESILV\BDD_Interoperabilite\PROBLEME\FINITO\WPF_TD9_BDD\WPF_TD9_BDD\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\eiize\Desktop\ESILV\BDD_Interoperabilite\PROBLEME\FINITO\WPF_TD9_BDD\WPF_TD9_BDD\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\eiize\Desktop\ESILV\BDD_Interoperabilite\PROBLEME\FINITO\WPF_TD9_BDD\WPF_TD9_BDD\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\eiize\Desktop\ESILV\BDD_Interoperabilite\PROBLEME\FINITO\WPF_TD9_BDD\WPF_TD9_BDD\bin\Debug\MySql.Data.xml
+C:\Users\eiize\Desktop\ESILV\BDD_Interoperabilite\PROBLEME\FINITO\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\WPF_TD9_BDD.csprojAssemblyReference.cache
+C:\Users\eiize\Desktop\ESILV\BDD_Interoperabilite\PROBLEME\FINITO\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\WPF_TD9_BDD.exe.config
+C:\Users\eiize\Desktop\ESILV\BDD_Interoperabilite\PROBLEME\FINITO\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\ClientEntreprisexaml.g.cs
+C:\Users\eiize\Desktop\ESILV\BDD_Interoperabilite\PROBLEME\FINITO\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\ClientParticulier.g.cs
+C:\Users\eiize\Desktop\ESILV\BDD_Interoperabilite\PROBLEME\FINITO\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\ConnexionBase.g.cs
+C:\Users\eiize\Desktop\ESILV\BDD_Interoperabilite\PROBLEME\FINITO\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\ConnexionBaseUser.g.cs
+C:\Users\eiize\Desktop\ESILV\BDD_Interoperabilite\PROBLEME\FINITO\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\CreationClientEntreprise.g.cs
+C:\Users\eiize\Desktop\ESILV\BDD_Interoperabilite\PROBLEME\FINITO\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\CreationClientParticulier.g.cs
+C:\Users\eiize\Desktop\ESILV\BDD_Interoperabilite\PROBLEME\FINITO\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\CreationCommande.g.cs
+C:\Users\eiize\Desktop\ESILV\BDD_Interoperabilite\PROBLEME\FINITO\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\CreationFournisseur.g.cs
+C:\Users\eiize\Desktop\ESILV\BDD_Interoperabilite\PROBLEME\FINITO\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\Creation_Bicyclette.g.cs
+C:\Users\eiize\Desktop\ESILV\BDD_Interoperabilite\PROBLEME\FINITO\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\Creation_Piece.g.cs
+C:\Users\eiize\Desktop\ESILV\BDD_Interoperabilite\PROBLEME\FINITO\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\GestionBicyclette.g.cs
+C:\Users\eiize\Desktop\ESILV\BDD_Interoperabilite\PROBLEME\FINITO\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\GestionClient.g.cs
+C:\Users\eiize\Desktop\ESILV\BDD_Interoperabilite\PROBLEME\FINITO\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\GestionCommande.g.cs
+C:\Users\eiize\Desktop\ESILV\BDD_Interoperabilite\PROBLEME\FINITO\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\GestionFournisseur.g.cs
+C:\Users\eiize\Desktop\ESILV\BDD_Interoperabilite\PROBLEME\FINITO\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\GestionPiece.g.cs
+C:\Users\eiize\Desktop\ESILV\BDD_Interoperabilite\PROBLEME\FINITO\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\GestionStock.g.cs
+C:\Users\eiize\Desktop\ESILV\BDD_Interoperabilite\PROBLEME\FINITO\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\LoginPage.g.cs
+C:\Users\eiize\Desktop\ESILV\BDD_Interoperabilite\PROBLEME\FINITO\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\MainWindow.g.cs
+C:\Users\eiize\Desktop\ESILV\BDD_Interoperabilite\PROBLEME\FINITO\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\Marque_Velo.g.cs
+C:\Users\eiize\Desktop\ESILV\BDD_Interoperabilite\PROBLEME\FINITO\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\Menue.g.cs
+C:\Users\eiize\Desktop\ESILV\BDD_Interoperabilite\PROBLEME\FINITO\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\StockNomFournisseur.g.cs
+C:\Users\eiize\Desktop\ESILV\BDD_Interoperabilite\PROBLEME\FINITO\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\SuppressionBicyclette.g.cs
+C:\Users\eiize\Desktop\ESILV\BDD_Interoperabilite\PROBLEME\FINITO\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\SuppressionClientEntreprise.g.cs
+C:\Users\eiize\Desktop\ESILV\BDD_Interoperabilite\PROBLEME\FINITO\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\SuppressionClientParticulier.g.cs
+C:\Users\eiize\Desktop\ESILV\BDD_Interoperabilite\PROBLEME\FINITO\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\SuppressionCommande.g.cs
+C:\Users\eiize\Desktop\ESILV\BDD_Interoperabilite\PROBLEME\FINITO\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\SuppressionFournisseur.g.cs
+C:\Users\eiize\Desktop\ESILV\BDD_Interoperabilite\PROBLEME\FINITO\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\SuppressionPiece.g.cs
+C:\Users\eiize\Desktop\ESILV\BDD_Interoperabilite\PROBLEME\FINITO\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\App.g.cs
+C:\Users\eiize\Desktop\ESILV\BDD_Interoperabilite\PROBLEME\FINITO\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\WPF_TD9_BDD_MarkupCompile.cache
+C:\Users\eiize\Desktop\ESILV\BDD_Interoperabilite\PROBLEME\FINITO\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\WPF_TD9_BDD_MarkupCompile.lref
+C:\Users\eiize\Desktop\ESILV\BDD_Interoperabilite\PROBLEME\FINITO\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\ClientEntreprisexaml.baml
+C:\Users\eiize\Desktop\ESILV\BDD_Interoperabilite\PROBLEME\FINITO\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\ClientParticulier.baml
+C:\Users\eiize\Desktop\ESILV\BDD_Interoperabilite\PROBLEME\FINITO\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\ConnexionBase.baml
+C:\Users\eiize\Desktop\ESILV\BDD_Interoperabilite\PROBLEME\FINITO\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\ConnexionBaseUser.baml
+C:\Users\eiize\Desktop\ESILV\BDD_Interoperabilite\PROBLEME\FINITO\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\CreationClientEntreprise.baml
+C:\Users\eiize\Desktop\ESILV\BDD_Interoperabilite\PROBLEME\FINITO\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\CreationClientParticulier.baml
+C:\Users\eiize\Desktop\ESILV\BDD_Interoperabilite\PROBLEME\FINITO\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\CreationCommande.baml
+C:\Users\eiize\Desktop\ESILV\BDD_Interoperabilite\PROBLEME\FINITO\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\CreationFournisseur.baml
+C:\Users\eiize\Desktop\ESILV\BDD_Interoperabilite\PROBLEME\FINITO\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\Creation_Bicyclette.baml
+C:\Users\eiize\Desktop\ESILV\BDD_Interoperabilite\PROBLEME\FINITO\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\Creation_Piece.baml
+C:\Users\eiize\Desktop\ESILV\BDD_Interoperabilite\PROBLEME\FINITO\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\GestionBicyclette.baml
+C:\Users\eiize\Desktop\ESILV\BDD_Interoperabilite\PROBLEME\FINITO\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\GestionClient.baml
+C:\Users\eiize\Desktop\ESILV\BDD_Interoperabilite\PROBLEME\FINITO\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\GestionCommande.baml
+C:\Users\eiize\Desktop\ESILV\BDD_Interoperabilite\PROBLEME\FINITO\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\GestionFournisseur.baml
+C:\Users\eiize\Desktop\ESILV\BDD_Interoperabilite\PROBLEME\FINITO\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\GestionPiece.baml
+C:\Users\eiize\Desktop\ESILV\BDD_Interoperabilite\PROBLEME\FINITO\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\GestionStock.baml
+C:\Users\eiize\Desktop\ESILV\BDD_Interoperabilite\PROBLEME\FINITO\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\LoginPage.baml
+C:\Users\eiize\Desktop\ESILV\BDD_Interoperabilite\PROBLEME\FINITO\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\MainWindow.baml
+C:\Users\eiize\Desktop\ESILV\BDD_Interoperabilite\PROBLEME\FINITO\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\Marque_Velo.baml
+C:\Users\eiize\Desktop\ESILV\BDD_Interoperabilite\PROBLEME\FINITO\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\Menue.baml
+C:\Users\eiize\Desktop\ESILV\BDD_Interoperabilite\PROBLEME\FINITO\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\StockNomFournisseur.baml
+C:\Users\eiize\Desktop\ESILV\BDD_Interoperabilite\PROBLEME\FINITO\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\SuppressionBicyclette.baml
+C:\Users\eiize\Desktop\ESILV\BDD_Interoperabilite\PROBLEME\FINITO\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\SuppressionClientEntreprise.baml
+C:\Users\eiize\Desktop\ESILV\BDD_Interoperabilite\PROBLEME\FINITO\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\SuppressionClientParticulier.baml
+C:\Users\eiize\Desktop\ESILV\BDD_Interoperabilite\PROBLEME\FINITO\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\SuppressionCommande.baml
+C:\Users\eiize\Desktop\ESILV\BDD_Interoperabilite\PROBLEME\FINITO\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\SuppressionFournisseur.baml
+C:\Users\eiize\Desktop\ESILV\BDD_Interoperabilite\PROBLEME\FINITO\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\SuppressionPiece.baml
+C:\Users\eiize\Desktop\ESILV\BDD_Interoperabilite\PROBLEME\FINITO\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\WPF_TD9_BDD.g.resources
+C:\Users\eiize\Desktop\ESILV\BDD_Interoperabilite\PROBLEME\FINITO\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\WPF_TD9_BDD.Properties.Resources.resources
+C:\Users\eiize\Desktop\ESILV\BDD_Interoperabilite\PROBLEME\FINITO\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\WPF_TD9_BDD.csproj.GenerateResource.cache
+C:\Users\eiize\Desktop\ESILV\BDD_Interoperabilite\PROBLEME\FINITO\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\WPF_TD9_BDD.csproj.CoreCompileInputs.cache
+C:\Users\eiize\Desktop\ESILV\BDD_Interoperabilite\PROBLEME\FINITO\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\WPF_TD9_BDD.csproj.CopyComplete
+C:\Users\eiize\Desktop\ESILV\BDD_Interoperabilite\PROBLEME\FINITO\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\WPF_TD9_BDD.exe
+C:\Users\eiize\Desktop\ESILV\BDD_Interoperabilite\PROBLEME\FINITO\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\WPF_TD9_BDD.pdb
+C:\Users\eiize\Desktop\ESILV\BDD_Interoperabilite\PROBLEME\FINITO\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\Exportation.g.cs
+C:\Users\eiize\Desktop\ESILV\BDD_Interoperabilite\PROBLEME\FINITO\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\Statistiques.g.cs
+C:\Users\eiize\Desktop\ESILV\BDD_Interoperabilite\PROBLEME\FINITO\WPF_TD9_BDD\WPF_TD9_BDD\bin\Debug\Newtonsoft.Json.dll
+C:\Users\eiize\Desktop\ESILV\BDD_Interoperabilite\PROBLEME\FINITO\WPF_TD9_BDD\WPF_TD9_BDD\bin\Debug\Newtonsoft.Json.xml
+C:\Users\eiize\Desktop\ESILV\BDD_Interoperabilite\PROBLEME\FINITO\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\Exportation.baml
+C:\Users\eiize\Desktop\ESILV\BDD_Interoperabilite\PROBLEME\FINITO\WPF_TD9_BDD\WPF_TD9_BDD\obj\Debug\Statistiques.baml
+C:\Users\aymer\OneDrive\Bureau\ESILV\A3\S6\BDD_INTERPOLITEE\PROJET_FINAL\WPF_TD9_BDD\bin\Debug\WPF_TD9_BDD.exe.config
+C:\Users\aymer\OneDrive\Bureau\ESILV\A3\S6\BDD_INTERPOLITEE\PROJET_FINAL\WPF_TD9_BDD\bin\Debug\WPF_TD9_BDD.exe
+C:\Users\aymer\OneDrive\Bureau\ESILV\A3\S6\BDD_INTERPOLITEE\PROJET_FINAL\WPF_TD9_BDD\bin\Debug\WPF_TD9_BDD.pdb
+C:\Users\aymer\OneDrive\Bureau\ESILV\A3\S6\BDD_INTERPOLITEE\PROJET_FINAL\WPF_TD9_BDD\bin\Debug\MySql.Data.dll
+C:\Users\aymer\OneDrive\Bureau\ESILV\A3\S6\BDD_INTERPOLITEE\PROJET_FINAL\WPF_TD9_BDD\bin\Debug\Newtonsoft.Json.dll
+C:\Users\aymer\OneDrive\Bureau\ESILV\A3\S6\BDD_INTERPOLITEE\PROJET_FINAL\WPF_TD9_BDD\bin\Debug\Google.Protobuf.dll
+C:\Users\aymer\OneDrive\Bureau\ESILV\A3\S6\BDD_INTERPOLITEE\PROJET_FINAL\WPF_TD9_BDD\bin\Debug\Zstandard.Net.dll
+C:\Users\aymer\OneDrive\Bureau\ESILV\A3\S6\BDD_INTERPOLITEE\PROJET_FINAL\WPF_TD9_BDD\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\aymer\OneDrive\Bureau\ESILV\A3\S6\BDD_INTERPOLITEE\PROJET_FINAL\WPF_TD9_BDD\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\aymer\OneDrive\Bureau\ESILV\A3\S6\BDD_INTERPOLITEE\PROJET_FINAL\WPF_TD9_BDD\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\aymer\OneDrive\Bureau\ESILV\A3\S6\BDD_INTERPOLITEE\PROJET_FINAL\WPF_TD9_BDD\bin\Debug\Renci.SshNet.dll
+C:\Users\aymer\OneDrive\Bureau\ESILV\A3\S6\BDD_INTERPOLITEE\PROJET_FINAL\WPF_TD9_BDD\bin\Debug\System.Memory.dll
+C:\Users\aymer\OneDrive\Bureau\ESILV\A3\S6\BDD_INTERPOLITEE\PROJET_FINAL\WPF_TD9_BDD\bin\Debug\System.Buffers.dll
+C:\Users\aymer\OneDrive\Bureau\ESILV\A3\S6\BDD_INTERPOLITEE\PROJET_FINAL\WPF_TD9_BDD\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\aymer\OneDrive\Bureau\ESILV\A3\S6\BDD_INTERPOLITEE\PROJET_FINAL\WPF_TD9_BDD\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\aymer\OneDrive\Bureau\ESILV\A3\S6\BDD_INTERPOLITEE\PROJET_FINAL\WPF_TD9_BDD\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\aymer\OneDrive\Bureau\ESILV\A3\S6\BDD_INTERPOLITEE\PROJET_FINAL\WPF_TD9_BDD\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\aymer\OneDrive\Bureau\ESILV\A3\S6\BDD_INTERPOLITEE\PROJET_FINAL\WPF_TD9_BDD\bin\Debug\MySql.Data.xml
+C:\Users\aymer\OneDrive\Bureau\ESILV\A3\S6\BDD_INTERPOLITEE\PROJET_FINAL\WPF_TD9_BDD\bin\Debug\Newtonsoft.Json.xml
+C:\Users\aymer\OneDrive\Bureau\ESILV\A3\S6\BDD_INTERPOLITEE\PROJET_FINAL\WPF_TD9_BDD\obj\Debug\WPF_TD9_BDD.csprojAssemblyReference.cache
+C:\Users\aymer\OneDrive\Bureau\ESILV\A3\S6\BDD_INTERPOLITEE\PROJET_FINAL\WPF_TD9_BDD\obj\Debug\WPF_TD9_BDD.exe.config
+C:\Users\aymer\OneDrive\Bureau\ESILV\A3\S6\BDD_INTERPOLITEE\PROJET_FINAL\WPF_TD9_BDD\obj\Debug\ClientEntreprisexaml.g.cs
+C:\Users\aymer\OneDrive\Bureau\ESILV\A3\S6\BDD_INTERPOLITEE\PROJET_FINAL\WPF_TD9_BDD\obj\Debug\ClientParticulier.g.cs
+C:\Users\aymer\OneDrive\Bureau\ESILV\A3\S6\BDD_INTERPOLITEE\PROJET_FINAL\WPF_TD9_BDD\obj\Debug\ConnexionBase.g.cs
+C:\Users\aymer\OneDrive\Bureau\ESILV\A3\S6\BDD_INTERPOLITEE\PROJET_FINAL\WPF_TD9_BDD\obj\Debug\ConnexionBaseUser.g.cs
+C:\Users\aymer\OneDrive\Bureau\ESILV\A3\S6\BDD_INTERPOLITEE\PROJET_FINAL\WPF_TD9_BDD\obj\Debug\CreationClientEntreprise.g.cs
+C:\Users\aymer\OneDrive\Bureau\ESILV\A3\S6\BDD_INTERPOLITEE\PROJET_FINAL\WPF_TD9_BDD\obj\Debug\CreationClientParticulier.g.cs
+C:\Users\aymer\OneDrive\Bureau\ESILV\A3\S6\BDD_INTERPOLITEE\PROJET_FINAL\WPF_TD9_BDD\obj\Debug\CreationCommande.g.cs
+C:\Users\aymer\OneDrive\Bureau\ESILV\A3\S6\BDD_INTERPOLITEE\PROJET_FINAL\WPF_TD9_BDD\obj\Debug\CreationFournisseur.g.cs
+C:\Users\aymer\OneDrive\Bureau\ESILV\A3\S6\BDD_INTERPOLITEE\PROJET_FINAL\WPF_TD9_BDD\obj\Debug\Creation_Bicyclette.g.cs
+C:\Users\aymer\OneDrive\Bureau\ESILV\A3\S6\BDD_INTERPOLITEE\PROJET_FINAL\WPF_TD9_BDD\obj\Debug\Creation_Piece.g.cs
+C:\Users\aymer\OneDrive\Bureau\ESILV\A3\S6\BDD_INTERPOLITEE\PROJET_FINAL\WPF_TD9_BDD\obj\Debug\Exportation.g.cs
+C:\Users\aymer\OneDrive\Bureau\ESILV\A3\S6\BDD_INTERPOLITEE\PROJET_FINAL\WPF_TD9_BDD\obj\Debug\GestionBicyclette.g.cs
+C:\Users\aymer\OneDrive\Bureau\ESILV\A3\S6\BDD_INTERPOLITEE\PROJET_FINAL\WPF_TD9_BDD\obj\Debug\GestionClient.g.cs
+C:\Users\aymer\OneDrive\Bureau\ESILV\A3\S6\BDD_INTERPOLITEE\PROJET_FINAL\WPF_TD9_BDD\obj\Debug\GestionCommande.g.cs
+C:\Users\aymer\OneDrive\Bureau\ESILV\A3\S6\BDD_INTERPOLITEE\PROJET_FINAL\WPF_TD9_BDD\obj\Debug\GestionFournisseur.g.cs
+C:\Users\aymer\OneDrive\Bureau\ESILV\A3\S6\BDD_INTERPOLITEE\PROJET_FINAL\WPF_TD9_BDD\obj\Debug\GestionPiece.g.cs
+C:\Users\aymer\OneDrive\Bureau\ESILV\A3\S6\BDD_INTERPOLITEE\PROJET_FINAL\WPF_TD9_BDD\obj\Debug\GestionStock.g.cs
+C:\Users\aymer\OneDrive\Bureau\ESILV\A3\S6\BDD_INTERPOLITEE\PROJET_FINAL\WPF_TD9_BDD\obj\Debug\LoginPage.g.cs
+C:\Users\aymer\OneDrive\Bureau\ESILV\A3\S6\BDD_INTERPOLITEE\PROJET_FINAL\WPF_TD9_BDD\obj\Debug\MainWindow.g.cs
+C:\Users\aymer\OneDrive\Bureau\ESILV\A3\S6\BDD_INTERPOLITEE\PROJET_FINAL\WPF_TD9_BDD\obj\Debug\Marque_Velo.g.cs
+C:\Users\aymer\OneDrive\Bureau\ESILV\A3\S6\BDD_INTERPOLITEE\PROJET_FINAL\WPF_TD9_BDD\obj\Debug\Menue.g.cs
+C:\Users\aymer\OneDrive\Bureau\ESILV\A3\S6\BDD_INTERPOLITEE\PROJET_FINAL\WPF_TD9_BDD\obj\Debug\Statistiques.g.cs
+C:\Users\aymer\OneDrive\Bureau\ESILV\A3\S6\BDD_INTERPOLITEE\PROJET_FINAL\WPF_TD9_BDD\obj\Debug\StockNomFournisseur.g.cs
+C:\Users\aymer\OneDrive\Bureau\ESILV\A3\S6\BDD_INTERPOLITEE\PROJET_FINAL\WPF_TD9_BDD\obj\Debug\SuppressionBicyclette.g.cs
+C:\Users\aymer\OneDrive\Bureau\ESILV\A3\S6\BDD_INTERPOLITEE\PROJET_FINAL\WPF_TD9_BDD\obj\Debug\SuppressionClientEntreprise.g.cs
+C:\Users\aymer\OneDrive\Bureau\ESILV\A3\S6\BDD_INTERPOLITEE\PROJET_FINAL\WPF_TD9_BDD\obj\Debug\SuppressionClientParticulier.g.cs
+C:\Users\aymer\OneDrive\Bureau\ESILV\A3\S6\BDD_INTERPOLITEE\PROJET_FINAL\WPF_TD9_BDD\obj\Debug\SuppressionCommande.g.cs
+C:\Users\aymer\OneDrive\Bureau\ESILV\A3\S6\BDD_INTERPOLITEE\PROJET_FINAL\WPF_TD9_BDD\obj\Debug\SuppressionFournisseur.g.cs
+C:\Users\aymer\OneDrive\Bureau\ESILV\A3\S6\BDD_INTERPOLITEE\PROJET_FINAL\WPF_TD9_BDD\obj\Debug\SuppressionPiece.g.cs
+C:\Users\aymer\OneDrive\Bureau\ESILV\A3\S6\BDD_INTERPOLITEE\PROJET_FINAL\WPF_TD9_BDD\obj\Debug\App.g.cs
+C:\Users\aymer\OneDrive\Bureau\ESILV\A3\S6\BDD_INTERPOLITEE\PROJET_FINAL\WPF_TD9_BDD\obj\Debug\WPF_TD9_BDD_MarkupCompile.cache
+C:\Users\aymer\OneDrive\Bureau\ESILV\A3\S6\BDD_INTERPOLITEE\PROJET_FINAL\WPF_TD9_BDD\obj\Debug\WPF_TD9_BDD_MarkupCompile.lref
+C:\Users\aymer\OneDrive\Bureau\ESILV\A3\S6\BDD_INTERPOLITEE\PROJET_FINAL\WPF_TD9_BDD\obj\Debug\ClientEntreprisexaml.baml
+C:\Users\aymer\OneDrive\Bureau\ESILV\A3\S6\BDD_INTERPOLITEE\PROJET_FINAL\WPF_TD9_BDD\obj\Debug\ClientParticulier.baml
+C:\Users\aymer\OneDrive\Bureau\ESILV\A3\S6\BDD_INTERPOLITEE\PROJET_FINAL\WPF_TD9_BDD\obj\Debug\ConnexionBase.baml
+C:\Users\aymer\OneDrive\Bureau\ESILV\A3\S6\BDD_INTERPOLITEE\PROJET_FINAL\WPF_TD9_BDD\obj\Debug\ConnexionBaseUser.baml
+C:\Users\aymer\OneDrive\Bureau\ESILV\A3\S6\BDD_INTERPOLITEE\PROJET_FINAL\WPF_TD9_BDD\obj\Debug\CreationClientEntreprise.baml
+C:\Users\aymer\OneDrive\Bureau\ESILV\A3\S6\BDD_INTERPOLITEE\PROJET_FINAL\WPF_TD9_BDD\obj\Debug\CreationClientParticulier.baml
+C:\Users\aymer\OneDrive\Bureau\ESILV\A3\S6\BDD_INTERPOLITEE\PROJET_FINAL\WPF_TD9_BDD\obj\Debug\CreationCommande.baml
+C:\Users\aymer\OneDrive\Bureau\ESILV\A3\S6\BDD_INTERPOLITEE\PROJET_FINAL\WPF_TD9_BDD\obj\Debug\CreationFournisseur.baml
+C:\Users\aymer\OneDrive\Bureau\ESILV\A3\S6\BDD_INTERPOLITEE\PROJET_FINAL\WPF_TD9_BDD\obj\Debug\Creation_Bicyclette.baml
+C:\Users\aymer\OneDrive\Bureau\ESILV\A3\S6\BDD_INTERPOLITEE\PROJET_FINAL\WPF_TD9_BDD\obj\Debug\Creation_Piece.baml
+C:\Users\aymer\OneDrive\Bureau\ESILV\A3\S6\BDD_INTERPOLITEE\PROJET_FINAL\WPF_TD9_BDD\obj\Debug\Exportation.baml
+C:\Users\aymer\OneDrive\Bureau\ESILV\A3\S6\BDD_INTERPOLITEE\PROJET_FINAL\WPF_TD9_BDD\obj\Debug\GestionBicyclette.baml
+C:\Users\aymer\OneDrive\Bureau\ESILV\A3\S6\BDD_INTERPOLITEE\PROJET_FINAL\WPF_TD9_BDD\obj\Debug\GestionClient.baml
+C:\Users\aymer\OneDrive\Bureau\ESILV\A3\S6\BDD_INTERPOLITEE\PROJET_FINAL\WPF_TD9_BDD\obj\Debug\GestionCommande.baml
+C:\Users\aymer\OneDrive\Bureau\ESILV\A3\S6\BDD_INTERPOLITEE\PROJET_FINAL\WPF_TD9_BDD\obj\Debug\GestionFournisseur.baml
+C:\Users\aymer\OneDrive\Bureau\ESILV\A3\S6\BDD_INTERPOLITEE\PROJET_FINAL\WPF_TD9_BDD\obj\Debug\GestionPiece.baml
+C:\Users\aymer\OneDrive\Bureau\ESILV\A3\S6\BDD_INTERPOLITEE\PROJET_FINAL\WPF_TD9_BDD\obj\Debug\GestionStock.baml
+C:\Users\aymer\OneDrive\Bureau\ESILV\A3\S6\BDD_INTERPOLITEE\PROJET_FINAL\WPF_TD9_BDD\obj\Debug\LoginPage.baml
+C:\Users\aymer\OneDrive\Bureau\ESILV\A3\S6\BDD_INTERPOLITEE\PROJET_FINAL\WPF_TD9_BDD\obj\Debug\MainWindow.baml
+C:\Users\aymer\OneDrive\Bureau\ESILV\A3\S6\BDD_INTERPOLITEE\PROJET_FINAL\WPF_TD9_BDD\obj\Debug\Marque_Velo.baml
+C:\Users\aymer\OneDrive\Bureau\ESILV\A3\S6\BDD_INTERPOLITEE\PROJET_FINAL\WPF_TD9_BDD\obj\Debug\Menue.baml
+C:\Users\aymer\OneDrive\Bureau\ESILV\A3\S6\BDD_INTERPOLITEE\PROJET_FINAL\WPF_TD9_BDD\obj\Debug\Statistiques.baml
+C:\Users\aymer\OneDrive\Bureau\ESILV\A3\S6\BDD_INTERPOLITEE\PROJET_FINAL\WPF_TD9_BDD\obj\Debug\StockNomFournisseur.baml
+C:\Users\aymer\OneDrive\Bureau\ESILV\A3\S6\BDD_INTERPOLITEE\PROJET_FINAL\WPF_TD9_BDD\obj\Debug\SuppressionBicyclette.baml
+C:\Users\aymer\OneDrive\Bureau\ESILV\A3\S6\BDD_INTERPOLITEE\PROJET_FINAL\WPF_TD9_BDD\obj\Debug\SuppressionClientEntreprise.baml
+C:\Users\aymer\OneDrive\Bureau\ESILV\A3\S6\BDD_INTERPOLITEE\PROJET_FINAL\WPF_TD9_BDD\obj\Debug\SuppressionClientParticulier.baml
+C:\Users\aymer\OneDrive\Bureau\ESILV\A3\S6\BDD_INTERPOLITEE\PROJET_FINAL\WPF_TD9_BDD\obj\Debug\SuppressionCommande.baml
+C:\Users\aymer\OneDrive\Bureau\ESILV\A3\S6\BDD_INTERPOLITEE\PROJET_FINAL\WPF_TD9_BDD\obj\Debug\SuppressionFournisseur.baml
+C:\Users\aymer\OneDrive\Bureau\ESILV\A3\S6\BDD_INTERPOLITEE\PROJET_FINAL\WPF_TD9_BDD\obj\Debug\SuppressionPiece.baml
+C:\Users\aymer\OneDrive\Bureau\ESILV\A3\S6\BDD_INTERPOLITEE\PROJET_FINAL\WPF_TD9_BDD\obj\Debug\WPF_TD9_BDD.g.resources
+C:\Users\aymer\OneDrive\Bureau\ESILV\A3\S6\BDD_INTERPOLITEE\PROJET_FINAL\WPF_TD9_BDD\obj\Debug\WPF_TD9_BDD.Properties.Resources.resources
+C:\Users\aymer\OneDrive\Bureau\ESILV\A3\S6\BDD_INTERPOLITEE\PROJET_FINAL\WPF_TD9_BDD\obj\Debug\WPF_TD9_BDD.csproj.GenerateResource.cache
+C:\Users\aymer\OneDrive\Bureau\ESILV\A3\S6\BDD_INTERPOLITEE\PROJET_FINAL\WPF_TD9_BDD\obj\Debug\WPF_TD9_BDD.csproj.CoreCompileInputs.cache
+C:\Users\aymer\OneDrive\Bureau\ESILV\A3\S6\BDD_INTERPOLITEE\PROJET_FINAL\WPF_TD9_BDD\obj\Debug\WPF_TD9_BDD.csproj.CopyComplete
+C:\Users\aymer\OneDrive\Bureau\ESILV\A3\S6\BDD_INTERPOLITEE\PROJET_FINAL\WPF_TD9_BDD\obj\Debug\WPF_TD9_BDD.exe
+C:\Users\aymer\OneDrive\Bureau\ESILV\A3\S6\BDD_INTERPOLITEE\PROJET_FINAL\WPF_TD9_BDD\obj\Debug\WPF_TD9_BDD.pdb
+C:\Users\hamza\Desktop\VeloMax - C#\WPF_TD9_BDD\bin\Debug\WPF_TD9_BDD.exe.config
+C:\Users\hamza\Desktop\VeloMax - C#\WPF_TD9_BDD\bin\Debug\WPF_TD9_BDD.exe
+C:\Users\hamza\Desktop\VeloMax - C#\WPF_TD9_BDD\bin\Debug\WPF_TD9_BDD.pdb
+C:\Users\hamza\Desktop\VeloMax - C#\WPF_TD9_BDD\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hamza\Desktop\VeloMax - C#\WPF_TD9_BDD\bin\Debug\Google.Protobuf.dll
+C:\Users\hamza\Desktop\VeloMax - C#\WPF_TD9_BDD\bin\Debug\Zstandard.Net.dll
+C:\Users\hamza\Desktop\VeloMax - C#\WPF_TD9_BDD\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\hamza\Desktop\VeloMax - C#\WPF_TD9_BDD\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\hamza\Desktop\VeloMax - C#\WPF_TD9_BDD\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\hamza\Desktop\VeloMax - C#\WPF_TD9_BDD\bin\Debug\Renci.SshNet.dll
+C:\Users\hamza\Desktop\VeloMax - C#\WPF_TD9_BDD\bin\Debug\System.Memory.dll
+C:\Users\hamza\Desktop\VeloMax - C#\WPF_TD9_BDD\bin\Debug\System.Buffers.dll
+C:\Users\hamza\Desktop\VeloMax - C#\WPF_TD9_BDD\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\hamza\Desktop\VeloMax - C#\WPF_TD9_BDD\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\hamza\Desktop\VeloMax - C#\WPF_TD9_BDD\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\hamza\Desktop\VeloMax - C#\WPF_TD9_BDD\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hamza\Desktop\VeloMax - C#\WPF_TD9_BDD\bin\Debug\MySql.Data.xml
+C:\Users\hamza\Desktop\VeloMax - C#\WPF_TD9_BDD\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hamza\Desktop\VeloMax - C#\WPF_TD9_BDD\obj\Debug\WPF_TD9_BDD.csprojAssemblyReference.cache
+C:\Users\hamza\Desktop\VeloMax - C#\WPF_TD9_BDD\obj\Debug\WPF_TD9_BDD.exe.config
+C:\Users\hamza\Desktop\VeloMax - C#\WPF_TD9_BDD\obj\Debug\ClientEntreprisexaml.g.cs
+C:\Users\hamza\Desktop\VeloMax - C#\WPF_TD9_BDD\obj\Debug\ClientParticulier.g.cs
+C:\Users\hamza\Desktop\VeloMax - C#\WPF_TD9_BDD\obj\Debug\ConnexionBase.g.cs
+C:\Users\hamza\Desktop\VeloMax - C#\WPF_TD9_BDD\obj\Debug\ConnexionBaseUser.g.cs
+C:\Users\hamza\Desktop\VeloMax - C#\WPF_TD9_BDD\obj\Debug\CreationClientEntreprise.g.cs
+C:\Users\hamza\Desktop\VeloMax - C#\WPF_TD9_BDD\obj\Debug\CreationClientParticulier.g.cs
+C:\Users\hamza\Desktop\VeloMax - C#\WPF_TD9_BDD\obj\Debug\CreationCommande.g.cs
+C:\Users\hamza\Desktop\VeloMax - C#\WPF_TD9_BDD\obj\Debug\CreationFournisseur.g.cs
+C:\Users\hamza\Desktop\VeloMax - C#\WPF_TD9_BDD\obj\Debug\Creation_Bicyclette.g.cs
+C:\Users\hamza\Desktop\VeloMax - C#\WPF_TD9_BDD\obj\Debug\Creation_Piece.g.cs
+C:\Users\hamza\Desktop\VeloMax - C#\WPF_TD9_BDD\obj\Debug\Exportation.g.cs
+C:\Users\hamza\Desktop\VeloMax - C#\WPF_TD9_BDD\obj\Debug\GestionBicyclette.g.cs
+C:\Users\hamza\Desktop\VeloMax - C#\WPF_TD9_BDD\obj\Debug\GestionClient.g.cs
+C:\Users\hamza\Desktop\VeloMax - C#\WPF_TD9_BDD\obj\Debug\GestionCommande.g.cs
+C:\Users\hamza\Desktop\VeloMax - C#\WPF_TD9_BDD\obj\Debug\GestionFournisseur.g.cs
+C:\Users\hamza\Desktop\VeloMax - C#\WPF_TD9_BDD\obj\Debug\GestionPiece.g.cs
+C:\Users\hamza\Desktop\VeloMax - C#\WPF_TD9_BDD\obj\Debug\GestionStock.g.cs
+C:\Users\hamza\Desktop\VeloMax - C#\WPF_TD9_BDD\obj\Debug\LoginPage.g.cs
+C:\Users\hamza\Desktop\VeloMax - C#\WPF_TD9_BDD\obj\Debug\MainWindow.g.cs
+C:\Users\hamza\Desktop\VeloMax - C#\WPF_TD9_BDD\obj\Debug\Marque_Velo.g.cs
+C:\Users\hamza\Desktop\VeloMax - C#\WPF_TD9_BDD\obj\Debug\Menue.g.cs
+C:\Users\hamza\Desktop\VeloMax - C#\WPF_TD9_BDD\obj\Debug\Statistiques.g.cs
+C:\Users\hamza\Desktop\VeloMax - C#\WPF_TD9_BDD\obj\Debug\StockNomFournisseur.g.cs
+C:\Users\hamza\Desktop\VeloMax - C#\WPF_TD9_BDD\obj\Debug\SuppressionBicyclette.g.cs
+C:\Users\hamza\Desktop\VeloMax - C#\WPF_TD9_BDD\obj\Debug\SuppressionClientEntreprise.g.cs
+C:\Users\hamza\Desktop\VeloMax - C#\WPF_TD9_BDD\obj\Debug\SuppressionClientParticulier.g.cs
+C:\Users\hamza\Desktop\VeloMax - C#\WPF_TD9_BDD\obj\Debug\SuppressionCommande.g.cs
+C:\Users\hamza\Desktop\VeloMax - C#\WPF_TD9_BDD\obj\Debug\SuppressionFournisseur.g.cs
+C:\Users\hamza\Desktop\VeloMax - C#\WPF_TD9_BDD\obj\Debug\SuppressionPiece.g.cs
+C:\Users\hamza\Desktop\VeloMax - C#\WPF_TD9_BDD\obj\Debug\App.g.cs
+C:\Users\hamza\Desktop\VeloMax - C#\WPF_TD9_BDD\obj\Debug\WPF_TD9_BDD_MarkupCompile.cache
+C:\Users\hamza\Desktop\VeloMax - C#\WPF_TD9_BDD\obj\Debug\WPF_TD9_BDD_MarkupCompile.lref
+C:\Users\hamza\Desktop\VeloMax - C#\WPF_TD9_BDD\obj\Debug\ClientEntreprisexaml.baml
+C:\Users\hamza\Desktop\VeloMax - C#\WPF_TD9_BDD\obj\Debug\ClientParticulier.baml
+C:\Users\hamza\Desktop\VeloMax - C#\WPF_TD9_BDD\obj\Debug\ConnexionBase.baml
+C:\Users\hamza\Desktop\VeloMax - C#\WPF_TD9_BDD\obj\Debug\ConnexionBaseUser.baml
+C:\Users\hamza\Desktop\VeloMax - C#\WPF_TD9_BDD\obj\Debug\CreationClientEntreprise.baml
+C:\Users\hamza\Desktop\VeloMax - C#\WPF_TD9_BDD\obj\Debug\CreationClientParticulier.baml
+C:\Users\hamza\Desktop\VeloMax - C#\WPF_TD9_BDD\obj\Debug\CreationCommande.baml
+C:\Users\hamza\Desktop\VeloMax - C#\WPF_TD9_BDD\obj\Debug\CreationFournisseur.baml
+C:\Users\hamza\Desktop\VeloMax - C#\WPF_TD9_BDD\obj\Debug\Creation_Bicyclette.baml
+C:\Users\hamza\Desktop\VeloMax - C#\WPF_TD9_BDD\obj\Debug\Creation_Piece.baml
+C:\Users\hamza\Desktop\VeloMax - C#\WPF_TD9_BDD\obj\Debug\Exportation.baml
+C:\Users\hamza\Desktop\VeloMax - C#\WPF_TD9_BDD\obj\Debug\GestionBicyclette.baml
+C:\Users\hamza\Desktop\VeloMax - C#\WPF_TD9_BDD\obj\Debug\GestionClient.baml
+C:\Users\hamza\Desktop\VeloMax - C#\WPF_TD9_BDD\obj\Debug\GestionCommande.baml
+C:\Users\hamza\Desktop\VeloMax - C#\WPF_TD9_BDD\obj\Debug\GestionFournisseur.baml
+C:\Users\hamza\Desktop\VeloMax - C#\WPF_TD9_BDD\obj\Debug\GestionPiece.baml
+C:\Users\hamza\Desktop\VeloMax - C#\WPF_TD9_BDD\obj\Debug\GestionStock.baml
+C:\Users\hamza\Desktop\VeloMax - C#\WPF_TD9_BDD\obj\Debug\LoginPage.baml
+C:\Users\hamza\Desktop\VeloMax - C#\WPF_TD9_BDD\obj\Debug\MainWindow.baml
+C:\Users\hamza\Desktop\VeloMax - C#\WPF_TD9_BDD\obj\Debug\Marque_Velo.baml
+C:\Users\hamza\Desktop\VeloMax - C#\WPF_TD9_BDD\obj\Debug\Menue.baml
+C:\Users\hamza\Desktop\VeloMax - C#\WPF_TD9_BDD\obj\Debug\Statistiques.baml
+C:\Users\hamza\Desktop\VeloMax - C#\WPF_TD9_BDD\obj\Debug\StockNomFournisseur.baml
+C:\Users\hamza\Desktop\VeloMax - C#\WPF_TD9_BDD\obj\Debug\SuppressionBicyclette.baml
+C:\Users\hamza\Desktop\VeloMax - C#\WPF_TD9_BDD\obj\Debug\SuppressionClientEntreprise.baml
+C:\Users\hamza\Desktop\VeloMax - C#\WPF_TD9_BDD\obj\Debug\SuppressionClientParticulier.baml
+C:\Users\hamza\Desktop\VeloMax - C#\WPF_TD9_BDD\obj\Debug\SuppressionCommande.baml
+C:\Users\hamza\Desktop\VeloMax - C#\WPF_TD9_BDD\obj\Debug\SuppressionFournisseur.baml
+C:\Users\hamza\Desktop\VeloMax - C#\WPF_TD9_BDD\obj\Debug\SuppressionPiece.baml
+C:\Users\hamza\Desktop\VeloMax - C#\WPF_TD9_BDD\obj\Debug\WPF_TD9_BDD.g.resources
+C:\Users\hamza\Desktop\VeloMax - C#\WPF_TD9_BDD\obj\Debug\WPF_TD9_BDD.Properties.Resources.resources
+C:\Users\hamza\Desktop\VeloMax - C#\WPF_TD9_BDD\obj\Debug\WPF_TD9_BDD.csproj.GenerateResource.cache
+C:\Users\hamza\Desktop\VeloMax - C#\WPF_TD9_BDD\obj\Debug\WPF_TD9_BDD.csproj.CopyComplete
+C:\Users\hamza\Desktop\VeloMax - C#\WPF_TD9_BDD\obj\Debug\WPF_TD9_BDD.exe
+C:\Users\hamza\Desktop\VeloMax - C#\WPF_TD9_BDD\obj\Debug\WPF_TD9_BDD.pdb
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\bin\Debug\WPF_TD9_BDD.exe.config
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\bin\Debug\WPF_TD9_BDD.exe
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\bin\Debug\WPF_TD9_BDD.pdb
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\bin\Debug\Google.Protobuf.dll
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\bin\Debug\Zstandard.Net.dll
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\bin\Debug\Renci.SshNet.dll
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\bin\Debug\System.Memory.dll
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\bin\Debug\System.Buffers.dll
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\bin\Debug\MySql.Data.xml
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\WPF_TD9_BDD.csprojAssemblyReference.cache
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\WPF_TD9_BDD.exe.config
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\ClientEntreprisexaml.g.cs
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\ClientParticulier.g.cs
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\ConnexionBase.g.cs
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\ConnexionBaseUser.g.cs
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\CreationClientEntreprise.g.cs
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\CreationClientParticulier.g.cs
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\CreationCommande.g.cs
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\CreationFournisseur.g.cs
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\Creation_Bicyclette.g.cs
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\Creation_Piece.g.cs
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\Exportation.g.cs
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\GestionBicyclette.g.cs
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\GestionClient.g.cs
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\GestionCommande.g.cs
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\GestionFournisseur.g.cs
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\GestionPiece.g.cs
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\GestionStock.g.cs
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\LoginPage.g.cs
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\MainWindow.g.cs
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\Marque_Velo.g.cs
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\Menue.g.cs
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\Statistiques.g.cs
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\StockNomFournisseur.g.cs
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\SuppressionBicyclette.g.cs
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\SuppressionClientEntreprise.g.cs
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\SuppressionClientParticulier.g.cs
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\SuppressionCommande.g.cs
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\SuppressionFournisseur.g.cs
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\SuppressionPiece.g.cs
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\App.g.cs
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\WPF_TD9_BDD_MarkupCompile.cache
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\WPF_TD9_BDD_MarkupCompile.lref
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\ClientEntreprisexaml.baml
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\ClientParticulier.baml
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\ConnexionBase.baml
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\ConnexionBaseUser.baml
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\CreationClientEntreprise.baml
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\CreationClientParticulier.baml
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\CreationCommande.baml
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\CreationFournisseur.baml
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\Creation_Bicyclette.baml
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\Creation_Piece.baml
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\Exportation.baml
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\GestionBicyclette.baml
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\GestionClient.baml
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\GestionCommande.baml
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\GestionFournisseur.baml
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\GestionPiece.baml
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\GestionStock.baml
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\LoginPage.baml
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\MainWindow.baml
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\Marque_Velo.baml
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\Menue.baml
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\Statistiques.baml
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\StockNomFournisseur.baml
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\SuppressionBicyclette.baml
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\SuppressionClientEntreprise.baml
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\SuppressionClientParticulier.baml
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\SuppressionCommande.baml
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\SuppressionFournisseur.baml
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\SuppressionPiece.baml
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\WPF_TD9_BDD.g.resources
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\WPF_TD9_BDD.Properties.Resources.resources
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\WPF_TD9_BDD.csproj.GenerateResource.cache
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\WPF_TD9_BDD.csproj.CopyComplete
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\WPF_TD9_BDD.exe
+C:\Users\hamza\Desktop\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\WPF_TD9_BDD.pdb
+C:\Users\hamza\OneDrive - De Vinci\Bureau\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\bin\Debug\WPF_TD9_BDD.exe.config
+C:\Users\hamza\OneDrive - De Vinci\Bureau\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\bin\Debug\WPF_TD9_BDD.exe
+C:\Users\hamza\OneDrive - De Vinci\Bureau\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\bin\Debug\WPF_TD9_BDD.pdb
+C:\Users\hamza\OneDrive - De Vinci\Bureau\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hamza\OneDrive - De Vinci\Bureau\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\bin\Debug\Google.Protobuf.dll
+C:\Users\hamza\OneDrive - De Vinci\Bureau\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\bin\Debug\Zstandard.Net.dll
+C:\Users\hamza\OneDrive - De Vinci\Bureau\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\hamza\OneDrive - De Vinci\Bureau\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\hamza\OneDrive - De Vinci\Bureau\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\hamza\OneDrive - De Vinci\Bureau\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\bin\Debug\Renci.SshNet.dll
+C:\Users\hamza\OneDrive - De Vinci\Bureau\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\bin\Debug\System.Memory.dll
+C:\Users\hamza\OneDrive - De Vinci\Bureau\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\bin\Debug\System.Buffers.dll
+C:\Users\hamza\OneDrive - De Vinci\Bureau\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\hamza\OneDrive - De Vinci\Bureau\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\hamza\OneDrive - De Vinci\Bureau\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\hamza\OneDrive - De Vinci\Bureau\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hamza\OneDrive - De Vinci\Bureau\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\bin\Debug\MySql.Data.xml
+C:\Users\hamza\OneDrive - De Vinci\Bureau\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hamza\OneDrive - De Vinci\Bureau\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\WPF_TD9_BDD.csproj.AssemblyReference.cache
+C:\Users\hamza\OneDrive - De Vinci\Bureau\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\WPF_TD9_BDD.exe.config
+C:\Users\hamza\OneDrive - De Vinci\Bureau\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\ClientEntreprisexaml.g.cs
+C:\Users\hamza\OneDrive - De Vinci\Bureau\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\ClientParticulier.g.cs
+C:\Users\hamza\OneDrive - De Vinci\Bureau\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\ConnexionBase.g.cs
+C:\Users\hamza\OneDrive - De Vinci\Bureau\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\ConnexionBaseUser.g.cs
+C:\Users\hamza\OneDrive - De Vinci\Bureau\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\CreationClientEntreprise.g.cs
+C:\Users\hamza\OneDrive - De Vinci\Bureau\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\CreationClientParticulier.g.cs
+C:\Users\hamza\OneDrive - De Vinci\Bureau\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\CreationCommande.g.cs
+C:\Users\hamza\OneDrive - De Vinci\Bureau\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\CreationFournisseur.g.cs
+C:\Users\hamza\OneDrive - De Vinci\Bureau\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\Creation_Bicyclette.g.cs
+C:\Users\hamza\OneDrive - De Vinci\Bureau\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\Creation_Piece.g.cs
+C:\Users\hamza\OneDrive - De Vinci\Bureau\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\Exportation.g.cs
+C:\Users\hamza\OneDrive - De Vinci\Bureau\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\GestionBicyclette.g.cs
+C:\Users\hamza\OneDrive - De Vinci\Bureau\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\GestionClient.g.cs
+C:\Users\hamza\OneDrive - De Vinci\Bureau\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\GestionCommande.g.cs
+C:\Users\hamza\OneDrive - De Vinci\Bureau\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\GestionFournisseur.g.cs
+C:\Users\hamza\OneDrive - De Vinci\Bureau\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\GestionPiece.g.cs
+C:\Users\hamza\OneDrive - De Vinci\Bureau\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\GestionStock.g.cs
+C:\Users\hamza\OneDrive - De Vinci\Bureau\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\LoginPage.g.cs
+C:\Users\hamza\OneDrive - De Vinci\Bureau\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\MainWindow.g.cs
+C:\Users\hamza\OneDrive - De Vinci\Bureau\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\Marque_Velo.g.cs
+C:\Users\hamza\OneDrive - De Vinci\Bureau\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\Menue.g.cs
+C:\Users\hamza\OneDrive - De Vinci\Bureau\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\Statistiques.g.cs
+C:\Users\hamza\OneDrive - De Vinci\Bureau\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\StockNomFournisseur.g.cs
+C:\Users\hamza\OneDrive - De Vinci\Bureau\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\SuppressionBicyclette.g.cs
+C:\Users\hamza\OneDrive - De Vinci\Bureau\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\SuppressionClientEntreprise.g.cs
+C:\Users\hamza\OneDrive - De Vinci\Bureau\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\SuppressionClientParticulier.g.cs
+C:\Users\hamza\OneDrive - De Vinci\Bureau\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\SuppressionCommande.g.cs
+C:\Users\hamza\OneDrive - De Vinci\Bureau\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\SuppressionFournisseur.g.cs
+C:\Users\hamza\OneDrive - De Vinci\Bureau\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\SuppressionPiece.g.cs
+C:\Users\hamza\OneDrive - De Vinci\Bureau\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\App.g.cs
+C:\Users\hamza\OneDrive - De Vinci\Bureau\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\WPF_TD9_BDD_MarkupCompile.cache
+C:\Users\hamza\OneDrive - De Vinci\Bureau\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\WPF_TD9_BDD_MarkupCompile.lref
+C:\Users\hamza\OneDrive - De Vinci\Bureau\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\ClientEntreprisexaml.baml
+C:\Users\hamza\OneDrive - De Vinci\Bureau\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\ClientParticulier.baml
+C:\Users\hamza\OneDrive - De Vinci\Bureau\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\ConnexionBase.baml
+C:\Users\hamza\OneDrive - De Vinci\Bureau\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\ConnexionBaseUser.baml
+C:\Users\hamza\OneDrive - De Vinci\Bureau\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\CreationClientEntreprise.baml
+C:\Users\hamza\OneDrive - De Vinci\Bureau\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\CreationClientParticulier.baml
+C:\Users\hamza\OneDrive - De Vinci\Bureau\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\CreationCommande.baml
+C:\Users\hamza\OneDrive - De Vinci\Bureau\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\CreationFournisseur.baml
+C:\Users\hamza\OneDrive - De Vinci\Bureau\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\Creation_Bicyclette.baml
+C:\Users\hamza\OneDrive - De Vinci\Bureau\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\Creation_Piece.baml
+C:\Users\hamza\OneDrive - De Vinci\Bureau\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\Exportation.baml
+C:\Users\hamza\OneDrive - De Vinci\Bureau\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\GestionBicyclette.baml
+C:\Users\hamza\OneDrive - De Vinci\Bureau\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\GestionClient.baml
+C:\Users\hamza\OneDrive - De Vinci\Bureau\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\GestionCommande.baml
+C:\Users\hamza\OneDrive - De Vinci\Bureau\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\GestionFournisseur.baml
+C:\Users\hamza\OneDrive - De Vinci\Bureau\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\GestionPiece.baml
+C:\Users\hamza\OneDrive - De Vinci\Bureau\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\GestionStock.baml
+C:\Users\hamza\OneDrive - De Vinci\Bureau\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\LoginPage.baml
+C:\Users\hamza\OneDrive - De Vinci\Bureau\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\MainWindow.baml
+C:\Users\hamza\OneDrive - De Vinci\Bureau\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\Marque_Velo.baml
+C:\Users\hamza\OneDrive - De Vinci\Bureau\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\Menue.baml
+C:\Users\hamza\OneDrive - De Vinci\Bureau\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\Statistiques.baml
+C:\Users\hamza\OneDrive - De Vinci\Bureau\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\StockNomFournisseur.baml
+C:\Users\hamza\OneDrive - De Vinci\Bureau\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\SuppressionBicyclette.baml
+C:\Users\hamza\OneDrive - De Vinci\Bureau\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\SuppressionClientEntreprise.baml
+C:\Users\hamza\OneDrive - De Vinci\Bureau\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\SuppressionClientParticulier.baml
+C:\Users\hamza\OneDrive - De Vinci\Bureau\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\SuppressionCommande.baml
+C:\Users\hamza\OneDrive - De Vinci\Bureau\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\SuppressionFournisseur.baml
+C:\Users\hamza\OneDrive - De Vinci\Bureau\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\SuppressionPiece.baml
+C:\Users\hamza\OneDrive - De Vinci\Bureau\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\WPF_TD9_BDD.g.resources
+C:\Users\hamza\OneDrive - De Vinci\Bureau\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\WPF_TD9_BDD.Properties.Resources.resources
+C:\Users\hamza\OneDrive - De Vinci\Bureau\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\WPF_TD9_BDD.csproj.GenerateResource.cache
+C:\Users\hamza\OneDrive - De Vinci\Bureau\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\WPF_TD9_BDD.csproj.CoreCompileInputs.cache
+C:\Users\hamza\OneDrive - De Vinci\Bureau\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\WPF_TD9_BDD.csproj.CopyComplete
+C:\Users\hamza\OneDrive - De Vinci\Bureau\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\WPF_TD9_BDD.exe
+C:\Users\hamza\OneDrive - De Vinci\Bureau\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\WPF_TD9_BDD.pdb

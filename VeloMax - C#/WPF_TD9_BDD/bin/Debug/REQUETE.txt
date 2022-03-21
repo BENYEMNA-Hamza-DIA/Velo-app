@@ -1,0 +1,1 @@
+'id_byclette',num_model,'nom_bicyclette','grandeur_bicyclette',prix_unitaire_bicyclette,'ligne_produit_bicyclette',null

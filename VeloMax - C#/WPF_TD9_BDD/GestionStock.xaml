@@ -1,0 +1,24 @@
+﻿<Window x:Class="WPF_TD9_BDD.GestionStock"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_TD9_BDD"
+        mc:Ignorable="d"
+        Title="GestionStock" Height="450" Width="800">
+    <Grid>
+        <Button Content="Afficher Stock Piece" HorizontalAlignment="Left" VerticalAlignment="Top" Width="161" RenderTransformOrigin="4.976,4.427" Margin="10,4,0,0" Click="AffichageStockPiece" Height="52"/>
+        <DataGrid Margin="10,57,10.333,90.667" ItemsSource ="{Binding}" x:Name ="dtGrid" />
+        <Button Content="Nom fournisseur" HorizontalAlignment="Left" Margin="262,363,0,0" VerticalAlignment="Top" Width="84" Click="NomFournisseur" Height="27"/>
+        <Button Content="Marque" HorizontalAlignment="Left" Margin="10,363,0,0" VerticalAlignment="Top" Width="83" Click="VeloMarque" RenderTransformOrigin="3.082,1.331" Height="27"/>
+        <Button Content="Afficher Stock Velo" HorizontalAlignment="Left" VerticalAlignment="Top" Width="161" RenderTransformOrigin="4.976,4.427" Margin="176,4,0,0" Click="StockVelo" Height="52"/>
+        <Button Content="Retour" HorizontalAlignment="Left" Margin="708,382,0,0" VerticalAlignment="Top" Width="75" RenderTransformOrigin="0.036,-0.129" Click="Retour"/>
+        <TextBox HorizontalAlignment="Left" Height="20" Margin="10,335,0,0" TextWrapping="Wrap" Text="Trier les Vélos par :" VerticalAlignment="Top" Width="161"/>
+        <TextBox HorizontalAlignment="Left" Height="20" Margin="262,335,0,0" TextWrapping="Wrap" Text="Trier les Pièces par :" VerticalAlignment="Top" Width="161"/>
+        <Button Content="Valider" HorizontalAlignment="Left" Height="27" Margin="98,363,0,0" VerticalAlignment="Top" Width="43" Background="Green" Click="ActualiserMarque" RenderTransformOrigin="-2.711,1.102"/>
+        <Button Content="Valider" HorizontalAlignment="Left" Height="27" Margin="351,364,0,0" VerticalAlignment="Top" Width="43" Background="Green" Click="ActualiserFourni" RenderTransformOrigin="-2.711,1.102"/>
+        <Button Content="Requete auto jointure" HorizontalAlignment="Left" Margin="469,363,0,0" VerticalAlignment="Top" Width="161" Click="autojointure" Height="27"/>
+        <TextBox HorizontalAlignment="Left" Height="20" Margin="469,335,0,0" TextWrapping="Wrap" Text="Pieces arrivés deffectueuses :" VerticalAlignment="Top" Width="161"/>
+
+    </Grid>
+</Window>

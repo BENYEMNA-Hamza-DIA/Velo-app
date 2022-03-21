@@ -1,0 +1,15 @@
+﻿<Window x:Class="WPF_TD9_BDD.StockNomFournisseur"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_TD9_BDD"
+        mc:Ignorable="d"
+        Title="StockNomFournisseur" Height="450" Width="800">
+    <Grid>
+        <Label Content="Veuillez entrer le nom du fournisseur pour avoir les pièces qu'il fourni" HorizontalAlignment="Left" Height="32" VerticalAlignment="Top" Width="481" Margin="206,136,0,0"/>
+        <Button Content="Entrer" HorizontalAlignment="Left" Margin="206,234,0,0" VerticalAlignment="Top" Width="411" Background="#FF28BF19" RenderTransformOrigin="-0.355,-2.073" Click = "Entrer" Height="149"/>
+        <TextBox x:Name="CnomFournisseur" HorizontalAlignment="Left" Height="20" Margin="309,168,0,0" TextWrapping="Wrap" Text="nom Frounisseur" VerticalAlignment="Top" Width="209" />
+
+    </Grid>
+</Window>

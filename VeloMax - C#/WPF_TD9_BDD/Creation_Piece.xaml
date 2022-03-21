@@ -1,0 +1,29 @@
+﻿<Window x:Class="WPF_TD9_BDD.Creation_Piece"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_TD9_BDD"
+        mc:Ignorable="d"
+        Title="Creation_Piece" Height="450" Width="800">
+    <Grid>
+        <Label Content="Veuillez entrer num_produit_piecee" HorizontalAlignment="Left" Height="30" VerticalAlignment="Top" Width="150" Margin="289,66,0,0"/>
+        <Label Content="Veuillez entrerdescription_piece" HorizontalAlignment="Left" Height="30" Margin="289,114,0,0" VerticalAlignment="Top" Width="150"/>
+        <Label Content="Veuillez entrer prix_unitaire_piecee" HorizontalAlignment="Left" Height="30" Margin="289,162,0,0" VerticalAlignment="Top" Width="150"/>
+        <Label Content="Veuillez entrer date_discontinuation_piece" HorizontalAlignment="Left" Height="30" Margin="289,251,0,0" VerticalAlignment="Top" Width="186"/>
+        <Button Content="Valider" HorizontalAlignment="Left" Margin="343,355,0,0" VerticalAlignment="Top" Width="75" Background="#FF28BF19" RenderTransformOrigin="-0.355,-2.073" Click = "Valider"/>
+        <TextBox x:Name="Cid_byclette" HorizontalAlignment="Left" Height="18" Margin="289,96,0,0" TextWrapping="Wrap" Text="num_produit_piece" VerticalAlignment="Top" Width="97"/>
+        <TextBox x:Name="Cnum_model" HorizontalAlignment="Left" Height="18" Margin="289,144,0,0" TextWrapping="Wrap" Text="description_piece" VerticalAlignment="Top" Width="97" RenderTransformOrigin="0.033,-3.479"/>
+        <TextBox x:Name="Cnom_bicyclette" HorizontalAlignment="Left" Height="18" Margin="289,192,0,0" TextWrapping="Wrap" Text="prix_unitaire_piece" VerticalAlignment="Top" Width="97" />
+        <TextBox x:Name="Cprix_unitaire_bicyclette" HorizontalAlignment="Left" Height="18" Margin="289,281,0,0" TextWrapping="Wrap" Text="date_discontinuation_piece" VerticalAlignment="Top" Width="97" RenderTransformOrigin="0.631,0.44" />
+        <Label Content="Veuillez entrer date_introduction_marche_piece" HorizontalAlignment="Left" Height="30" Margin="289,210,0,0" VerticalAlignment="Top" Width="186"/>
+        <TextBox x:Name="Cgrandeur" HorizontalAlignment="Left" Height="18" Margin="289,233,0,0" TextWrapping="Wrap" Text="date_introduction_marche_piece" VerticalAlignment="Top" Width="97" />
+        <Label Content="Veuillez entrer nom_fournisseur" HorizontalAlignment="Left" Height="30" Margin="289,302,0,0" VerticalAlignment="Top" Width="186"/>
+        <TextBox x:Name="Cligne_produit_bicyclette" HorizontalAlignment="Left" Height="18" Margin="289,332,0,0" TextWrapping="Wrap" Text="nom_fournisseur" VerticalAlignment="Top" Width="97" RenderTransformOrigin="0.631,0.44"  />
+        <Label Content="Veuillez entrer id_produit_piece" HorizontalAlignment="Left" Height="30" VerticalAlignment="Top" Width="150" Margin="289,18,0,0"/>
+        <TextBox x:Name="Cid_produit_piece" HorizontalAlignment="Left" Height="18" Margin="289,48,0,0" TextWrapping="Wrap" Text="id_produit_piece" VerticalAlignment="Top" Width="97"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="382" Margin="221,18,0,0" VerticalAlignment="Top" Width="330"/>
+        <Button Content="Retout" HorizontalAlignment="Left" Height="40" Margin="683,355,0,0" VerticalAlignment="Top" Width="84" Click="Button_Click"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,28 @@
+﻿<Window x:Class="WPF_TD9_BDD.Menue"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_TD9_BDD"
+        mc:Ignorable="d"
+        Title="Menue" Height="450" Width="800">
+    <Grid Margin="0,0,0.333,-2.333">
+        <Button Content="Client TotalCommande" HorizontalAlignment="Left" VerticalAlignment="Top" Width="124" RenderTransformOrigin="4.976,4.427" Margin="10,10,0,0" Click="Affichage_Bicyclette" Background="yellow"/>
+        <DataGrid Margin="10,50,244.333,76.667" ItemsSource ="{Binding}" Name ="dtGrid" />
+        <Button Content="Produit moins de 2 " HorizontalAlignment="Left" Margin="261,10,0,0" VerticalAlignment="Top" Width="112" Click="AjouterBicyclette" Background="yellow"/>
+        <Button Content="NombreClient" HorizontalAlignment="Left" Margin="378,10,0,0" VerticalAlignment="Top" Width="108" Click="NbClient" Background="yellow"/>
+        <Button Content="NB Piece Fournisseur" HorizontalAlignment="Left" Margin="139,10,0,0" VerticalAlignment="Top" Width="117" Click="AffichageFournisseur" RenderTransformOrigin="3.082,1.331" Background="yellow"/>
+        <Button Content="Gestion Bicyclette" HorizontalAlignment="Left" Margin="630,0,0,0" VerticalAlignment="Top" Width="132" Height="65" Click="Gestion_Bicyclette"/>
+        <Button Content="Gestion Piece" HorizontalAlignment="Left" Margin="630,70,0,0" VerticalAlignment="Top" Width="132" Height="65" Click="GestionPiece"/>
+        <Button Content="Gestion Client" HorizontalAlignment="Left" Margin="630,139,0,0" VerticalAlignment="Top" Width="132" Height="65" Click="GestionClient"/>
+        <Button Content="Gestion Commande" HorizontalAlignment="Left" Margin="630,209,0,0" VerticalAlignment="Top" Width="132" Height="65" Click="GestionCommande"/>
+        <Button Content="Gestion Fournisseur" HorizontalAlignment="Left" Margin="630,278,0,0" VerticalAlignment="Top" Width="132" Height="65" Click="GestionFournisseur"/>
+        <Button Content="Gestion Stock" HorizontalAlignment="Left" Margin="630,348,0,0" VerticalAlignment="Top" Width="132" Height="65" Click="GestionStock"/>
+        <Button Content="Exportation" HorizontalAlignment="Left" Margin="457,371,0,0" VerticalAlignment="Top" Width="75" Click="Exportation_Click" Background="yellow"/>
+        <Button Content="Satistiques" HorizontalAlignment="Left" Margin="327,371,0,0" VerticalAlignment="Top" Width="75" Click="Statistiques_Click"/>
+        <Button Content="Retour" HorizontalAlignment="Left" Margin="72,371,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click" Background="#FFF01F1F"/>
+    </Grid>
+
+
+
+</Window>

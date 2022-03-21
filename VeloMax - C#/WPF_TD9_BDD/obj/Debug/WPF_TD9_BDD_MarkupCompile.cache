@@ -1,0 +1,20 @@
+﻿WPF_TD9_BDD
+
+
+winexe
+C#
+.cs
+C:\Users\hamza\OneDrive - De Vinci\Bureau\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\obj\Debug\
+WPF_TD9_BDD
+none
+false
+DEBUG;TRACE
+C:\Users\hamza\OneDrive - De Vinci\Bureau\Hamza\ESILV\2020-2021\S6\BDD et intéropérabilité\Problème BDD\VeloMax - BREGER Aymeric BURY Jean-Baptiste - BENYEMNA Hamza\VeloMax - C#\WPF_TD9_BDD\App.xaml
+29-1616396639
+
+3326023908
+1191430483454
+ClientEntreprisexaml.xaml;ClientParticulier.xaml;ConnexionBase.xaml;ConnexionBaseUser.xaml;CreationClientEntreprise.xaml;CreationClientParticulier.xaml;CreationCommande.xaml;CreationFournisseur.xaml;Creation_Bicyclette.xaml;Creation_Piece.xaml;Exportation.xaml;GestionBicyclette.xaml;GestionClient.xaml;GestionCommande.xaml;GestionFournisseur.xaml;GestionPiece.xaml;GestionStock.xaml;LoginPage.xaml;MainWindow.xaml;Marque_Velo.xaml;Menue.xaml;Statistiques.xaml;StockNomFournisseur.xaml;SuppressionBicyclette.xaml;SuppressionClientEntreprise.xaml;SuppressionClientParticulier.xaml;SuppressionCommande.xaml;SuppressionFournisseur.xaml;SuppressionPiece.xaml;
+
+False
+

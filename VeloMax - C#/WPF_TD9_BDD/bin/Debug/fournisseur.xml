@@ -1,0 +1,728 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table>
+    <id_bicyclette>BRD3459</id_bicyclette>
+    <num_modele_bicyclette>108</num_modele_bicyclette>
+    <nom_bicyclette>BlueJay</nom_bicyclette>
+    <grandeur_bicyclette>Dames</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>2459</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>Vélo de course</ligne_produit_bicyclette>
+  </Table>
+  <Table>
+    <id_bicyclette>BRD3999</id_bicyclette>
+    <num_modele_bicyclette>108</num_modele_bicyclette>
+    <nom_bicyclette>BlueJay</nom_bicyclette>
+    <grandeur_bicyclette>Dames</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>2449</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>Vélo de course</ligne_produit_bicyclette>
+  </Table>
+  <Table>
+    <id_bicyclette>BRH3652</id_bicyclette>
+    <num_modele_bicyclette>107</num_modele_bicyclette>
+    <nom_bicyclette>BlueJay</nom_bicyclette>
+    <grandeur_bicyclette>Hommes</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>2149</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>Vélo de course</ligne_produit_bicyclette>
+  </Table>
+  <Table>
+    <id_bicyclette>BRH4347</id_bicyclette>
+    <num_modele_bicyclette>107</num_modele_bicyclette>
+    <nom_bicyclette>BlueJay</nom_bicyclette>
+    <grandeur_bicyclette>Hommes</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>2449</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>Vélo de course</ligne_produit_bicyclette>
+    <num_commande>2</num_commande>
+  </Table>
+  <Table>
+    <id_bicyclette>BRH4857</id_bicyclette>
+    <num_modele_bicyclette>107</num_modele_bicyclette>
+    <nom_bicyclette>BlueJay</nom_bicyclette>
+    <grandeur_bicyclette>Hommes</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>2459</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>Vélo de course</ligne_produit_bicyclette>
+  </Table>
+  <Table>
+    <id_bicyclette>CD2594</id_bicyclette>
+    <num_modele_bicyclette>113</num_modele_bicyclette>
+    <nom_bicyclette>Tierra Verde</nom_bicyclette>
+    <grandeur_bicyclette>Dames</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>399</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>Classique</ligne_produit_bicyclette>
+  </Table>
+  <Table>
+    <id_bicyclette>HTA2456</id_bicyclette>
+    <num_modele_bicyclette>104</num_modele_bicyclette>
+    <nom_bicyclette>Hooligan</nom_bicyclette>
+    <grandeur_bicyclette>Jeunes</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>699</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>VTT</ligne_produit_bicyclette>
+  </Table>
+  <Table>
+    <id_bicyclette>HTA2546</id_bicyclette>
+    <num_modele_bicyclette>104</num_modele_bicyclette>
+    <nom_bicyclette>Hooligan</nom_bicyclette>
+    <grandeur_bicyclette>Jeunes</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>699</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>VTT</ligne_produit_bicyclette>
+    <num_commande>5</num_commande>
+  </Table>
+  <Table>
+    <id_bicyclette>KTA1254</id_bicyclette>
+    <num_modele_bicyclette>101</num_modele_bicyclette>
+    <nom_bicyclette>Kilimandjaro</nom_bicyclette>
+    <grandeur_bicyclette>Adultes</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>929</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>VTT</ligne_produit_bicyclette>
+    <num_commande>2</num_commande>
+  </Table>
+  <Table>
+    <id_bicyclette>KTA5784</id_bicyclette>
+    <num_modele_bicyclette>101</num_modele_bicyclette>
+    <nom_bicyclette>Kilimandjaro</nom_bicyclette>
+    <grandeur_bicyclette>Adultes</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>929</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>VTT</ligne_produit_bicyclette>
+    <num_commande>16</num_commande>
+  </Table>
+  <Table>
+    <id_bicyclette>KTA8480</id_bicyclette>
+    <num_modele_bicyclette>101</num_modele_bicyclette>
+    <nom_bicyclette>Kilimandjaro</nom_bicyclette>
+    <grandeur_bicyclette>Adultes</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>929</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>VTT</ligne_produit_bicyclette>
+  </Table>
+  <Table>
+    <id_bicyclette>MBA4256</id_bicyclette>
+    <num_modele_bicyclette>115</num_modele_bicyclette>
+    <nom_bicyclette>Mud Zinger II</nom_bicyclette>
+    <grandeur_bicyclette>Adultes</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>359</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>BMX</ligne_produit_bicyclette>
+  </Table>
+  <Table>
+    <id_bicyclette>MBA8054</id_bicyclette>
+    <num_modele_bicyclette>115</num_modele_bicyclette>
+    <nom_bicyclette>Mud Zinger II</nom_bicyclette>
+    <grandeur_bicyclette>Adultes</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>659</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>BMX</ligne_produit_bicyclette>
+  </Table>
+  <Table>
+    <id_bicyclette>MBA8245</id_bicyclette>
+    <num_modele_bicyclette>115</num_modele_bicyclette>
+    <nom_bicyclette>Mud Zinger II</nom_bicyclette>
+    <grandeur_bicyclette>Adultes</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>559</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>BMX</ligne_produit_bicyclette>
+  </Table>
+  <Table>
+    <id_bicyclette>MBA8504</id_bicyclette>
+    <num_modele_bicyclette>115</num_modele_bicyclette>
+    <nom_bicyclette>Mud Zinger II</nom_bicyclette>
+    <grandeur_bicyclette>Adultes</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>659</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>BMX</ligne_produit_bicyclette>
+    <num_commande>4</num_commande>
+  </Table>
+  <Table>
+    <id_bicyclette>MBJ0012</id_bicyclette>
+    <num_modele_bicyclette>114</num_modele_bicyclette>
+    <nom_bicyclette>Mud Zinger I </nom_bicyclette>
+    <grandeur_bicyclette>Jeunes</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>579</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>BMX</ligne_produit_bicyclette>
+    <num_commande>11</num_commande>
+  </Table>
+  <Table>
+    <id_bicyclette>MBJ0912</id_bicyclette>
+    <num_modele_bicyclette>114</num_modele_bicyclette>
+    <nom_bicyclette>Mud Zinger I </nom_bicyclette>
+    <grandeur_bicyclette>Jeunes</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>579</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>BMX</ligne_produit_bicyclette>
+  </Table>
+  <Table>
+    <id_bicyclette>MBJ4569</id_bicyclette>
+    <num_modele_bicyclette>114</num_modele_bicyclette>
+    <nom_bicyclette>Mud Zinger I </nom_bicyclette>
+    <grandeur_bicyclette>Jeunes</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>279</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>BMX</ligne_produit_bicyclette>
+  </Table>
+  <Table>
+    <id_bicyclette>MBJ9999</id_bicyclette>
+    <num_modele_bicyclette>114</num_modele_bicyclette>
+    <nom_bicyclette>Mud Zinger I </nom_bicyclette>
+    <grandeur_bicyclette>Jeunes</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>479</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>BMX</ligne_produit_bicyclette>
+  </Table>
+  <Table>
+    <id_bicyclette>MTJ4597</id_bicyclette>
+    <num_modele_bicyclette>103</num_modele_bicyclette>
+    <nom_bicyclette>MontBlanc</nom_bicyclette>
+    <grandeur_bicyclette>Jeunes</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>879</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>VTT</ligne_produit_bicyclette>
+  </Table>
+  <Table>
+    <id_bicyclette>MTJ4847</id_bicyclette>
+    <num_modele_bicyclette>103</num_modele_bicyclette>
+    <nom_bicyclette>MontBlanc</nom_bicyclette>
+    <grandeur_bicyclette>Jeunes</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>879</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>VTT</ligne_produit_bicyclette>
+    <num_commande>19</num_commande>
+  </Table>
+  <Table>
+    <id_bicyclette>NCJ4587</id_bicyclette>
+    <num_modele_bicyclette>111</num_modele_bicyclette>
+    <nom_bicyclette>Night Hawk</nom_bicyclette>
+    <grandeur_bicyclette>Jeunes</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>489</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>Classique</ligne_produit_bicyclette>
+  </Table>
+  <Table>
+    <id_bicyclette>NCJ7587</id_bicyclette>
+    <num_modele_bicyclette>111</num_modele_bicyclette>
+    <nom_bicyclette>Night Hawk</nom_bicyclette>
+    <grandeur_bicyclette>Jeunes</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>489</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>Classique</ligne_produit_bicyclette>
+  </Table>
+  <Table>
+    <id_bicyclette>NTA5458</id_bicyclette>
+    <num_modele_bicyclette>102</num_modele_bicyclette>
+    <nom_bicyclette>NorthPole</nom_bicyclette>
+    <grandeur_bicyclette>Adultes</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>749</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>VTT</ligne_produit_bicyclette>
+    <num_commande>3</num_commande>
+  </Table>
+  <Table>
+    <id_bicyclette>NTA6458</id_bicyclette>
+    <num_modele_bicyclette>102</num_modele_bicyclette>
+    <nom_bicyclette>NorthPole</nom_bicyclette>
+    <grandeur_bicyclette>Adultes</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>749</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>VTT</ligne_produit_bicyclette>
+    <num_commande>19</num_commande>
+  </Table>
+  <Table>
+    <id_bicyclette>NTA7845</id_bicyclette>
+    <num_modele_bicyclette>102</num_modele_bicyclette>
+    <nom_bicyclette>NorthPole</nom_bicyclette>
+    <grandeur_bicyclette>Adultes</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>749</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>VTT</ligne_produit_bicyclette>
+  </Table>
+  <Table>
+    <id_bicyclette>ORD0117</id_bicyclette>
+    <num_modele_bicyclette>106</num_modele_bicyclette>
+    <nom_bicyclette>Orléans</nom_bicyclette>
+    <grandeur_bicyclette>Dames</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>2149</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>Vélo de course</ligne_produit_bicyclette>
+  </Table>
+  <Table>
+    <id_bicyclette>ORD4117</id_bicyclette>
+    <num_modele_bicyclette>106</num_modele_bicyclette>
+    <nom_bicyclette>Orléans</nom_bicyclette>
+    <grandeur_bicyclette>Dames</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>2149</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>Vélo de course</ligne_produit_bicyclette>
+  </Table>
+  <Table>
+    <id_bicyclette>ORD4527</id_bicyclette>
+    <num_modele_bicyclette>106</num_modele_bicyclette>
+    <nom_bicyclette>Orléans</nom_bicyclette>
+    <grandeur_bicyclette>Dames</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>2149</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>Vélo de course</ligne_produit_bicyclette>
+  </Table>
+  <Table>
+    <id_bicyclette>ORH4565</id_bicyclette>
+    <num_modele_bicyclette>105</num_modele_bicyclette>
+    <nom_bicyclette>Orléans</nom_bicyclette>
+    <grandeur_bicyclette>Hommes</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>2149</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>Vélo de course</ligne_produit_bicyclette>
+  </Table>
+  <Table>
+    <id_bicyclette>ORH4995</id_bicyclette>
+    <num_modele_bicyclette>105</num_modele_bicyclette>
+    <nom_bicyclette>Orléans</nom_bicyclette>
+    <grandeur_bicyclette>Hommes</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>2149</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>Vélo de course</ligne_produit_bicyclette>
+    <num_commande>21</num_commande>
+  </Table>
+  <Table>
+    <id_bicyclette>TCD0485</id_bicyclette>
+    <num_modele_bicyclette>113</num_modele_bicyclette>
+    <nom_bicyclette>Tierra Verde</nom_bicyclette>
+    <grandeur_bicyclette>Dames</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>499</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>Classique</ligne_produit_bicyclette>
+  </Table>
+  <Table>
+    <id_bicyclette>TCD7840</id_bicyclette>
+    <num_modele_bicyclette>113</num_modele_bicyclette>
+    <nom_bicyclette>Tierra Verde</nom_bicyclette>
+    <grandeur_bicyclette>Dames</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>499</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>Classique</ligne_produit_bicyclette>
+  </Table>
+  <Table>
+    <id_bicyclette>TCD8411</id_bicyclette>
+    <num_modele_bicyclette>113</num_modele_bicyclette>
+    <nom_bicyclette>Tierra Verde</nom_bicyclette>
+    <grandeur_bicyclette>Dames</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>499</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>Classique</ligne_produit_bicyclette>
+  </Table>
+  <Table>
+    <id_bicyclette>TCF2647</id_bicyclette>
+    <num_modele_bicyclette>109</num_modele_bicyclette>
+    <nom_bicyclette>Trail Explorer</nom_bicyclette>
+    <grandeur_bicyclette>Filles</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>319</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>Classique</ligne_produit_bicyclette>
+  </Table>
+  <Table>
+    <id_bicyclette>TCF2747</id_bicyclette>
+    <num_modele_bicyclette>109</num_modele_bicyclette>
+    <nom_bicyclette>Trail Explorer</nom_bicyclette>
+    <grandeur_bicyclette>Filles</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>319</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>Classique</ligne_produit_bicyclette>
+  </Table>
+  <Table>
+    <id_bicyclette>TCG4557</id_bicyclette>
+    <num_modele_bicyclette>110</num_modele_bicyclette>
+    <nom_bicyclette>Trail Explorer</nom_bicyclette>
+    <grandeur_bicyclette>Garçons</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>319</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>Classique</ligne_produit_bicyclette>
+  </Table>
+  <Table>
+    <id_bicyclette>TCG4597</id_bicyclette>
+    <num_modele_bicyclette>110</num_modele_bicyclette>
+    <nom_bicyclette>Trail Explorer</nom_bicyclette>
+    <grandeur_bicyclette>Garçons</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>319</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>Classique</ligne_produit_bicyclette>
+  </Table>
+  <Table>
+    <id_bicyclette>TCH1254</id_bicyclette>
+    <num_modele_bicyclette>112</num_modele_bicyclette>
+    <nom_bicyclette>Tierra Verde</nom_bicyclette>
+    <grandeur_bicyclette>Hommes</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>499</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>Classique</ligne_produit_bicyclette>
+  </Table>
+  <Table>
+    <id_bicyclette>TCH6548</id_bicyclette>
+    <num_modele_bicyclette>112</num_modele_bicyclette>
+    <nom_bicyclette>Tierra Verde</nom_bicyclette>
+    <grandeur_bicyclette>Hommes</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>399</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>Classique</ligne_produit_bicyclette>
+  </Table>
+  <Table>
+    <id_bicyclette>TCH8548</id_bicyclette>
+    <num_modele_bicyclette>112</num_modele_bicyclette>
+    <nom_bicyclette>Tierra Verde</nom_bicyclette>
+    <grandeur_bicyclette>Hommes</grandeur_bicyclette>
+    <prix_unitaire_bicyclette>499</prix_unitaire_bicyclette>
+    <ligne_produit_bicyclette>Classique</ligne_produit_bicyclette>
+  </Table>
+  <Table>
+    <nom_compagnie_entreprise>Bike Marseille Vélodrome</nom_compagnie_entreprise>
+    <rue_entreprise>3 Boulevard Michelet</rue_entreprise>
+    <ville_entreprise>Marseille</ville_entreprise>
+    <code_postale_entreprise>13008</code_postale_entreprise>
+    <province_entreprise>Provence-Alpes-Côte d’Azur</province_entreprise>
+    <telephone_entreprise>447841687</telephone_entreprise>
+    <courriel_entreprise>BikeVelodrome@gmail.com</courriel_entreprise>
+    <nom_contact_entreprise>Olive</nom_contact_entreprise>
+    <pourcentage_remise_entreprise>4</pourcentage_remise_entreprise>
+  </Table>
+  <Table>
+    <nom_compagnie_entreprise>Easy Rider</nom_compagnie_entreprise>
+    <rue_entreprise>Avenue Denis Padovani</rue_entreprise>
+    <ville_entreprise>Vitrolles</ville_entreprise>
+    <code_postale_entreprise>13127</code_postale_entreprise>
+    <province_entreprise>Provence-Alpes-Côte d’Azur</province_entreprise>
+    <telephone_entreprise>442151050</telephone_entreprise>
+    <courriel_entreprise>EasyRider@gmail.com</courriel_entreprise>
+    <nom_contact_entreprise>Strebi</nom_contact_entreprise>
+    <pourcentage_remise_entreprise>2.5</pourcentage_remise_entreprise>
+  </Table>
+  <Table>
+    <nom_compagnie_entreprise>Tinabico</nom_compagnie_entreprise>
+    <rue_entreprise>Route Nationale 113</rue_entreprise>
+    <ville_entreprise>Vitrolles</ville_entreprise>
+    <code_postale_entreprise>13127</code_postale_entreprise>
+    <province_entreprise>Provence-Alpes-Côte d’Azur</province_entreprise>
+    <telephone_entreprise>442845687</telephone_entreprise>
+    <courriel_entreprise>Tinabico_Bike@gmail.com</courriel_entreprise>
+    <nom_contact_entreprise>Amery</nom_contact_entreprise>
+    <pourcentage_remise_entreprise>4</pourcentage_remise_entreprise>
+  </Table>
+  <Table>
+    <id_particulier>68</id_particulier>
+    <nom_particulier>Berlouni</nom_particulier>
+    <prenom_particulier>Boulbaba</prenom_particulier>
+    <rue_particulier>1 Cours Julien</rue_particulier>
+    <ville_particulier>Marseille</ville_particulier>
+    <code_postale_particulier>13001</code_postale_particulier>
+    <province_particulier>Provence-Alpes-Côte d’Azur</province_particulier>
+    <telephone_particulier>654875219</telephone_particulier>
+    <courriel_particulier>BoublBaBerlou@gmail.com</courriel_particulier>
+  </Table>
+  <Table>
+    <id_particulier>86</id_particulier>
+    <nom_particulier>Mirio</nom_particulier>
+    <prenom_particulier>Driss</prenom_particulier>
+    <rue_particulier>14 Résidence Campagne Lévêque</rue_particulier>
+    <ville_particulier>Marseille</ville_particulier>
+    <code_postale_particulier>13015</code_postale_particulier>
+    <province_particulier>Provence-Alpes-Côte d’Azur</province_particulier>
+    <telephone_particulier>678450495</telephone_particulier>
+    <courriel_particulier>DrissMirioo@gmail.com</courriel_particulier>
+  </Table>
+  <Table>
+    <id_particulier>667</id_particulier>
+    <nom_particulier>Kebir</nom_particulier>
+    <prenom_particulier>Kamel</prenom_particulier>
+    <rue_particulier>162 Boulevard Mireille Lauze</rue_particulier>
+    <ville_particulier>Marseille</ville_particulier>
+    <code_postale_particulier>13010</code_postale_particulier>
+    <province_particulier>Provence-Alpes-Côte d’Azur</province_particulier>
+    <telephone_particulier>678450485</telephone_particulier>
+    <courriel_particulier>KametoK@gmail.com</courriel_particulier>
+  </Table>
+  <Table>
+    <id_particulier>754</id_particulier>
+    <nom_particulier>Detair</nom_particulier>
+    <prenom_particulier>Billy</prenom_particulier>
+    <rue_particulier>53 La Canebière</rue_particulier>
+    <ville_particulier>Marseille</ville_particulier>
+    <code_postale_particulier>13001</code_postale_particulier>
+    <province_particulier>Provence-Alpes-Côte d’Azur</province_particulier>
+    <telephone_particulier>706060</telephone_particulier>
+    <courriel_particulier>Rdetair@gmail.com</courriel_particulier>
+  </Table>
+  <Table>
+    <id_particulier>792</id_particulier>
+    <nom_particulier>Zousa</nom_particulier>
+    <prenom_particulier>Kotei</prenom_particulier>
+    <rue_particulier>7 Place du Mérou</rue_particulier>
+    <ville_particulier>Marseille</ville_particulier>
+    <code_postale_particulier>13016</code_postale_particulier>
+    <province_particulier>Provence-Alpes-Côte d’Azur</province_particulier>
+    <telephone_particulier>778452695</telephone_particulier>
+    <courriel_particulier>KoteiZousaa@gmail.com</courriel_particulier>
+  </Table>
+  <Table>
+    <id_particulier>992</id_particulier>
+    <nom_particulier>Raconte</nom_particulier>
+    <prenom_particulier>Miguel</prenom_particulier>
+    <rue_particulier>Rue Fort du Sanctuaire</rue_particulier>
+    <ville_particulier>Marseille</ville_particulier>
+    <code_postale_particulier>13281</code_postale_particulier>
+    <province_particulier>Provence-Alpes-Côte d’Azur</province_particulier>
+    <telephone_particulier>785342655</telephone_particulier>
+    <courriel_particulier>MiguelTom@gmail.com</courriel_particulier>
+  </Table>
+  <Table>
+    <id_particulier>1111</id_particulier>
+    <nom_particulier>test</nom_particulier>
+    <prenom_particulier>test</prenom_particulier>
+    <rue_particulier>test</rue_particulier>
+    <ville_particulier>test</ville_particulier>
+    <code_postale_particulier>111111</code_postale_particulier>
+    <province_particulier>test</province_particulier>
+    <telephone_particulier>111111</telephone_particulier>
+    <courriel_particulier>test</courriel_particulier>
+    <num_programme_fidelio>4</num_programme_fidelio>
+  </Table>
+  <Table>
+    <num_commande>2</num_commande>
+    <nom_compagnie_entreprise>Easy Rider</nom_compagnie_entreprise>
+    <date_commande>2021-05-20T00:00:00+02:00</date_commande>
+    <rue_livraison_commande>96 Rue de 8 mai 1945</rue_livraison_commande>
+    <ville_livraison_commande>Cavaillon</ville_livraison_commande>
+    <code_postale_livraison_commande>84300</code_postale_livraison_commande>
+    <province_livraison_commande>Provence-Alpes-Côte d’Azur</province_livraison_commande>
+    <quantite_bicyclettes_commande>2</quantite_bicyclettes_commande>
+    <quantite_pieces_commande>0</quantite_pieces_commande>
+    <date_livraison_commande>2021-05-25T00:00:00+02:00</date_livraison_commande>
+  </Table>
+  <Table>
+    <num_commande>3</num_commande>
+    <nom_compagnie_entreprise>Easy Rider</nom_compagnie_entreprise>
+    <date_commande>2021-05-27T00:00:00+02:00</date_commande>
+    <rue_livraison_commande>96 Rue de 8 mai 1945</rue_livraison_commande>
+    <ville_livraison_commande>Cavaillon</ville_livraison_commande>
+    <code_postale_livraison_commande>84300</code_postale_livraison_commande>
+    <province_livraison_commande>Provence-Alpes-Côte d’Azur</province_livraison_commande>
+    <quantite_bicyclettes_commande>1</quantite_bicyclettes_commande>
+    <quantite_pieces_commande>0</quantite_pieces_commande>
+    <date_livraison_commande>2021-06-01T00:00:00+02:00</date_livraison_commande>
+  </Table>
+  <Table>
+    <num_commande>4</num_commande>
+    <nom_compagnie_entreprise>Easy Rider</nom_compagnie_entreprise>
+    <date_commande>2021-05-25T00:00:00+02:00</date_commande>
+    <rue_livraison_commande>96 Rue de 8 mai 1945</rue_livraison_commande>
+    <ville_livraison_commande>Cavaillon</ville_livraison_commande>
+    <code_postale_livraison_commande>84300</code_postale_livraison_commande>
+    <province_livraison_commande>Provence-Alpes-Côte d’Azur</province_livraison_commande>
+    <quantite_bicyclettes_commande>1</quantite_bicyclettes_commande>
+    <quantite_pieces_commande>0</quantite_pieces_commande>
+    <date_livraison_commande>2021-05-27T00:00:00+02:00</date_livraison_commande>
+  </Table>
+  <Table>
+    <num_commande>5</num_commande>
+    <nom_compagnie_entreprise>Easy Rider</nom_compagnie_entreprise>
+    <date_commande>2021-05-24T00:00:00+02:00</date_commande>
+    <rue_livraison_commande>96 Rue de 8 mai 1945</rue_livraison_commande>
+    <ville_livraison_commande>Cavaillon</ville_livraison_commande>
+    <code_postale_livraison_commande>84300</code_postale_livraison_commande>
+    <province_livraison_commande>Provence-Alpes-Côte d’Azur</province_livraison_commande>
+    <quantite_bicyclettes_commande>1</quantite_bicyclettes_commande>
+    <quantite_pieces_commande>1</quantite_pieces_commande>
+    <date_livraison_commande>2021-05-28T00:00:00+02:00</date_livraison_commande>
+  </Table>
+  <Table>
+    <num_commande>10</num_commande>
+    <nom_compagnie_entreprise>Tinabico</nom_compagnie_entreprise>
+    <date_commande>2021-05-20T00:00:00+02:00</date_commande>
+    <rue_livraison_commande>Route Nationale 113</rue_livraison_commande>
+    <ville_livraison_commande>Vitrolles</ville_livraison_commande>
+    <code_postale_livraison_commande>13127</code_postale_livraison_commande>
+    <province_livraison_commande>Provence-Alpes-Côte d’Azur</province_livraison_commande>
+    <quantite_bicyclettes_commande>0</quantite_bicyclettes_commande>
+    <quantite_pieces_commande>5</quantite_pieces_commande>
+    <date_livraison_commande>2021-05-25T00:00:00+02:00</date_livraison_commande>
+  </Table>
+  <Table>
+    <num_commande>11</num_commande>
+    <nom_compagnie_entreprise>Tinabico</nom_compagnie_entreprise>
+    <date_commande>2021-05-27T00:00:00+02:00</date_commande>
+    <rue_livraison_commande>Route Nationale 113</rue_livraison_commande>
+    <ville_livraison_commande>Vitrolles</ville_livraison_commande>
+    <code_postale_livraison_commande>13127</code_postale_livraison_commande>
+    <province_livraison_commande>Provence-Alpes-Côte d’Azur</province_livraison_commande>
+    <quantite_bicyclettes_commande>1</quantite_bicyclettes_commande>
+    <quantite_pieces_commande>0</quantite_pieces_commande>
+    <date_livraison_commande>2021-06-01T00:00:00+02:00</date_livraison_commande>
+  </Table>
+  <Table>
+    <num_commande>12</num_commande>
+    <nom_compagnie_entreprise>Tinabico</nom_compagnie_entreprise>
+    <date_commande>2021-05-25T00:00:00+02:00</date_commande>
+    <rue_livraison_commande>Route Nationale 113</rue_livraison_commande>
+    <ville_livraison_commande>Vitrolles</ville_livraison_commande>
+    <code_postale_livraison_commande>13127</code_postale_livraison_commande>
+    <province_livraison_commande>Provence-Alpes-Côte d’Azur</province_livraison_commande>
+    <quantite_bicyclettes_commande>0</quantite_bicyclettes_commande>
+    <quantite_pieces_commande>1</quantite_pieces_commande>
+    <date_livraison_commande>2021-05-27T00:00:00+02:00</date_livraison_commande>
+  </Table>
+  <Table>
+    <num_commande>15</num_commande>
+    <id_particulier>754</id_particulier>
+    <date_commande>2021-05-20T00:00:00+02:00</date_commande>
+    <rue_livraison_commande>53 La Canebière</rue_livraison_commande>
+    <ville_livraison_commande>Marseille</ville_livraison_commande>
+    <code_postale_livraison_commande>13001</code_postale_livraison_commande>
+    <province_livraison_commande>Provence-Alpes-Côte d’Azur</province_livraison_commande>
+    <quantite_bicyclettes_commande>0</quantite_bicyclettes_commande>
+    <quantite_pieces_commande>5</quantite_pieces_commande>
+    <date_livraison_commande>2021-05-25T00:00:00+02:00</date_livraison_commande>
+  </Table>
+  <Table>
+    <num_commande>16</num_commande>
+    <id_particulier>754</id_particulier>
+    <date_commande>2021-05-27T00:00:00+02:00</date_commande>
+    <rue_livraison_commande>53 La Canebière</rue_livraison_commande>
+    <ville_livraison_commande>Marseille</ville_livraison_commande>
+    <code_postale_livraison_commande>13001</code_postale_livraison_commande>
+    <province_livraison_commande>Provence-Alpes-Côte d’Azur</province_livraison_commande>
+    <quantite_bicyclettes_commande>1</quantite_bicyclettes_commande>
+    <quantite_pieces_commande>0</quantite_pieces_commande>
+    <date_livraison_commande>2021-06-01T00:00:00+02:00</date_livraison_commande>
+  </Table>
+  <Table>
+    <num_commande>17</num_commande>
+    <id_particulier>754</id_particulier>
+    <date_commande>2021-05-25T00:00:00+02:00</date_commande>
+    <rue_livraison_commande>53 La Canebière</rue_livraison_commande>
+    <ville_livraison_commande>Marseille</ville_livraison_commande>
+    <code_postale_livraison_commande>13001</code_postale_livraison_commande>
+    <province_livraison_commande>Provence-Alpes-Côte d’Azur</province_livraison_commande>
+    <quantite_bicyclettes_commande>0</quantite_bicyclettes_commande>
+    <quantite_pieces_commande>1</quantite_pieces_commande>
+    <date_livraison_commande>2021-05-27T00:00:00+02:00</date_livraison_commande>
+  </Table>
+  <Table>
+    <num_commande>18</num_commande>
+    <id_particulier>792</id_particulier>
+    <date_commande>2021-05-20T00:00:00+02:00</date_commande>
+    <rue_livraison_commande>7 Place du Mérou</rue_livraison_commande>
+    <ville_livraison_commande>Marseille</ville_livraison_commande>
+    <code_postale_livraison_commande>13016</code_postale_livraison_commande>
+    <province_livraison_commande>Provence-Alpes-Côte d’Azur</province_livraison_commande>
+    <quantite_bicyclettes_commande>0</quantite_bicyclettes_commande>
+    <quantite_pieces_commande>5</quantite_pieces_commande>
+    <date_livraison_commande>2021-05-25T00:00:00+02:00</date_livraison_commande>
+  </Table>
+  <Table>
+    <num_commande>19</num_commande>
+    <id_particulier>792</id_particulier>
+    <date_commande>2021-05-27T00:00:00+02:00</date_commande>
+    <rue_livraison_commande>7 Place du Mérou</rue_livraison_commande>
+    <ville_livraison_commande>Marseille</ville_livraison_commande>
+    <code_postale_livraison_commande>13016</code_postale_livraison_commande>
+    <province_livraison_commande>Provence-Alpes-Côte d’Azur</province_livraison_commande>
+    <quantite_bicyclettes_commande>2</quantite_bicyclettes_commande>
+    <quantite_pieces_commande>0</quantite_pieces_commande>
+    <date_livraison_commande>2021-06-01T00:00:00+02:00</date_livraison_commande>
+  </Table>
+  <Table>
+    <num_commande>20</num_commande>
+    <id_particulier>792</id_particulier>
+    <date_commande>2021-05-25T00:00:00+02:00</date_commande>
+    <rue_livraison_commande>7 Place du Mérou</rue_livraison_commande>
+    <ville_livraison_commande>Marseille</ville_livraison_commande>
+    <code_postale_livraison_commande>13016</code_postale_livraison_commande>
+    <province_livraison_commande>Provence-Alpes-Côte d’Azur</province_livraison_commande>
+    <quantite_bicyclettes_commande>0</quantite_bicyclettes_commande>
+    <quantite_pieces_commande>2</quantite_pieces_commande>
+    <date_livraison_commande>2021-05-27T00:00:00+02:00</date_livraison_commande>
+  </Table>
+  <Table>
+    <num_commande>21</num_commande>
+    <id_particulier>86</id_particulier>
+    <date_commande>2021-05-27T00:00:00+02:00</date_commande>
+    <rue_livraison_commande>3 Boulevard Michelet</rue_livraison_commande>
+    <ville_livraison_commande>Marseille</ville_livraison_commande>
+    <code_postale_livraison_commande>13008</code_postale_livraison_commande>
+    <province_livraison_commande>Provence-Alpes-Côte d’Azur</province_livraison_commande>
+    <quantite_bicyclettes_commande>1</quantite_bicyclettes_commande>
+    <quantite_pieces_commande>1</quantite_pieces_commande>
+    <date_livraison_commande>2021-06-01T00:00:00+02:00</date_livraison_commande>
+  </Table>
+  <Table>
+    <num_commande>22</num_commande>
+    <id_particulier>86</id_particulier>
+    <date_commande>2021-05-25T00:00:00+02:00</date_commande>
+    <rue_livraison_commande>3 Boulevard Michelet</rue_livraison_commande>
+    <ville_livraison_commande>Marseille</ville_livraison_commande>
+    <code_postale_livraison_commande>13008</code_postale_livraison_commande>
+    <province_livraison_commande>Provence-Alpes-Côte d’Azur</province_livraison_commande>
+    <quantite_bicyclettes_commande>0</quantite_bicyclettes_commande>
+    <quantite_pieces_commande>1</quantite_pieces_commande>
+    <date_livraison_commande>2021-05-27T00:00:00+02:00</date_livraison_commande>
+  </Table>
+  <Table>
+    <num_commande>23</num_commande>
+    <nom_compagnie_entreprise>Bike Marseille Vélodrome</nom_compagnie_entreprise>
+    <date_commande>2021-05-24T00:00:00+02:00</date_commande>
+    <rue_livraison_commande>3 Boulevard Michelet</rue_livraison_commande>
+    <ville_livraison_commande>Marseille</ville_livraison_commande>
+    <code_postale_livraison_commande>13008</code_postale_livraison_commande>
+    <province_livraison_commande>Provence-Alpes-Côte d’Azur</province_livraison_commande>
+    <quantite_bicyclettes_commande>1</quantite_bicyclettes_commande>
+    <quantite_pieces_commande>0</quantite_pieces_commande>
+    <date_livraison_commande>2021-05-28T00:00:00+02:00</date_livraison_commande>
+  </Table>
+  <Table>
+    <num_commande>24</num_commande>
+    <id_particulier>992</id_particulier>
+    <date_commande>2021-05-24T00:00:00+02:00</date_commande>
+    <rue_livraison_commande>Rue Fort du Sanctuaire</rue_livraison_commande>
+    <ville_livraison_commande>Marseille</ville_livraison_commande>
+    <code_postale_livraison_commande>13281</code_postale_livraison_commande>
+    <province_livraison_commande>Provence-Alpes-Côte d’Azur</province_livraison_commande>
+    <quantite_bicyclettes_commande>1</quantite_bicyclettes_commande>
+    <quantite_pieces_commande>0</quantite_pieces_commande>
+    <date_livraison_commande>2021-05-28T00:00:00+02:00</date_livraison_commande>
+  </Table>
+  <Table>
+    <num_commande>25</num_commande>
+    <id_particulier>667</id_particulier>
+    <date_commande>2021-05-18T00:00:00+02:00</date_commande>
+    <rue_livraison_commande>162 Boulevard Mireille Lauze</rue_livraison_commande>
+    <ville_livraison_commande>Marseille</ville_livraison_commande>
+    <code_postale_livraison_commande>13010</code_postale_livraison_commande>
+    <province_livraison_commande>Provence-Alpes-Côte d’Azur</province_livraison_commande>
+    <quantite_bicyclettes_commande>1</quantite_bicyclettes_commande>
+    <quantite_pieces_commande>0</quantite_pieces_commande>
+    <date_livraison_commande>2021-05-18T00:00:00+02:00</date_livraison_commande>
+  </Table>
+  <Table>
+    <num_siret_fournisseur>123</num_siret_fournisseur>
+    <nom_fournisseur>THOMPSON &amp; THOMPSON</nom_fournisseur>
+    <contact_fournisseur>0458795458</contact_fournisseur>
+    <rue_fournisseur>24 Quai de Rive Neuve</rue_fournisseur>
+    <ville_fournisseur>Marseille</ville_fournisseur>
+    <code_postale_fournisseur>13007</code_postale_fournisseur>
+    <province_fournisseur>Provence-Alpes-Côte d’Azur</province_fournisseur>
+    <label_fournisseur>1</label_fournisseur>
+  </Table>
+  <Table>
+    <num_siret_fournisseur>145</num_siret_fournisseur>
+    <nom_fournisseur>COBANYAL BIKES</nom_fournisseur>
+    <contact_fournisseur>0475984285</contact_fournisseur>
+    <rue_fournisseur>3 Rue Frédéric Mistral</rue_fournisseur>
+    <ville_fournisseur>Aix-en-Provence</ville_fournisseur>
+    <code_postale_fournisseur>13100</code_postale_fournisseur>
+    <province_fournisseur>Provence-Alpes-Côte d’Azur</province_fournisseur>
+    <label_fournisseur>2</label_fournisseur>
+  </Table>
+  <Table>
+    <num_siret_fournisseur>378</num_siret_fournisseur>
+    <nom_fournisseur>VELOMANIA</nom_fournisseur>
+    <contact_fournisseur>0487451267</contact_fournisseur>
+    <rue_fournisseur>26 Avenue Clément Ader</rue_fournisseur>
+    <ville_fournisseur>Istres</ville_fournisseur>
+    <code_postale_fournisseur>13800</code_postale_fournisseur>
+    <province_fournisseur>Provence-Alpes-Côte d’Azur</province_fournisseur>
+    <label_fournisseur>3</label_fournisseur>
+  </Table>
+  <Table>
+    <num_siret_fournisseur>452</num_siret_fournisseur>
+    <nom_fournisseur>SERENISSIMO COMMERCIALE SRL</nom_fournisseur>
+    <contact_fournisseur>0445218679</contact_fournisseur>
+    <rue_fournisseur>7 av. du Lac</rue_fournisseur>
+    <ville_fournisseur>Embrun</ville_fournisseur>
+    <code_postale_fournisseur>5200</code_postale_fournisseur>
+    <province_fournisseur>Provence-Alpes-Côte d’Azur</province_fournisseur>
+    <label_fournisseur>2</label_fournisseur>
+  </Table>
+  <Table>
+    <num_siret_fournisseur>512</num_siret_fournisseur>
+    <nom_fournisseur>SUPERBIKE</nom_fournisseur>
+    <contact_fournisseur>0489654123</contact_fournisseur>
+    <rue_fournisseur>523 Rue Sainte-Geneviève</rue_fournisseur>
+    <ville_fournisseur>Avignon</ville_fournisseur>
+    <code_postale_fournisseur>84000</code_postale_fournisseur>
+    <province_fournisseur>Provence-Alpes-Côte d’Azur</province_fournisseur>
+    <label_fournisseur>4</label_fournisseur>
+  </Table>
+  <Table>
+    <num_siret_fournisseur>751</num_siret_fournisseur>
+    <nom_fournisseur>MIRANDA &amp; IRMA, DLA</nom_fournisseur>
+    <contact_fournisseur>0471974521</contact_fournisseur>
+    <rue_fournisseur>16 Rue Frédéric Mistral</rue_fournisseur>
+    <ville_fournisseur>Gignac-la-Nerthe</ville_fournisseur>
+    <code_postale_fournisseur>13180</code_postale_fournisseur>
+    <province_fournisseur>Provence-Alpes-Côte d’Azur</province_fournisseur>
+    <label_fournisseur>1</label_fournisseur>
+  </Table>
+</NewDataSet>
